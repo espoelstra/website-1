@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+Disallow: /demo/
+Sitemap: https://www.helperbird.com/sitemap.xml
