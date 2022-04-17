@@ -2820,7 +2820,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "83aef50c7b2ce9ee0d17f951cd182ea7"
+    "revision": "c55adeccf80d667eccaf43f5ec8ab85f"
   },
   {
     "url": "success-education/index.html",
@@ -2925,6 +2925,10 @@ self.__precacheManifest = [
   {
     "url": "updates/100-1-1/index.html",
     "revision": "a226aa37592671d477a4c774fbb232ad"
+  },
+  {
+    "url": "updates/100-1-3/index.html",
+    "revision": "09253fe7c50603f74aebc70f9244a1e4"
   },
   {
     "url": "updates/24-1-0/index.html",
@@ -3152,7 +3156,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "4372a6d756cf2df754f8b18b942930c0"
+    "revision": "da983c5b028b85a32989c1fceb1076c3"
   },
   {
     "url": "welcome/index.html",
