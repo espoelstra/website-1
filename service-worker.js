@@ -2632,7 +2632,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-login-to-helperbird/index.html",
-    "revision": "87f83dafed2326f26b9b9380d3e89a51"
+    "revision": "88d1b7182a60ec056777f226ed9eb9ab"
   },
   {
     "url": "help/how-to-mute-all-videos-on-any-page/index.html",
