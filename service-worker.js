@@ -899,8 +899,16 @@ self.__precacheManifest = [
     "revision": "5230d42884bbee61427d29b5545e3f70"
   },
   {
+    "url": "assets/images/products/chrome/helperbird-for-google-chrome.png",
+    "revision": "bc023a11adde638e5eddbb0ae897aba1"
+  },
+  {
     "url": "assets/images/products/edge/edge-screenshot.png",
-    "revision": "d34b25fa2e334d09a194c46803a9ef69"
+    "revision": "7ace4268a7d2917669334b5b061edd3d"
+  },
+  {
+    "url": "assets/images/products/firefox/firefox-screenshot.png",
+    "revision": "7ace4268a7d2917669334b5b061edd3d"
   },
   {
     "url": "assets/images/products/google-docs/google-docs-screenshot-of-helperbird.png",
@@ -2300,7 +2308,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "48522ca5e57ab9b8040553576cf1fcb6"
+    "revision": "74264a1355494d197f997c13701ed062"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
@@ -2324,7 +2332,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "fd9ed9a3ec566dc88a05ee5f0f1d1a42"
+    "revision": "0fca57c4b763bd5e7617f5ef53323bd5"
   },
   {
     "url": "edu/index.html",
@@ -2336,7 +2344,7 @@ self.__precacheManifest = [
   },
   {
     "url": "extension/index.html",
-    "revision": "d2229f2a4b609aa2d2c6a55bed28ea78"
+    "revision": "382b179a1df8fc8907ab7dd027e04401"
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
@@ -2504,7 +2512,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "a36a6c290288255d68d0311cfb996ba7"
+    "revision": "9f14fbe659e8d3c86c97b3e2f449e493"
   },
   {
     "url": "googlea4b2e0ff05c168d5.html",
