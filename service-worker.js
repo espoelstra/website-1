@@ -903,6 +903,10 @@ self.__precacheManifest = [
     "revision": "d34b25fa2e334d09a194c46803a9ef69"
   },
   {
+    "url": "assets/images/products/google-docs/google-docs-screenshot-of-helperbird.png",
+    "revision": "dce1707eebe9d27e1e972c5a507c1e58"
+  },
+  {
     "url": "assets/images/products/google-docs/header-google-docs.png",
     "revision": "8aeed6d98942f5b178c9b77343a27c0f"
   },
@@ -2796,7 +2800,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/google-addon/index.html",
-    "revision": "ba1b4bb7d1b3e4ca483539a704166171"
+    "revision": "76dd36d00913a59f0b63988e06fbcf62"
   },
   {
     "url": "products/ipad/index.html",
