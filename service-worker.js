@@ -908,7 +908,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/products/firefox/firefox-screenshot.png",
-    "revision": "7ace4268a7d2917669334b5b061edd3d"
+    "revision": "4d8dab903c6435f5659c6b6da6e298d2"
   },
   {
     "url": "assets/images/products/google-docs/google-docs-screenshot-of-helperbird.png",
@@ -2804,7 +2804,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pricing/index.html",
-    "revision": "63bf3dd7913487ef7cbf74fbab1bee54"
+    "revision": "c3197e198db8fa07cec06608c5bd3090"
   },
   {
     "url": "privacy/index.html",
