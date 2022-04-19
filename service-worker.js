@@ -943,6 +943,10 @@ self.__precacheManifest = [
     "revision": "bbd136bb347f17c503dcde349af577d9"
   },
   {
+    "url": "assets/images/products/ipad-iphone/helperbird-iphone-ipad-screenshot.png",
+    "revision": "d0eccf231536dc9a90bfa7e4ad9a17e0"
+  },
+  {
     "url": "assets/images/products/ipad-iphone/helperbird-running-on-iphone.png",
     "revision": "0abdcdea0b05ce0c62e79bba40f215f3"
   },
@@ -2804,7 +2808,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "359be0ae26a15a75782df15059153a4b"
+    "revision": "35a7708431446996e2e7f5d31398406d"
   },
   {
     "url": "refund/index.html",
