@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "d802d314194cfbf3d5fcc937c677b728"
+    "revision": "5f89d09e329bcb2954274b13835eed82"
   },
   {
     "url": "about/index.html",
-    "revision": "0fc4a1dc123143ccbba84f5a5e91e1d7"
+    "revision": "3c1b291bf26954e49ade04bb5b42fe39"
   },
   {
     "url": "assets/images/apps/chrome.png",
@@ -2308,19 +2308,19 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "d6e020a90136e11aaef3222342689296"
+    "revision": "1eaae4a694812c8cd298964f2f9bbc29"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
-    "revision": "3e9809af42d0da47459cf29a54b4f14a"
+    "revision": "3cfa26d3d0f33cd48049c30fc60ec6d5"
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
-    "revision": "536ae3f16e470a6a799326bc69c5b4f4"
+    "revision": "c009e9898ace21b6e23449a3895251c7"
   },
   {
     "url": "compare/snap-and-read-alternative/index.html",
-    "revision": "5f25551b8ce19cbbbc181521cfe9bbca"
+    "revision": "78e65433c107f5378841622795d994e8"
   },
   {
     "url": "compliance/index.html",
@@ -2332,19 +2332,19 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "e2f03d34be48b42ce95fc960930f1c8f"
+    "revision": "9e9a9e6c7c44129bef633ab0a5afcbaf"
   },
   {
     "url": "edu/index.html",
-    "revision": "d1f0b12491c0a642ebbd9da098ebf6d3"
+    "revision": "e40a17b213091555a381c716ed47c783"
   },
   {
     "url": "enterprise/index.html",
-    "revision": "7ad54c65029d1e925f32b7cda2de3d1a"
+    "revision": "41288a350f98fe92ac2c7b28f9f05ec9"
   },
   {
     "url": "extension/index.html",
-    "revision": "83c6861653af9c7eae5a7b19b9f01d27"
+    "revision": "611c2f5172d9453328131cbe42d51fd1"
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
@@ -2512,7 +2512,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "210816c2779a7a47ab38331910f52419"
+    "revision": "2a265af98e20dcbcbac3ff1457039bbd"
   },
   {
     "url": "googlea4b2e0ff05c168d5.html",
@@ -2812,11 +2812,11 @@ self.__precacheManifest = [
   },
   {
     "url": "products/google-addon/index.html",
-    "revision": "76dd36d00913a59f0b63988e06fbcf62"
+    "revision": "46089f32582198b41342b98a5e53024d"
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "046f6d6475d4336276627b8e4dab68f4"
+    "revision": "9b8fbdd162fce419f0fd28bfb29eddb3"
   },
   {
     "url": "refund/index.html",
