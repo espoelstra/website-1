@@ -2196,7 +2196,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "44613d67defba83a3c7e80528d2bec13"
+    "revision": "178eb93a8b6878f23de500ef7f00f254"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2329,6 +2329,10 @@ self.__precacheManifest = [
   {
     "url": "contact/index.html",
     "revision": "7f27b810e880ff284b0fcb4623b1a0b0"
+  },
+  {
+    "url": "demo/index.html",
+    "revision": "551adbbcff8a174de01c647a759d0b94"
   },
   {
     "url": "edge/index.html",
@@ -2836,7 +2840,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "c55adeccf80d667eccaf43f5ec8ab85f"
+    "revision": "9dde3b6f1767d1c45af4656f3cab4bca"
   },
   {
     "url": "success-education/index.html",
