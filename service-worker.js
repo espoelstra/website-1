@@ -2332,7 +2332,7 @@ self.__precacheManifest = [
   },
   {
     "url": "demo/index.html",
-    "revision": "551adbbcff8a174de01c647a759d0b94"
+    "revision": "e37e45ed37a7dc78257c5ef7ba17a75b"
   },
   {
     "url": "edge/index.html",
