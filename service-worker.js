@@ -2532,259 +2532,259 @@ self.__precacheManifest = [
   },
   {
     "url": "guides/index.html",
-    "revision": "cad4be97570800a30876d0440361f6b9"
+    "revision": "7139cc39dc646404709f91c997366939"
   },
   {
     "url": "help/helperbird-for-google-docs-addon/index.html",
-    "revision": "127f5b6d428eaf10c73493f2887ed13b"
+    "revision": "4328c446c6eda6ab8d082ff91d3f3e28"
   },
   {
     "url": "help/helperbird-for-google-slides-addon/index.html",
-    "revision": "79da3ce221ececde3c313068051dd482"
+    "revision": "8131b7aae4be2e5df24cccb3937a9f6b"
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.html",
-    "revision": "0633cf11dce77b8c7be15782f9491adf"
+    "revision": "8295dbbda3b5f0c03124215450d245b0"
   },
   {
     "url": "help/how-to-add-a-cognitive-load-to-text-on-any-website/index.html",
-    "revision": "d238b8363578e5d3fd2608f3f2aa6b15"
+    "revision": "492c2787f1b6ff0be2eee93813832a38"
   },
   {
     "url": "help/how-to-add-a-overlay-to-any-website/index.html",
-    "revision": "e370b8c6eafab360a0b39be9508209a0"
+    "revision": "8ec6f8c5815ccdf9010591f1c535aa63"
   },
   {
     "url": "help/how-to-adjust-zoom-magnifying-for-any-website/index.html",
-    "revision": "8d17833cda1419e82a457a33a4f9924e"
+    "revision": "29d2b4a3068054fed58664ef9f5a9beb"
   },
   {
     "url": "help/how-to-annotate-any-website-with-sticky-notes/index.html",
-    "revision": "bcf83eb085d7413e0955b8f2af87538b"
+    "revision": "80a69e9de47e76f4000a868231ca9517"
   },
   {
     "url": "help/how-to-auto-scroll-on-any-website-or-app/index.html",
-    "revision": "0882eaf90a68312c64474f7629dc6a4c"
+    "revision": "623512af49117ca7c6b10cf795660b68"
   },
   {
     "url": "help/how-to-cancel-my-helperbird-pro-subscription/index.html",
-    "revision": "8e00c5e48a99fdd29fca1de8ac69f273"
+    "revision": "734559db1d8f57db55571ede3cd01e98"
   },
   {
     "url": "help/how-to-change-the-background-color-of-a-website/index.html",
-    "revision": "371ce8d45ce25b703c82cd934e1cbdb0"
+    "revision": "e54116dc50a624f3f446e53fbbbc70d6"
   },
   {
     "url": "help/how-to-change-the-cursor-size-in-google-chrome-firefox-or-edge/index.html",
-    "revision": "34218d2a49802b6d721d06417ba6c8fe"
+    "revision": "729c1e6abbaa3e57cb4f987c74d0b2ed"
   },
   {
     "url": "help/how-to-change-the-font-color-of-a-website/index.html",
-    "revision": "111040ed56818720d19b7a59b308b323"
+    "revision": "1623907ac7430fa1608dab040b83a882"
   },
   {
     "url": "help/how-to-change-the-font-on-any-page-to-a-dyslexic-font/index.html",
-    "revision": "3a858533d193540a889406949f2a0980"
+    "revision": "4438238e861b4226999e98e1a1166097"
   },
   {
     "url": "help/how-to-change-the-font-on-any-page/index.html",
-    "revision": "58ac054bef1fe738f5aca4278a12f3c3"
+    "revision": "ff93cbf21d5e59cc88e7b8577ea2e105"
   },
   {
     "url": "help/how-to-change-the-font-size-on-any-website/index.html",
-    "revision": "0ef7c4b0f47e37036994107068a34a6d"
+    "revision": "8982b25f12b3b58b01999cd7df6126f5"
   },
   {
     "url": "help/how-to-change-the-highlight-color-of-a-website/index.html",
-    "revision": "019b5d9759b786526dd81e8b3ebd3023"
+    "revision": "82d0b5a528565d9283b1344e7ab965b6"
   },
   {
     "url": "help/how-to-change-the-letter-spacing-on-any-website/index.html",
-    "revision": "56a48efc10ed290f25ba7780e28f52ed"
+    "revision": "2685796bc5a41bea223a46edcc2561e0"
   },
   {
     "url": "help/how-to-change-the-line-height-on-any-website/index.html",
-    "revision": "497718c65ca785d25ef30658bbb9b524"
+    "revision": "88221855139f7aadd0c8e8ec1061571d"
   },
   {
     "url": "help/how-to-change-the-link-color-of-a-website/index.html",
-    "revision": "3b66a59323bbc8a85f4d1e641ed5976d"
+    "revision": "85e295a46d7ee11c98828edbf22f0add"
   },
   {
     "url": "help/how-to-change-the-selection-highlight-color-of-a-website/index.html",
-    "revision": "ac3d8dfe63e08aa3c2f4c3da473128c0"
+    "revision": "dbc3b1dae1a4dc5f56b18670861cc9ab"
   },
   {
     "url": "help/how-to-change-the-text-alignment-on-any-website/index.html",
-    "revision": "350af9cab3659c98621fb058b03eb299"
+    "revision": "dbb21d010324f80c5853ecf2cd2b0d4d"
   },
   {
     "url": "help/how-to-change-the-word-spacing-on-any-website/index.html",
-    "revision": "727dac60b6a05db5e9176cd2091fc470"
+    "revision": "ff6879b436798d5475dadbe3a4a81d9e"
   },
   {
     "url": "help/how-to-count-the-amount-of-words-and-characters-in-a-sentence/index.html",
-    "revision": "6a96cc657275803d398ace6d796ebeb9"
+    "revision": "f8c7f4813233f78c8e905f771bfa623a"
   },
   {
     "url": "help/how-to-deploy-helperbird-to-your-school-or-business/index.html",
-    "revision": "a98cc7b492a01522f3020ba1dfb8f2d2"
+    "revision": "1ed69bfcab92c1917b177becf42611b3"
   },
   {
     "url": "help/how-to-download-helperbird-for-ipad/index.html",
-    "revision": "220da343c7891182a4765e39de45cc51"
+    "revision": "dfe17c8b2532178732600b0141466ca9"
   },
   {
     "url": "help/how-to-download-helperbird-for-iphone/index.html",
-    "revision": "5525d603c86f5ee36f687b6c2526e827"
+    "revision": "82003cdf83dcd81273297c5532767a19"
   },
   {
     "url": "help/how-to-enable-spell-check-on-any-website-or-app/index.html",
-    "revision": "c0e8251652c46da944746a706ddada2e"
+    "revision": "da1186a2091c7f4542c78650484ced3e"
   },
   {
     "url": "help/how-to-extract-text-from-any-image-pdf-or-website/index.html",
-    "revision": "7e4f782510f79f1c14aed32c8ef17dc1"
+    "revision": "20121d4de17928dacfcd90e06e38575e"
   },
   {
     "url": "help/how-to-hide-images-and-gifs-on-every-website/index.html",
-    "revision": "d753e988e43114129865ea3c0c006c6b"
+    "revision": "e44bab4c902c4806f52986853fd8faec"
   },
   {
     "url": "help/how-to-highlight-paragraphs-on-any-page/index.html",
-    "revision": "05faf5217e016b35491528c0d2aa60cf"
+    "revision": "009599469a2b641005e2e0bd120bcf0f"
   },
   {
     "url": "help/how-to-highlight-words-and-paragraphs-on-any-website/index.html",
-    "revision": "6572bf4dcd4dafed3da8b1bacdfa617d"
+    "revision": "a51788dae517c1a3ffa3b04505d9ce83"
   },
   {
     "url": "help/how-to-login-to-helperbird/index.html",
-    "revision": "795899d02be22a330f91eed97d2f37e9"
+    "revision": "97af58055d912956aa3775997f84b6c6"
   },
   {
     "url": "help/how-to-mute-all-videos-on-any-page/index.html",
-    "revision": "63290126f60607aafa5a1fb7548a8730"
+    "revision": "6fc32a8e3a66d038fc40bde159207d3c"
   },
   {
     "url": "help/how-to-pause-helperbird/index.html",
-    "revision": "b062108e6addfd43ec48dc13aeb52bf7"
+    "revision": "e3560f559691e5e44d2a1d38e760c87d"
   },
   {
     "url": "help/how-to-pin-a-chrome-extension/index.html",
-    "revision": "c27117df81d3807abf259cca7c5d31e0"
+    "revision": "3e1bea1d468e403b55c30c60a1b80c0c"
   },
   {
     "url": "help/how-to-print-a-website-with-helperbird/index.html",
-    "revision": "894e49bfdd7e4abfb348160617927d27"
+    "revision": "a4ed0bf345fb682f3bdab9699e4dabab"
   },
   {
     "url": "help/how-to-set-the-column-width-on-any-page/index.html",
-    "revision": "9bc90a53c2b31eca6f72b85151530085"
+    "revision": "213f1ea13a5acc71d01db0ee26eb0ea7"
   },
   {
     "url": "help/how-to-set-the-paragraph-width-on-any-page/index.html",
-    "revision": "03abf9990b47bf24dcc17b517302ee42"
+    "revision": "4a209be8b98b4ddff9e34e7984f465d1"
   },
   {
     "url": "help/how-to-show-alt-tags-on-hover-tooltip/index.html",
-    "revision": "81aab4352dfd7e4c0cecd42750933a91"
+    "revision": "04400ebbfe56537e5a9deeb29e6e16ad"
   },
   {
     "url": "help/how-to-stop-animations-on-any-website/index.html",
-    "revision": "0af544fd9d99c0effa9116517397be97"
+    "revision": "4e63942f875f63e7e34d19b3400c2b8e"
   },
   {
     "url": "help/how-to-translate-a-whole-page-or-selected-text-on-any-website/index.html",
-    "revision": "78f974f6e242b46c0f6aa9671d9f3aa2"
+    "revision": "6da81ccfa840fb229fb5823d33259934"
   },
   {
     "url": "help/how-to-turn-helperbird-on/index.html",
-    "revision": "dfb88846fd73e31bd3f87c976efd238e"
+    "revision": "6de0727f9392a281925452bc56f37428"
   },
   {
     "url": "help/how-to-use-a-dyslexia-ruler-on-any-website/index.html",
-    "revision": "c0f31955a957ecfba0dbfe1d40de5216"
+    "revision": "555a18de75640c05b0c5ef38c2da342d"
   },
   {
     "url": "help/how-to-use-a-line-focus-on-any-website/index.html",
-    "revision": "eb77b8de84bda9e1e92d9c83afabc0cd"
+    "revision": "762b62c7ce79681fc97ef4f0436a72cd"
   },
   {
     "url": "help/how-to-use-a-reading-guide-on-any-website/index.html",
-    "revision": "fdc833d3edae3e2e72504d0be019d6c2"
+    "revision": "0e5b2d08fe982ad6c337fe97a22c6a65"
   },
   {
     "url": "help/how-to-use-dictionary-app-in-helperbird/index.html",
-    "revision": "b7c83da7f0eba2730fb126763bd31f14"
+    "revision": "e518142472ed27c524f6580f6dc2fd75"
   },
   {
     "url": "help/how-to-use-helperbirds-color-blind-features-on-websites/index.html",
-    "revision": "c4f11a73d4e2ee3d23e0e958a5f936ee"
+    "revision": "373c607bbe2f9d57b69032b073c8a964"
   },
   {
     "url": "help/how-to-use-helperbirds-high-contrast-features/index.html",
-    "revision": "fcdcb6de0ae8e7adab406354ddbf9e50"
+    "revision": "347282adce5c791914e0ae353e917cb7"
   },
   {
     "url": "help/how-to-use-helperbirds-reading-list-app/index.html",
-    "revision": "cb843a1b25505f04adfb2fd4e114fc86"
+    "revision": "1ca9ac1fba9010ec821e8ef28c35f586"
   },
   {
     "url": "help/how-to-use-immersive-reader-on-any-website/index.html",
-    "revision": "1316426838ff0c2b73556d27f66a08a6"
+    "revision": "631dcc86fda8a88357162f69e97f03e0"
   },
   {
     "url": "help/how-to-use-my-subscription-key/index.html",
-    "revision": "045012904bfaa693a48d5609c3bfa648"
+    "revision": "e0147f905e383fa88da3340e216a1d7c"
   },
   {
     "url": "help/how-to-use-reader-mode-and-remove-ads-on-any-website/index.html",
-    "revision": "20db86759428e3efc3678068dece1626"
+    "revision": "d68cbc1604f74e39006868dadb5197de"
   },
   {
     "url": "help/how-to-use-speech-to-text-or-dictation-on-any-website/index.html",
-    "revision": "426e9e28d7683bb734fa1ef8191f93cd"
+    "revision": "04b56ec63b5a9dbc40ef8ba1d3a37f35"
   },
   {
     "url": "help/how-to-use-text-to-speech-on-any-website/index.html",
-    "revision": "0ec1889fd090b7d21c248ec6b14419f5"
+    "revision": "31c03c280658044fb20445eae0dcdca7"
   },
   {
     "url": "help/how-to-use-the-helperbird-pdf-support/index.html",
-    "revision": "d147313756cb447f7969f2f58276abcb"
+    "revision": "c9b37171c2001c576d00de32fe5d779e"
   },
   {
     "url": "help/how-to-use-the-quick-action-area-to-improve-accessibility-on-the-web/index.html",
-    "revision": "95a4b07b1d9f547cddeb9632441c98e3"
+    "revision": "3baa84a78c096e5be33b5301aa4473b0"
   },
   {
     "url": "help/how-to-use-word-prediction-on-any-website-or-google-docs/index.html",
-    "revision": "cdc8e48d9e428cb3d2972cc88993e863"
+    "revision": "f724101865c70be7d00e75d75ff987ac"
   },
   {
     "url": "help/index.html",
-    "revision": "e23e604c2f43c4de675708e8ddaed005"
+    "revision": "7953b5d8eee17d6f288c7ac0c93edb1e"
   },
   {
     "url": "help/installing-helperbird/index.html",
-    "revision": "a59ac6f37a17eff52f8fd223e0ae2307"
+    "revision": "30c8332862c362eceb26754b74941fde"
   },
   {
     "url": "help/manage-my-helperbird-pro-subscription/index.html",
-    "revision": "76a5ed53fdbd242ec23e7a64192f7a7c"
+    "revision": "e78fbf261068567caceb2e84b53872dd"
   },
   {
     "url": "help/what-is-helperbird-free/index.html",
-    "revision": "0e42e7c2c6e7cfc510c3f8370be2cb25"
+    "revision": "746fdde7a834262e4155fecb1cf0bdf8"
   },
   {
     "url": "help/what-is-helperbird-pro/index.html",
-    "revision": "b46af53ee1685a3ce51087022ada0cbb"
+    "revision": "2d11e73b1bdf73a2d7d06566e06002f7"
   },
   {
     "url": "help/what-is-helperbird-unlimited/index.html",
-    "revision": "02527474f9be6235f210aee24d52128f"
+    "revision": "49793c88a4c46f0947226e4651c90403"
   },
   {
     "url": "in-the-news/index.html",
@@ -2848,7 +2848,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "b61b8039e5c896fdbeea394eab2efd24"
+    "revision": "24bc730c80c141cfd07b353c16a9ef50"
   },
   {
     "url": "success-education/index.html",
@@ -2916,7 +2916,7 @@ self.__precacheManifest = [
   },
   {
     "url": "tutorials/index.html",
-    "revision": "978d13f42c58fe7ddeca52aa1ccdcdd7"
+    "revision": "24bca46f023ab02216176c803e06b981"
   },
   {
     "url": "updates/100-0-0/index.html",
