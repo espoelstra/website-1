@@ -2215,6 +2215,14 @@ self.__precacheManifest = [
     "revision": "1ed899c75ba72f463d77686890abe3c6"
   },
   {
+    "url": "blog/accessibility-tips-for-epilepsy/index.html",
+    "revision": "18f352a878894c4b6530fb6a2cd6d424"
+  },
+  {
+    "url": "blog/benefits-of-ipads-in-the-classroom/index.html",
+    "revision": "5bd02f4fe823d81f165241c92a22ca12"
+  },
+  {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
     "revision": "9a1faff69ec2d5fe264f893283b96be6"
   },
@@ -2840,7 +2848,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "9dde3b6f1767d1c45af4656f3cab4bca"
+    "revision": "19ee271c38d72b2140dbc6befd607eba"
   },
   {
     "url": "success-education/index.html",
