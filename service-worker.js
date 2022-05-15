@@ -2224,39 +2224,39 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
-    "revision": "573d700b1ebcf5456ac3a1910d048551"
+    "revision": "b9bc62b5eeabb25e2d0df1b63fe8cb70"
   },
   {
     "url": "blog/giveaway-rules/index.html",
-    "revision": "16d520ed4a5d05c3fb576c9ec057fc65"
+    "revision": "e043e0765abe17a4322ab60e6419762a"
   },
   {
     "url": "blog/helperbirds-winner-of-the-2021-chromebook/index.html",
-    "revision": "4a61b098a50baf589e302f51af31efd0"
+    "revision": "41b82bdf4b1de5a1b36892b4583f562b"
   },
   {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.html",
-    "revision": "9d3c488a527d82e1c79c891fa856b845"
+    "revision": "f923eaee6052be394eb916d3db9960cd"
   },
   {
     "url": "blog/how-to-deploy-apps-and-extensions-through-the-google-admin-console/index.html",
-    "revision": "006a2b55c6e74e87299c4378f06cc7c2"
+    "revision": "cd324b983ea8b6fed5ffa4c6fee016c2"
   },
   {
     "url": "blog/how-to-install-and-set-up-helperbird/index.html",
-    "revision": "052367fb6912f040edcea116978308d8"
+    "revision": "661212af5683d9a3709f3eb74b5310ef"
   },
   {
     "url": "blog/how-to-install-helperbird-in-edu-accounts/index.html",
-    "revision": "be763e4892463c21f0d22cc97a05a7e9"
+    "revision": "e0fadef89af96c6568ec5b24f038eff1"
   },
   {
     "url": "blog/how-to-keep-wfh-employees-engaged-and-motivated/index.html",
-    "revision": "e0c91c938ccf8594ed92da6080f37436"
+    "revision": "6dde07dd62d61c150dad00456557eae1"
   },
   {
     "url": "blog/how-to-use-immersive-reader-in-google-docs/index.html",
-    "revision": "36809778709e69e3eb3b8cd65179ce0c"
+    "revision": "9c0a471f6c0df3da1a81b5a2a33b9831"
   },
   {
     "url": "blog/index.html",
@@ -2264,11 +2264,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
-    "revision": "5af13b8c31341cc477f538121ca87841"
+    "revision": "9206977a9d263eafe7ba760ea8a309f3"
   },
   {
     "url": "blog/is-helperbird-free/index.html",
-    "revision": "2392a0dba298fafb7ca4bdce1c212143"
+    "revision": "5d38eefde6420ddb3dbe59d3432579b6"
   },
   {
     "url": "blog/is-helperbird-safe/index.html",
@@ -2276,39 +2276,39 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/positive-thoughts-might-benefit-dyslexic-students/index.html",
-    "revision": "2d2aba66c26f9d1eadfee19c9276e09b"
+    "revision": "72d2e248089f03e01ef4efd648c1de17"
   },
   {
     "url": "blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia/index.html",
-    "revision": "577fe04c591ce51dcd07a4fa5317ba57"
+    "revision": "505bf8499b9155dc4f398112d172b0fc"
   },
   {
     "url": "blog/signin/index.html",
-    "revision": "2cdfdb8e365ee132587bea69b0cf3a7b"
+    "revision": "e5fab0cf812a6e21e374a9b4d639d110"
   },
   {
     "url": "blog/stay-on-task-8-productivity-tips-to-help-you-stay-focused-at-work/index.html",
-    "revision": "e4b48215ce1514fcbf3287f65aaaea60"
+    "revision": "e0a803edc55b64098427c19338909a68"
   },
   {
     "url": "blog/teacher-appreciation-week-2020-dyslexia-story/index.html",
-    "revision": "0887801fbd43decd6e08a041d15664e2"
+    "revision": "6d9b5a57bbf4037e1721d07ef2be1399"
   },
   {
     "url": "blog/thanksgiving-message-from-helperbird/index.html",
-    "revision": "e3ad106d89d2171b97128426d49c6247"
+    "revision": "e298cf45ff6d39d95e8f1315396527e7"
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.html",
-    "revision": "82174cbf6c2972d5e55d61b938101a13"
+    "revision": "06fe498ed74af0e2ef184e7e1fdc015e"
   },
   {
     "url": "blog/three-facts-about-dyslexia/index.html",
-    "revision": "e28d1b9f86a99d75d259c88994684418"
+    "revision": "6227f5dab6d7588a9f116831ea6d834c"
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.html",
-    "revision": "5f53414c20d0c0535690e98f05bc7be4"
+    "revision": "2c04c51b8240cf24bc468e1325b68062"
   },
   {
     "url": "blog/tv-and-movie-characters-with-dyslexia/index.html",
