@@ -2235,6 +2235,10 @@ self.__precacheManifest = [
     "revision": "41b82bdf4b1de5a1b36892b4583f562b"
   },
   {
+    "url": "blog/how-to-add-extensions-to-safari/index.html",
+    "revision": "d2879a4e538b6ef86633785b6e683ebe"
+  },
+  {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.html",
     "revision": "f923eaee6052be394eb916d3db9960cd"
   },
@@ -2317,6 +2321,10 @@ self.__precacheManifest = [
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.html",
     "revision": "2c04c51b8240cf24bc468e1325b68062"
+  },
+  {
+    "url": "blog/top-ipad-apps-for-accessibility/index.html",
+    "revision": "4122bd027aedf12e8407578be03c519f"
   },
   {
     "url": "blog/tv-and-movie-characters-with-dyslexia/index.html",
@@ -2856,7 +2864,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "9c1237614a700d815d597d79cc74a02e"
+    "revision": "2db0173c900c32c9a661289b17bc725f"
   },
   {
     "url": "success-education/index.html",
