@@ -2196,7 +2196,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "47ef15fc6b7fd631f8d383941f2f9316"
+    "revision": "86b28be3d331ecfcc0ecfaf9d8f6a7c1"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2305,6 +2305,10 @@ self.__precacheManifest = [
   {
     "url": "blog/three-facts-about-dyslexia/index.html",
     "revision": "6227f5dab6d7588a9f116831ea6d834c"
+  },
+  {
+    "url": "blog/top-5-productivity-microsoft-edge-extensions/index.html",
+    "revision": "9c844152f2a087b253e7303d40e305f7"
   },
   {
     "url": "blog/top-6-chrome-extensions-for-teachers/index.html",
@@ -2852,7 +2856,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "d573c1e136ba8d158417aa5a315287f2"
+    "revision": "9c1237614a700d815d597d79cc74a02e"
   },
   {
     "url": "success-education/index.html",
