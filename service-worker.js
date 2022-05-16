@@ -2220,7 +2220,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/benefits-of-ipads-in-the-classroom/index.html",
-    "revision": "e66a65690b29ebafcb5391130a37758b"
+    "revision": "2ab0b31bcd257c7574a5339d6cb83615"
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
@@ -2305,6 +2305,10 @@ self.__precacheManifest = [
   {
     "url": "blog/three-facts-about-dyslexia/index.html",
     "revision": "6227f5dab6d7588a9f116831ea6d834c"
+  },
+  {
+    "url": "blog/top-6-chrome-extensions-for-teachers/index.html",
+    "revision": "8de2bac185cd6a917686a87ba9087e0c"
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.html",
@@ -2848,7 +2852,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "7f4a9d77d1027843eb1bea3fb784bd46"
+    "revision": "d573c1e136ba8d158417aa5a315287f2"
   },
   {
     "url": "success-education/index.html",
