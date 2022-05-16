@@ -2327,8 +2327,16 @@ self.__precacheManifest = [
     "revision": "4122bd027aedf12e8407578be03c519f"
   },
   {
+    "url": "blog/top-productivity-extensions-for-safari/index.html",
+    "revision": "cf19dc7e646554624b294215af2eedd5"
+  },
+  {
     "url": "blog/tv-and-movie-characters-with-dyslexia/index.html",
     "revision": "fe218904f236158cf7f2112b8a2d86ff"
+  },
+  {
+    "url": "blog/what-is-coppa-and-ferpa/index.html",
+    "revision": "3c550a8a2a3e0a1548f3067cece4bfb3"
   },
   {
     "url": "chrome/index.html",
@@ -2864,7 +2872,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "2db0173c900c32c9a661289b17bc725f"
+    "revision": "2f45c9876d33a7c67dcaf44153c2c638"
   },
   {
     "url": "success-education/index.html",
