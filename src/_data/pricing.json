@@ -8,6 +8,13 @@
             "student": true
         },
         {
+            "feature": "Speed reading",
+            "free": true,
+            "pro": true,
+            "unlimited": true,
+            "student": true
+        },
+        {
             "feature": "Dyslexia fonts",
             "free": true,
             "pro": true,
