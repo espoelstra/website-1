@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/css/help.css",
-    "revision": "187264b6476ba050b2208115b211ad83"
+    "revision": "01b1c5caa9f836df3671bb96c98ef58f"
   },
   {
     "url": "assets/css/styles.css",
@@ -2272,7 +2272,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "947dea0872b253484d6a899d39adac5a"
+    "revision": "256a5b6c48cc6a793d834597d8c22d8a"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2340,7 +2340,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "805374a3e62aec08883f375754ae2fbe"
+    "revision": "bf35542da235460a504a6802fdbe0e18"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2636,7 +2636,7 @@ self.__precacheManifest = [
   },
   {
     "url": "guides/index.html",
-    "revision": "2b41494ce014222a5ed3f86713ed07c8"
+    "revision": "18d48ba3a4e3c62304b0b623272a114b"
   },
   {
     "url": "help/enable-browser-sync-chrome-and-edge/index.html",
