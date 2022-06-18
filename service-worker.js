@@ -2416,7 +2416,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "bc0e546f069d7949d65407ace627e624"
+    "revision": "d2b06bd9dafcfb82742a2a3bee4eb0d7"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
@@ -2444,7 +2444,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "803f975a1f47f1988f13b1cae3019dc5"
+    "revision": "94503df8b6751d559ad023ec88a9ba7f"
   },
   {
     "url": "edu/index.html",
@@ -2452,175 +2452,175 @@ self.__precacheManifest = [
   },
   {
     "url": "extension/index.html",
-    "revision": "7221a676d4e34259e08fa0027b8f396d"
+    "revision": "be09f55d8fea9e6a615a72e6fa7d0f78"
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
-    "revision": "ceec205e3b198886f467dabe5b8bcc01"
+    "revision": "e1846d55ace64e8f2ed6373a95d1b99d"
   },
   {
     "url": "features/alt-tool-tip-highlighter/index.html",
-    "revision": "95511f4ee29e361b3489ed293811ec7b"
+    "revision": "5079877f6712fbf44d9f3aed067b3cbb"
   },
   {
     "url": "features/analyze/index.html",
-    "revision": "0688102a761affef12fa128f4dd55b76"
+    "revision": "b9655633130bddd2f7558a0effe9fd62"
   },
   {
     "url": "features/annotation/index.html",
-    "revision": "66d3b47489cc3764320f8c46f28fcfac"
+    "revision": "5128a96e326a1ca13797a44e3d826d9b"
   },
   {
     "url": "features/auto-scroll/index.html",
-    "revision": "e96e863652535f108307cd86a5939c7a"
+    "revision": "49f6b45431a1f86b2ae84cae4ac007d7"
   },
   {
     "url": "features/bookmarks/index.html",
-    "revision": "ae2cce07454cf3614f65f4462927e2b2"
+    "revision": "c38b87da4130a6715aeea4c1606bc48c"
   },
   {
     "url": "features/cognitive-load/index.html",
-    "revision": "7d7fc726e5b14533dea0f1e98296ce2b"
+    "revision": "279470afb94364328e19540acb00ae9c"
   },
   {
     "url": "features/color-blindness/index.html",
-    "revision": "61c3d95191a925a4b4bc089d7bdf5a82"
+    "revision": "86eedb03d3a8c961d17f11e2554b8943"
   },
   {
     "url": "features/cursor-control/index.html",
-    "revision": "76c6783deee1163cda8fa89a0aa0ca58"
+    "revision": "be7425ee000335f70fc971091ac6a588"
   },
   {
     "url": "features/dictionary/index.html",
-    "revision": "bd63df888631d61a437524a0dad3b24e"
+    "revision": "d16cfd0a9a81ba6b28d31fe0e83a727d"
   },
   {
     "url": "features/editor/index.html",
-    "revision": "9a11901e204384ae5308233278c4982b"
+    "revision": "e50b56d6bbc6f53e78b8ef8c8a6f7805"
   },
   {
     "url": "features/font-sizes/index.html",
-    "revision": "5184bbc8c91bd50d7d640563c61e3ffa"
+    "revision": "8103293aee7eae590407c331c2cc0922"
   },
   {
     "url": "features/google-translate/index.html",
-    "revision": "874d815d65d039d77cd9d07b520c8606"
+    "revision": "8b335f5a38f4827140c52a17170febe1"
   },
   {
     "url": "features/gray-hue-overlay/index.html",
-    "revision": "a97d6a75f90afbe036b8be4efd7e035f"
+    "revision": "d60edba5424b7d421cab0556bf376fcb"
   },
   {
     "url": "features/hide-images/index.html",
-    "revision": "97c8f210471d04f1edb6652ddaff52e5"
+    "revision": "4e2f7bc2981d776d6715690cbbc8f968"
   },
   {
     "url": "features/high-contrast/index.html",
-    "revision": "08f61287bd0b7079fb95c92fff20d2b1"
+    "revision": "ff98609f73bcabef10df22b28bc7d7d4"
   },
   {
     "url": "features/highlight-paragraphs/index.html",
-    "revision": "b3bf4995d7959b4327b08e9a89528b08"
+    "revision": "f8e76aa8e20c5c67e8756f03ee9384ea"
   },
   {
     "url": "features/immersive-reader-for-chrome/index.html",
-    "revision": "8f4fa73b3f57a588a6d2725fcdec3982"
+    "revision": "7d5ad76e2abafb6e3c92970369f70ff1"
   },
   {
     "url": "features/index.html",
-    "revision": "6f7f713f7742e70082e2fcbdc4c9d7f2"
+    "revision": "17ae82db747c775488b5ad75fcd1c048"
   },
   {
     "url": "features/mute-videos/index.html",
-    "revision": "1a64087e3725dce5a1327412b92584fd"
+    "revision": "4b796106c2ede5995f5b1db9563e9919"
   },
   {
     "url": "features/notes/index.html",
-    "revision": "3de1a5abe981120fc539ae8d47aef6bc"
+    "revision": "578e2a7af9d7fef1992f24e94399f727"
   },
   {
     "url": "features/optical-character-recognition/index.html",
-    "revision": "f79de749976705860cca88c309dac163"
+    "revision": "ac8b30b8d2d32f0b3928b01d4296d6db"
   },
   {
     "url": "features/overlay/index.html",
-    "revision": "09cd33064a8dc9f8616d4d7c888d253c"
+    "revision": "82a93de3d082c7d6832e85e9cd1369ed"
   },
   {
     "url": "features/paragraph-widths/index.html",
-    "revision": "98ef2798d016862784eef282bcfbc53e"
+    "revision": "f600fa4acf2e9ba67e7b20c5b22484fe"
   },
   {
     "url": "features/pdfs/index.html",
-    "revision": "32f1d772a278b1b3d50a265b5eb0d9c6"
+    "revision": "30a28ecae7218721717f2eb062e44d8b"
   },
   {
     "url": "features/printing-tool/index.html",
-    "revision": "d8fb2fe85af40482b7cd4dc6e5c8bcd9"
+    "revision": "d929fc56fb4e64dd5eb8fc7b692095b0"
   },
   {
     "url": "features/privacy/index.html",
-    "revision": "1a9e162fa9ba85027e8ad07ddb00d143"
+    "revision": "d1a77aae863f4738873e77c19bac6cbd"
   },
   {
     "url": "features/reader-mode-for-chrome-and-firefox/index.html",
-    "revision": "83fcfcedd3701772990f947bc44f3ecf"
+    "revision": "76cfc9cf97cafca8543067244e78ff27"
   },
   {
     "url": "features/reading-guide/index.html",
-    "revision": "a040a5697a4b2beb7d34799d50a7a4a3"
+    "revision": "220cfc28b6112de04b64947232392d14"
   },
   {
     "url": "features/ruler/index.html",
-    "revision": "9d97ba5ea44b894b730bd9f879760895"
+    "revision": "18abd0f0faf6893833d2009a508c55f3"
   },
   {
     "url": "features/screenshot/index.html",
-    "revision": "bc2f4dc50bb549c5dfe51d79c12a44ef"
+    "revision": "37cb9eb0456cffae18010a75e3e243b4"
   },
   {
     "url": "features/shortcuts/index.html",
-    "revision": "0915bffd1b908971c1fc74cdffbc6b9a"
+    "revision": "67193157223690fa3ef1a7989bc8e853"
   },
   {
     "url": "features/specialised-dyslexic-fonts/index.html",
-    "revision": "0a4eeb2cd7b7e3d059b82fed50ea735b"
+    "revision": "d4e46f3ca0a0bbc810143b08a00a4805"
   },
   {
     "url": "features/speech-to-text/index.html",
-    "revision": "b89418010d3cc762bd08fac8f2bf7e02"
+    "revision": "c2f9a5aff2fe3487e14b6ddb8de2884d"
   },
   {
     "url": "features/speed-reading-extension/index.html",
-    "revision": "f68306cfa793ea3990973178791161a7"
+    "revision": "5bc532b1cea2f85bd8502e49fc2840bd"
   },
   {
     "url": "features/spell-check/index.html",
-    "revision": "1070d38be933fa7d73e2b4d2cf15f31e"
+    "revision": "1f7b54b6eb7af896baf956d57ded79fc"
   },
   {
     "url": "features/styles/index.html",
-    "revision": "ce37a9fea176dd838fec9a513f1c408f"
+    "revision": "66d871d0afb439b8f186e13233b1c86d"
   },
   {
     "url": "features/summarizing-tool/index.html",
-    "revision": "133ecdedbf19d155848a5b6b259cb077"
+    "revision": "2249bb3cb44f8446535561703948c016"
   },
   {
     "url": "features/text-align/index.html",
-    "revision": "693b599048cb1fd772dd1cca7bd13b6b"
+    "revision": "cd9d3e093c3bd24a806aed6e44de0d05"
   },
   {
     "url": "features/text-to-speech/index.html",
-    "revision": "ccb7db292fd247250c420d14587856f8"
+    "revision": "01358bb980b15ba8461248d5a41f1fea"
   },
   {
     "url": "features/word-prediction/index.html",
-    "revision": "43b503faa2c3434153486d6bfc9418c9"
+    "revision": "1b093a3f10c90f680ff1d51e3ac5c50d"
   },
   {
     "url": "features/zoom/index.html",
-    "revision": "d65802bbb04819217d685c0ae5014849"
+    "revision": "6067c608887a474c806179e2d2b60227"
   },
   {
     "url": "feedback/index.html",
@@ -2628,7 +2628,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "5f48f3941541edcc180f98312b5230b3"
+    "revision": "e75cd1ee32f3ba045186cc38381b7ccd"
   },
   {
     "url": "googlea4b2e0ff05c168d5.html",
@@ -2904,7 +2904,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e92385c5651971613c42c157b810337a"
+    "revision": "b609e1d92187436a278cd4080d840a9a"
   },
   {
     "url": "login/index.html",
@@ -2940,7 +2940,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "00a6996799ff2bf5515369853bfa7695"
+    "revision": "64b7b9ab95f86b29afe8f2595c5a278a"
   },
   {
     "url": "refund/index.html",
