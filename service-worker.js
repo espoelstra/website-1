@@ -2272,7 +2272,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "d354c26ea3de9e52d756e66c0d948ef7"
+    "revision": "f6e71fd0922721c9d4a2d92c5849d920"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2928,7 +2928,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pricing/index.html",
-    "revision": "cc3775c8c90758737d296f4de8cdcfa4"
+    "revision": "6eeb12c8bbe2ddb3fdc2968a388551e7"
   },
   {
     "url": "privacy/index.html",
