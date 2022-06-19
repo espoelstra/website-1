@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "18218a9ae89036c2221976adbdc03897"
+    "revision": "51e875c727575882c8ae93a7d58e3e6d"
   },
   {
     "url": "assets/css/blog.css",
@@ -2272,7 +2272,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "830ef3c8032f0dd2dc8fe0e611570d7c"
+    "revision": "d354c26ea3de9e52d756e66c0d948ef7"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2340,7 +2340,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "c1fc4511c3c4e3a33bea12eebb836c5f"
+    "revision": "0083daf8e20582254af995b10ae1d6da"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
