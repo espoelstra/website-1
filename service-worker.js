@@ -2272,7 +2272,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "bceebcdc637b43d2844b10e929a05ce4"
+    "revision": "0fa575de021a22f667580b50a8eabbd6"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2876,7 +2876,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/index.html",
-    "revision": "2ed046472febfe292a44d161ffdd6d75"
+    "revision": "2eefb4462ec0479eeaca019f4338b637"
   },
   {
     "url": "help/installing-helperbird/index.html",
