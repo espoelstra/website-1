@@ -2528,7 +2528,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/index.html",
-    "revision": "0b5ec27dc2d7a22574cd5f71e21afa75"
+    "revision": "8b712ed972039d88f1a9dedcb1e942ac"
   },
   {
     "url": "features/mute-videos/index.html",
