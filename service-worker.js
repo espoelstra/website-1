@@ -2880,7 +2880,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/installing-helperbird/index.html",
-    "revision": "f6e891cce7a0954f6ddf659fcf6f4442"
+    "revision": "65454dfa3a5acebe450b3f63a35f7953"
   },
   {
     "url": "help/manage-my-helperbird-pro-subscription/index.html",
