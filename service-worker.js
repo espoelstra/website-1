@@ -2340,7 +2340,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "d8e4b2e7a0c0d7c197b424e3a6fc2f6c"
+    "revision": "1ebe3d2869cb6efc0377ec8f0f3bd4f8"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2827,6 +2827,10 @@ self.__precacheManifest = [
     "revision": "0fdfcab0aa455df3134af31dc1e6d03b"
   },
   {
+    "url": "help/how-to-use-helperbird-accessibility-features/index.html",
+    "revision": "ea6e30d52d2ba12bc2a57d120c758e23"
+  },
+  {
     "url": "help/how-to-use-helperbirds-color-blind-features-on-websites/index.html",
     "revision": "627f687d980f206f4d9cde4dd2af386b"
   },
@@ -2960,7 +2964,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "b3ef2b02f709985034d03aba548d4c33"
+    "revision": "a035d490b6d34c8008412e1c4fdbe37f"
   },
   {
     "url": "success-education/index.html",
@@ -3081,6 +3085,10 @@ self.__precacheManifest = [
   {
     "url": "updates/100-6-1/index.html",
     "revision": "c5fc889fd2cfbc2890edfa3d2a498887"
+  },
+  {
+    "url": "updates/101-0-0/index.html",
+    "revision": "dbf917dacbd5de2cd3bd2eb0b02add07"
   },
   {
     "url": "updates/24-1-0/index.html",
@@ -3308,7 +3316,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "ef090f4e700d185407a618f1e95fcf96"
+    "revision": "455bd3c9682f55321fc847a568793e55"
   },
   {
     "url": "welcome/index.html",
