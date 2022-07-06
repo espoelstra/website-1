@@ -2267,6 +2267,10 @@ self.__precacheManifest = [
     "revision": "0f37613162c5ccd284a292aaaf52e85b"
   },
   {
+    "url": "assets/images/updates/kingfisher/notes.png",
+    "revision": "68f361967a160cc3b3a6cd1bb8444c2a"
+  },
+  {
     "url": "assets/images/updates/kingfisher/paragraphs.png",
     "revision": "5bfac9e5a80ffcac27909f253301226a"
   },
@@ -2277,6 +2281,10 @@ self.__precacheManifest = [
   {
     "url": "assets/images/updates/kingfisher/rulers.png",
     "revision": "52f913cee83420ec378593cbae4d85e0"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/search.png",
+    "revision": "7636d6660d85de257f4bcd03a53af33b"
   },
   {
     "url": "assets/images/updates/kingfisher/speed.png",
@@ -3000,7 +3008,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "29d4da182107539e503ca64e62bda4c5"
+    "revision": "25275bc30da801ae16cada92c05e5868"
   },
   {
     "url": "success-education/index.html",
@@ -3072,287 +3080,287 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/100-0-0/index.html",
-    "revision": "b9e8343b6560c522e93ac7f435533e98"
+    "revision": "d87d5e207ce88e84735037f285c7cc63"
   },
   {
     "url": "updates/100-0-1/index.html",
-    "revision": "198873964b52db22bfbe9f8ec1275a8f"
+    "revision": "96c5a5e29bd6654cd1344dfe88ba41ea"
   },
   {
     "url": "updates/100-0-3/index.html",
-    "revision": "fca59a12aecead445d1e36a78ca0f01c"
+    "revision": "22fee2b75174cc6095db2a7ae4980cf6"
   },
   {
     "url": "updates/100-0-4/index.html",
-    "revision": "4a0e568a9cba91bbaccc118d5ad2c6ee"
+    "revision": "3e37704a8af8ba048754d8a453fc722c"
   },
   {
     "url": "updates/100-0-5/index.html",
-    "revision": "092fed64671020e258e8f8bfe8e0d8fd"
+    "revision": "babd827ef33bc1d6af2100ff03316cc9"
   },
   {
     "url": "updates/100-0-6/index.html",
-    "revision": "b27a81ab66f92d64022dc8b89988523b"
+    "revision": "13a898cd945d087a7017db1d76a6b7e0"
   },
   {
     "url": "updates/100-0-7/index.html",
-    "revision": "a6cdfb293f2ea0d41d48ed61c5caee1f"
+    "revision": "2dd8767aa8d099762ddd870c84cb2638"
   },
   {
     "url": "updates/100-1-0/index.html",
-    "revision": "1b1b1e7205465f30ff78f8c8d059cda2"
+    "revision": "f774717870248a90d4563929534992bb"
   },
   {
     "url": "updates/100-1-1/index.html",
-    "revision": "9089e68add62cfbfbef8bf0d27fc7f92"
+    "revision": "23edbc3f2bdc97977113986f824b9ac9"
   },
   {
     "url": "updates/100-1-3/index.html",
-    "revision": "4f3ae61382e16ff7514281db23b318da"
+    "revision": "15d4753897d37d3a60213a798a727e6b"
   },
   {
     "url": "updates/100-5-0/index.html",
-    "revision": "3c40f6f3b226b50606f8394a028b54d3"
+    "revision": "ae357200d27fa288ac22df0a8b70a030"
   },
   {
     "url": "updates/100-6-0/index.html",
-    "revision": "4409cdad18ea6a627953851e6bf29c94"
+    "revision": "8420f47f15f89f56100c85929230f785"
   },
   {
     "url": "updates/100-6-1/index.html",
-    "revision": "c5fc889fd2cfbc2890edfa3d2a498887"
+    "revision": "03b35209d1ac82288f001e81cd3ff8b8"
   },
   {
     "url": "updates/24-1-0/index.html",
-    "revision": "5350e16c9e90f8b50737cc4c1adb9391"
+    "revision": "37951d2d3811268aa4679c66ef093d43"
   },
   {
     "url": "updates/24-1-1/index.html",
-    "revision": "e73e15ca25bf1f8ed8bcbc5bfc63bec1"
+    "revision": "7e51685b448c8d2bb301c4e5f07a06d8"
   },
   {
     "url": "updates/24-1-2/index.html",
-    "revision": "3f5c0d9f1cd721f06cc31963ce4a3aa8"
+    "revision": "c1c8c5e7372caf8f3a2a8c66554b3b3f"
   },
   {
     "url": "updates/24-2-2/index.html",
-    "revision": "417b8d75d5cab607885792616d43b716"
+    "revision": "3b39022d30f1daf6b7c0cc175bb0e77e"
   },
   {
     "url": "updates/24-2-4/index.html",
-    "revision": "d2b67898b3ed7e3846b4a5c3d21a642e"
+    "revision": "bd72f0dfa07f27ea9157039c190a0585"
   },
   {
     "url": "updates/24-3-0/index.html",
-    "revision": "0fa4216d0ef08a9aec0cca9784b79328"
+    "revision": "6b80a6f069ba0c6755845b03290eac9f"
   },
   {
     "url": "updates/25-0-0/index.html",
-    "revision": "52118b61b00ec16493a2a4af5f46dbb5"
+    "revision": "a189a1573c97851b7c3e5fdb5c35caec"
   },
   {
     "url": "updates/25-0-1/index.html",
-    "revision": "066f488bdcc56a4b45e1f55c88aaddd4"
+    "revision": "9345e74d5b1c648438c4dc85712e6af9"
   },
   {
     "url": "updates/25-1-0/index.html",
-    "revision": "c092a94e7353b84912dbe5f3a26fbdb4"
+    "revision": "3569aa22829a6979ad382ceb1da31f4d"
   },
   {
     "url": "updates/26-0-1/index.html",
-    "revision": "63c2309807967c98b4d343cc8e16e551"
+    "revision": "160d7c32628d8d673f1180e6cd553df1"
   },
   {
     "url": "updates/26-0-2/index.html",
-    "revision": "9492c1773df79be59526254cc0b679f4"
+    "revision": "cd1de54e10719fd4c1fe5b3d48fea755"
   },
   {
     "url": "updates/26-1-1/index.html",
-    "revision": "7d579b1923c451885f3d54c8128f1e3d"
+    "revision": "78db9e31db38174f2f51b4c45b28f4f7"
   },
   {
     "url": "updates/27-0-0/index.html",
-    "revision": "4327c59eeb0ff43fbf658605f3bac272"
+    "revision": "f0de19ef323dc0546d7bbd3d1193a0f3"
   },
   {
     "url": "updates/27-1-0/index.html",
-    "revision": "d2d82a678826b29776ec4b8d828c9df1"
+    "revision": "632360d4547f7f421e33a546cd7fd16f"
   },
   {
     "url": "updates/28-0-2/index.html",
-    "revision": "6f0efa0439a09655772062e66aa55cbf"
+    "revision": "c49d3c9abcaddc2f27e259265a1c1522"
   },
   {
     "url": "updates/30-0-0/index.html",
-    "revision": "b2813fcb9f1e9f721d642497edc93106"
+    "revision": "0c390fa971e8c08c09310bab74520162"
   },
   {
     "url": "updates/30-2-0/index.html",
-    "revision": "3017f5cdb84f077c18ccea172c359779"
+    "revision": "08dbb9800faec5f5da194de66d94b26b"
   },
   {
     "url": "updates/30-3-0/index.html",
-    "revision": "8a5bfe6a9b7ec8d1cb35db7297765a96"
+    "revision": "498fe5949b187f19372f232e783c87fb"
   },
   {
     "url": "updates/30-4-0/index.html",
-    "revision": "58e4e7a8e90b7f75d6276ec3133a8e60"
+    "revision": "4de8f17769766b3c574cd2847d697bc1"
   },
   {
     "url": "updates/30-5-0/index.html",
-    "revision": "e1b550702db4fe7bf7d1d2999f4e197b"
+    "revision": "af1f9f5f61d4d104e7a9f29ad274d428"
   },
   {
     "url": "updates/30-6-0/index.html",
-    "revision": "09159ef3fb0f4ea9553be7e442caa99f"
+    "revision": "4186d327c3e526e71ac409c9990d6f7c"
   },
   {
     "url": "updates/31-0-0/index.html",
-    "revision": "e4e75c0601f2a9f4e8c2dfbf006be1ca"
+    "revision": "0f45515ffaab4ed8226007511bbee9d0"
   },
   {
     "url": "updates/32-0-0/index.html",
-    "revision": "a03b18e1e86063f55fd487b764e62c6b"
+    "revision": "2033a64e673fc9c30554ba09affcd2a8"
   },
   {
     "url": "updates/32-1-0/index.html",
-    "revision": "3613ba3ccecf68cb80abc553ac0de6ee"
+    "revision": "71ca4755a3124a78c971e42eb41a35fb"
   },
   {
     "url": "updates/33-0-0/index.html",
-    "revision": "d3c7fb2c456bf610e4be5dfbf8f44c0c"
+    "revision": "13cbe90f8cc2505c77c7c61366677004"
   },
   {
     "url": "updates/35-0-0/index.html",
-    "revision": "6d9173535e9c556500b3d089756d5e6b"
+    "revision": "3f8b8929c95a45ec2d9212674f8d89e7"
   },
   {
     "url": "updates/36-0-0/index.html",
-    "revision": "0a390daffb036100d5841f33af8ae896"
+    "revision": "7abf801a5b74f9b694a9adc599b72c4c"
   },
   {
     "url": "updates/36-0-5/index.html",
-    "revision": "9046bf657fd77e32e36b068f31308b26"
+    "revision": "c40060472c5faa72a57be48d4729760f"
   },
   {
     "url": "updates/40-0-0/index.html",
-    "revision": "a87679e01f5ec399000597f3eb897ce6"
+    "revision": "f231b744ed4c84dab0ebfe70742b8f59"
   },
   {
     "url": "updates/40-0-1/index.html",
-    "revision": "a9a80b55e3fb1a8aaa3dcab66273f34a"
+    "revision": "e75049eecf62fbe07cda21d4096f6127"
   },
   {
     "url": "updates/40-1-0/index.html",
-    "revision": "cf7ccd7a25f35b170f3ce75606f99ffa"
+    "revision": "e7c89f61507bf5e6b9c89bdb58db54f4"
   },
   {
     "url": "updates/50-0-0/index.html",
-    "revision": "cd74a4e4099c2ff839bca89d02f4ea86"
+    "revision": "d584f64e7f76b45b5746e8ec70d882c8"
   },
   {
     "url": "updates/55-0-0/index.html",
-    "revision": "43ce67b1c6eb646ad2bd6e63eb380451"
+    "revision": "2dffeb28f38b1cc6bbff2056bbedb1b3"
   },
   {
     "url": "updates/55-1-0/index.html",
-    "revision": "439149534947a9ca54ec4273afa72fd4"
+    "revision": "3388f032263fe9d6044a43bc3120cccc"
   },
   {
     "url": "updates/56-0-0/index.html",
-    "revision": "9651e3405adc18343fbafad9f6e49346"
+    "revision": "27947650f4cee0f0b875cde0565693e2"
   },
   {
     "url": "updates/60-0-0/index.html",
-    "revision": "1f628c0b33b53240959932793da4d439"
+    "revision": "77fa0cc6e1187b06c348583f32647649"
   },
   {
     "url": "updates/60-1-0/index.html",
-    "revision": "521dc04bc8db966d62a20d7d79314f73"
+    "revision": "dd5fc913d519de9b735d39ee667ecfc7"
   },
   {
     "url": "updates/60-1-1/index.html",
-    "revision": "20c63996260d52e4a82a12681345d95a"
+    "revision": "3af6a212b8632d97e41831c84edd1ec5"
   },
   {
     "url": "updates/61-0-0/index.html",
-    "revision": "38b3aab563c96877c6a8d4048873d3dd"
+    "revision": "97cd4ac544bb88b4953189efd713bde1"
   },
   {
     "url": "updates/70-0-0/index.html",
-    "revision": "45182105a0bf218ad606e636d40f9c0b"
+    "revision": "358a27cfb2c08e52ade60337045a2f42"
   },
   {
     "url": "updates/70-1-0/index.html",
-    "revision": "eee783a38f7d663449d5ef6e564d7d57"
+    "revision": "08b54652d184a803fc3f4cb62d591aa7"
   },
   {
     "url": "updates/70-2-1/index.html",
-    "revision": "fa50eb6423021108a0c70c8e119e4d83"
+    "revision": "80aa5fe150a67889b1bebc05a51c3ebf"
   },
   {
     "url": "updates/75-0-0/index.html",
-    "revision": "e726d1494bd7a4561cc5c7af10789bbb"
+    "revision": "4b0591b4ab558af19379659b4b715db4"
   },
   {
     "url": "updates/76-0-0/index.html",
-    "revision": "30b04533ba9ac0090cde8d486fd63a04"
+    "revision": "f9aabe58bc4620c13afdeb1ab5e22892"
   },
   {
     "url": "updates/80-0-0/index.html",
-    "revision": "0d44c4aac2db9f005776080aba3e7ec8"
+    "revision": "bdcff663a429d6756aec1554150d0f16"
   },
   {
     "url": "updates/80-1-0/index.html",
-    "revision": "840c8e8bac8c9d63b8ae7e450344e710"
+    "revision": "8604a71858a824fdae346ef329a5b0af"
   },
   {
     "url": "updates/80-2-0/index.html",
-    "revision": "683f921aec44d49577a3f774e1603332"
+    "revision": "58168c9cd913818f68352c39e3dcb4a8"
   },
   {
     "url": "updates/80-3-0/index.html",
-    "revision": "30273f2151389b9957fef6cb05c584df"
+    "revision": "afabb4a35abddd5df4d7090ad61b9c7b"
   },
   {
     "url": "updates/80-4-0/index.html",
-    "revision": "5df4d9dd7c81ab882b200a4452ef758a"
+    "revision": "5a5d9e12102bf5d893c88ff21f165bf1"
   },
   {
     "url": "updates/80-4-1/index.html",
-    "revision": "8ccbec634cf21af36822686bfd7cb5df"
+    "revision": "525cc1de784ad290e3b16febd1fa8608"
   },
   {
     "url": "updates/80-5-0/index.html",
-    "revision": "d56728ebb34d648c521dae43a637dee4"
+    "revision": "5d382e0d3c1757bef7f90a91b4309149"
   },
   {
     "url": "updates/80-5-1/index.html",
-    "revision": "ce4415bca3ff8473f586a5110fac87dc"
+    "revision": "a543666668d81f49739e320dbcfa83d4"
   },
   {
     "url": "updates/90-0-0/index.html",
-    "revision": "309ceaef593b479b34a4505b16de0b25"
+    "revision": "d4b42bfd817f71831d5991f9fa764d60"
   },
   {
     "url": "updates/90-1-0/index.html",
-    "revision": "293084ad94a3dbe75993bf0c5779a52e"
+    "revision": "3afc6e8168604a0f41bb106cd39dbca6"
   },
   {
     "url": "updates/90-1-1/index.html",
-    "revision": "38a8766de33042e84122d313ab8ed2fd"
+    "revision": "704a952f4f6bfce7958c7b9f0e3e069d"
   },
   {
     "url": "updates/90-1-4/index.html",
-    "revision": "08dab65d69b837f07806a07f11570334"
+    "revision": "6f74ea8fdefa1324a67f47d116f38d61"
   },
   {
     "url": "updates/index.html",
-    "revision": "ef090f4e700d185407a618f1e95fcf96"
+    "revision": "4915a86632c50ea2c32a93adc56eaab4"
   },
   {
     "url": "updates/kingfisher/index.html",
-    "revision": "8beda350f1135227d87654f19f60dc2e"
+    "revision": "2f34d282d58e5552aa2354ab97b1e353"
   },
   {
     "url": "welcome/index.html",
