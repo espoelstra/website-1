@@ -1395,13 +1395,6 @@
     </url>
   
     <url>
-      <loc>https://www.helperbird.com/updates/101-0-0/</loc>
-      <lastmod>2022-07-06</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.helperbird.com/updates/24-1-0/</loc>
       <lastmod>2022-07-06</lastmod>
       <changefreq>monthly</changefreq>
@@ -1795,6 +1788,13 @@
   
     <url>
       <loc>https://www.helperbird.com/updates/</loc>
+      <lastmod>2022-07-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.helperbird.com/updates/kingfisher/</loc>
       <lastmod>2022-07-06</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>

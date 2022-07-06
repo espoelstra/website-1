@@ -2251,6 +2251,42 @@ self.__precacheManifest = [
     "revision": "f22570786542375db87744250bd35823"
   },
   {
+    "url": "assets/images/updates/kingfisher/accessibility.png",
+    "revision": "6ca2bbdc3905725581b165881a8c4278"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/colors-paragraphs.png",
+    "revision": "8b65ea7aa67f6eee5a6ec3676228c201"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/colors.png",
+    "revision": "46cf0558a6e3489aeb2ed32f2f9e6004"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/favioute.png",
+    "revision": "0f37613162c5ccd284a292aaaf52e85b"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/paragraphs.png",
+    "revision": "5bfac9e5a80ffcac27909f253301226a"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/readers.png",
+    "revision": "fc6d5a0ddc4259c26f27fbffbb5eb005"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/rulers.png",
+    "revision": "52f913cee83420ec378593cbae4d85e0"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/speed.png",
+    "revision": "3a97b691c24ece19ba597c2a737056ce"
+  },
+  {
+    "url": "assets/images/updates/kingfisher/videos.png",
+    "revision": "55621631ec453de7c64e2f249f4fff4b"
+  },
+  {
     "url": "assets/js/core/app.js",
     "revision": "976ebccdb62d40e9d25940ac305d0d6c"
   },
@@ -2964,7 +3000,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "a035d490b6d34c8008412e1c4fdbe37f"
+    "revision": "29d4da182107539e503ca64e62bda4c5"
   },
   {
     "url": "success-education/index.html",
@@ -3085,10 +3121,6 @@ self.__precacheManifest = [
   {
     "url": "updates/100-6-1/index.html",
     "revision": "c5fc889fd2cfbc2890edfa3d2a498887"
-  },
-  {
-    "url": "updates/101-0-0/index.html",
-    "revision": "dbf917dacbd5de2cd3bd2eb0b02add07"
   },
   {
     "url": "updates/24-1-0/index.html",
@@ -3316,7 +3348,11 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "455bd3c9682f55321fc847a568793e55"
+    "revision": "ef090f4e700d185407a618f1e95fcf96"
+  },
+  {
+    "url": "updates/kingfisher/index.html",
+    "revision": "8beda350f1135227d87654f19f60dc2e"
   },
   {
     "url": "welcome/index.html",
