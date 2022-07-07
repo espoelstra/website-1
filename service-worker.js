@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/css/help.css",
-    "revision": "474655b12dbb390c79ee2c8d523296b5"
+    "revision": "201c0669ea1227f38a410ad6bf5aad73"
   },
   {
     "url": "assets/css/styles.css",
@@ -2316,7 +2316,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "18087a2fb433c04588e6826806a6d217"
+    "revision": "0fa575de021a22f667580b50a8eabbd6"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -3360,7 +3360,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/kingfisher/index.html",
-    "revision": "03a6a3d3caa6bf402f7fdbfee7081c91"
+    "revision": "dfe18cd3f5538cc89240528743460cd4"
   },
   {
     "url": "welcome/index.html",
