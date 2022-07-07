@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/css/help.css",
-    "revision": "5f54983cc5f1ab8c66936f2b300e6806"
+    "revision": "58380ddd6c5ae1ab31fa93bf7d366b2e"
   },
   {
     "url": "assets/css/styles.css",
@@ -2384,7 +2384,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "1ebe3d2869cb6efc0377ec8f0f3bd4f8"
+    "revision": "2c9cf5814813e31998a74d82ad5a98dc"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
