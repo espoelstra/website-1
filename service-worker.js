@@ -2720,7 +2720,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-cancel-my-helperbird-pro-subscription/index.html",
-    "revision": "f7cb5ae7a64b0d981828a6fd45c70dd8"
+    "revision": "b06a7fa8a862292f6fb417c1b1579333"
   },
   {
     "url": "help/how-to-change-the-background-color-of-a-website/index.html",
@@ -2808,7 +2808,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-highlight-paragraphs-on-any-page/index.html",
-    "revision": "56bc8a047123d417d3de2313abcc1a91"
+    "revision": "cd6e88b756f51c1f978f18d5e09a1a20"
   },
   {
     "url": "help/how-to-highlight-words-and-paragraphs-on-any-website/index.html",
