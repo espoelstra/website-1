@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "591a317c8e40206d7bce5a798da52250"
+    "revision": "372cdb1297d25103ccee6006a7f731a1"
   },
   {
     "url": "about/index.html",
-    "revision": "9c2b9aba1facd2858bcf10fe5dcf66ac"
+    "revision": "2b13169bf80fa6e6fd431a7c256cee78"
   },
   {
     "url": "assets/css/blog.css",
@@ -2316,7 +2316,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "c6a96deddebc5f8748d5806ed4c3c9bb"
+    "revision": "8f6d641ab3f34068605014895008f0fb"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2384,7 +2384,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "3ed139dd4fa70a0cceadebc052e78a9f"
+    "revision": "385ce3d75c3ba1b702732eabd04ed0b9"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2464,23 +2464,23 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
-    "revision": "62fbb8daffbb52c1c83b6527a2fd6e84"
+    "revision": "bf445598c96ebfac5a639fc8c53a92b7"
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
-    "revision": "173eb213951abab2cca41989d1a87dde"
+    "revision": "53b86df0a36cfe6bca9226e0f78983f2"
   },
   {
     "url": "compare/snap-and-read-alternative/index.html",
-    "revision": "ab96988691edd2a3b85edae05dd706b0"
+    "revision": "e0c1a06289df3bb5d8e4755436691d8c"
   },
   {
     "url": "compliance/index.html",
-    "revision": "8209f03595287ebebcfbb0ff8edbcc23"
+    "revision": "656c37c87e568d15d15de2cb1fc16bf7"
   },
   {
     "url": "contact/index.html",
-    "revision": "4237f17715f948dd19b465d9b1bc3352"
+    "revision": "12b9af96dd95f199ed3ecb3b695c0071"
   },
   {
     "url": "demo/index.html",
@@ -2492,7 +2492,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edu/index.html",
-    "revision": "bc4f9c795fc3f19497aef90f5a0677f7"
+    "revision": "aa6c72691d77bf1d78cfe15d27dcd3c1"
   },
   {
     "url": "extension/index.html",
@@ -2572,7 +2572,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/index.html",
-    "revision": "39578f40ff0242fccdba4379bafa374e"
+    "revision": "856cefc48fe1f6d1da35f154b31fe15b"
   },
   {
     "url": "features/mute-videos/index.html",
@@ -2956,11 +2956,11 @@ self.__precacheManifest = [
   },
   {
     "url": "in-the-news/index.html",
-    "revision": "c668962127eef090462162ca31e60bcf"
+    "revision": "fa45bb3f0b0a97c4db429636704aa439"
   },
   {
     "url": "index.html",
-    "revision": "0f63a95d95d12168ec6dd511337eb7b5"
+    "revision": "4d2ac3f431409013e1ffb76081060aa5"
   },
   {
     "url": "login/index.html",
@@ -2972,7 +2972,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/index.html",
-    "revision": "f8fc5b35de7ed55bdae177a94ff5b82f"
+    "revision": "cdf7793b9f82c455366e7f1827d39a8e"
   },
   {
     "url": "partners/sascharoos/index.html",
@@ -3004,11 +3004,11 @@ self.__precacheManifest = [
   },
   {
     "url": "reviews/index.html",
-    "revision": "a1a4a4e254747f41bd434b89f8f24280"
+    "revision": "4cc9c561f26544e22a12312ce89831e9"
   },
   {
     "url": "sales/index.html",
-    "revision": "33ca50316871ee9f39ed24c7811c6d9b"
+    "revision": "887474bd1659772644eec4b5ca1801e8"
   },
   {
     "url": "security/index.html",
@@ -3016,15 +3016,15 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "f8f213bc52b2695bd2eec9f7e8398d2f"
+    "revision": "94c96d2ec7df4f64c783ab9b6a706f44"
   },
   {
     "url": "success-education/index.html",
-    "revision": "eacbaeb9ef80be0cb0ff6552ea3a757c"
+    "revision": "7aaed82c960da69b8cee4d342c61d6bc"
   },
   {
     "url": "success/index.html",
-    "revision": "d41dbd6f03881c19eb828d9c85112b35"
+    "revision": "86b913f6591d8d4e60c0273ba2724a16"
   },
   {
     "url": "support/annotate-and-highlight-pdfs-with-helperbird-online-extension/index.html",
@@ -3068,7 +3068,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/index.html",
-    "revision": "f53ed834d81ddd961c6b6655f5660b45"
+    "revision": "9ffae1817bd837986485614d23f2750f"
   },
   {
     "url": "survey/index.html",
@@ -3080,7 +3080,7 @@ self.__precacheManifest = [
   },
   {
     "url": "testimonials/index.html",
-    "revision": "1026d72db432e2a4628b8d639c83b6d4"
+    "revision": "c1d667216ed487af7e61c9b0a47e8677"
   },
   {
     "url": "tutorials/index.html",
@@ -3364,7 +3364,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "bd9f9b2d7d0938669c35e13e0d6665d8"
+    "revision": "9c63cc7f364770cf6eb8a24c6f45f34c"
   },
   {
     "url": "updates/kingfisher/index.html",
@@ -3372,7 +3372,7 @@ self.__precacheManifest = [
   },
   {
     "url": "welcome/index.html",
-    "revision": "0cb4c591407098602be04def2223caf9"
+    "revision": "f7fbc50d6010303056851737e7b9a71e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
