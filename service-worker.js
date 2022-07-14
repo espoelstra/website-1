@@ -28,7 +28,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "450f1c46aae2a1547290581ff93c8bde"
+    "revision": "190baadee01d96f6d553edea407a2e20"
   },
   {
     "url": "about/index.html",
@@ -2316,7 +2316,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "c2c59e7290ae51f93aea24f89fa452ce"
+    "revision": "bef68627dd127ca3bb03715a51621340"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2384,7 +2384,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "25f62ab4a350c1bd59ff793328efe0f4"
+    "revision": "59756f2ea11e7706a2cab1f7caafd833"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2916,7 +2916,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-use-the-helperbird-pdf-support/index.html",
-    "revision": "f8d79c1c67f91425f65a8b2d33b02ee1"
+    "revision": "a408a7e910ecd5b2b8f0492901b391ed"
   },
   {
     "url": "help/how-to-use-the-quick-action-area-to-improve-accessibility-on-the-web/index.html",
@@ -3016,7 +3016,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "34e70c4fa065b9e52d0336dc721f18f0"
+    "revision": "333f9a111a44546408ba94c6f11cf8a4"
   },
   {
     "url": "success-education/index.html",
@@ -3043,7 +3043,7 @@ self.__precacheManifest = [
     "revision": "88bda40f14b426b700a52e743001d22b"
   },
   {
-    "url": "support/how-to-change-fonts-of-any-page/index.html",
+    "url": "support/how-to-change-my-email/index.html",
     "revision": "738aa0b5b72e1afe56804aae1fdd8a4c"
   },
   {
