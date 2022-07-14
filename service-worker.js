@@ -2467,6 +2467,10 @@ self.__precacheManifest = [
     "revision": "50273a058c99ff610ca9c6e43b577a2b"
   },
   {
+    "url": "compare/index.html",
+    "revision": "80be47eb537d73f9625f8761abb61b6f"
+  },
+  {
     "url": "compare/read-and-write-alternative/index.html",
     "revision": "ebc1f8d4d8ad691af05781c941fec42d"
   },
@@ -3016,7 +3020,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "333f9a111a44546408ba94c6f11cf8a4"
+    "revision": "824c2daca65fe6a8c1fdd72851c75964"
   },
   {
     "url": "success-education/index.html",

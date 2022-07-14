@@ -611,6 +611,13 @@
     </url>
   
     <url>
+      <loc>https://www.helperbird.com/compare/</loc>
+      <lastmod>2022-07-14</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.helperbird.com/compare/read-and-write-alternative/</loc>
       <lastmod>2022-07-14</lastmod>
       <changefreq>monthly</changefreq>
