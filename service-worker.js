@@ -2944,7 +2944,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/useful-features-to-increase-productivity-extension/index.html",
-    "revision": "26ce4e2341cc2c98a6469567229926df"
+    "revision": "1be6c03c7bafed050fad43711848d01c"
   },
   {
     "url": "help/what-is-helperbird-free/index.html",
