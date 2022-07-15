@@ -2384,7 +2384,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "59756f2ea11e7706a2cab1f7caafd833"
+    "revision": "5fe74dc4034185c0b6a0a1c8ad0d055f"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2468,7 +2468,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/index.html",
-    "revision": "80be47eb537d73f9625f8761abb61b6f"
+    "revision": "24106921179f07ca00f4873671f9b535"
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
