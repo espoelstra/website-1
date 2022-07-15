@@ -2460,7 +2460,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "ee625d5a2fa4034750dde4c4e2293ede"
+    "revision": "6b35672cc33fbe9e18e97636ab8e718d"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
@@ -2492,7 +2492,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "318e3a9cadcde78e623ce0d6183c04c7"
+    "revision": "67f72a522546265f5540ada3b2163ac4"
   },
   {
     "url": "edu/index.html",
@@ -2500,7 +2500,7 @@ self.__precacheManifest = [
   },
   {
     "url": "extension/index.html",
-    "revision": "443f61bc62ba767736554d4d0309227b"
+    "revision": "c1bd2b2f79698d37be0d266b2092873e"
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
@@ -2676,7 +2676,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "6b68e437214c41bd17b49525b3790f78"
+    "revision": "71d5a2c9ddbddfe19dc9e840f4064476"
   },
   {
     "url": "googlea4b2e0ff05c168d5.html",
@@ -2964,7 +2964,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "9c629176fc1574a5ae19ba012b34df4c"
+    "revision": "110220483d058f9f8e5b579069e60b15"
   },
   {
     "url": "login/index.html",
