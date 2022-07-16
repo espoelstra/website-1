@@ -379,6 +379,18 @@ self.__precacheManifest = [
     "revision": "27cde571a334078ac4c6cd81fb57e580"
   },
   {
+    "url": "assets/images/graph/compare/immersive-reader-vs-helperbird.png",
+    "revision": "51ce154324ff9084a971ae24341bc3b8"
+  },
+  {
+    "url": "assets/images/graph/compare/read-and-write-vs-helperbird.png",
+    "revision": "a379023e5323fa3a0c71dbce5b763277"
+  },
+  {
+    "url": "assets/images/graph/compare/snap-and-read-vs-helperbird.png",
+    "revision": "ee1ccc332ca32c424ed1d3b5182e5e6c"
+  },
+  {
     "url": "assets/images/graph/contrast.png",
     "revision": "4f57fcf8860d1a3aa9a0a0b1f9b1b538"
   },
@@ -2384,7 +2396,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "5fe74dc4034185c0b6a0a1c8ad0d055f"
+    "revision": "ba57ee6fc5beff72f877bf12f7b9c833"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2464,19 +2476,19 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
-    "revision": "50273a058c99ff610ca9c6e43b577a2b"
+    "revision": "adcb0d8444963be15f3fbed97c047982"
   },
   {
     "url": "compare/index.html",
-    "revision": "24106921179f07ca00f4873671f9b535"
+    "revision": "61b0305cfdcd6843ac00ab33057980ad"
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
-    "revision": "ebc1f8d4d8ad691af05781c941fec42d"
+    "revision": "cf135b0e21ef9a4cdf7e03d92da60181"
   },
   {
     "url": "compare/snap-and-read-alternative/index.html",
-    "revision": "a5721bbd7aaedea76208ab8f39020278"
+    "revision": "12d443b152758a7ccb66849d703b05a6"
   },
   {
     "url": "compliance/index.html",
