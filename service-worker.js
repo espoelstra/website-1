@@ -2380,7 +2380,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.html",
-    "revision": "1d6aad8a9f92144aebda874afe7f9e4f"
+    "revision": "5ac059d5d6935789f65435830480edc9"
   },
   {
     "url": "blog/how-to-deploy-apps-and-extensions-through-the-google-admin-console/index.html",
@@ -2404,7 +2404,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "3e3ffd99547d47fb944fbf3267fb7d96"
+    "revision": "4c6a75d269720aedd0d9f3c288052b72"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2908,7 +2908,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-use-helperbirds-high-contrast-features/index.html",
-    "revision": "5c082330fbb1ba99066c6a3763d264ab"
+    "revision": "0d8f1b90bc6d7df6749afe63722ecaf7"
   },
   {
     "url": "help/how-to-use-helperbirds-reading-list-app/index.html",
