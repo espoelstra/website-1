@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "fc77f8d286be7c66dba0b8e68b5cdf34"
+    "revision": "8fabbb19ab41ab0a0b441362da7a6959"
   },
   {
     "url": "assets/css/blog.css",
@@ -2396,7 +2396,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-keep-wfh-employees-engaged-and-motivated/index.html",
-    "revision": "ca53b03f61cfa7c11b776838495cf02b"
+    "revision": "a4e41495e90cd5e518d5bf8be076e9e2"
   },
   {
     "url": "blog/how-to-use-immersive-reader-in-google-docs/index.html",
