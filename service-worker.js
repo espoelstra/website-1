@@ -3176,7 +3176,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/24-2-2/index.html",
-    "revision": "80b6aef89cab73ae0205710659be6acc"
+    "revision": "39ce17cfefe80e2d691c534ddea11303"
   },
   {
     "url": "updates/24-2-4/index.html",
@@ -3192,7 +3192,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/25-0-1/index.html",
-    "revision": "c6b17ec244f5c175a1d7a9c75300e44e"
+    "revision": "475e43bbe799fb96fd43bee09cb1d782"
   },
   {
     "url": "updates/25-1-0/index.html",
