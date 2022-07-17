@@ -32,7 +32,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "937bf9bbf7d0edfaa4bad49d47278fd6"
+    "revision": "7664bc48b99b0ab8e4fe122b862f548c"
   },
   {
     "url": "assets/css/blog.css",
@@ -2404,11 +2404,11 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "0022149c543e1fdd3fe0aacaec5995d3"
+    "revision": "8c339a3e215ecc3afddd6e5ad368dc7a"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
-    "revision": "ed69f586f306c8ec9a41d71e798f6e6f"
+    "revision": "9697a6104a91fe49bd22150b5e9c4675"
   },
   {
     "url": "blog/is-helperbird-free/index.html",
@@ -2444,7 +2444,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.html",
-    "revision": "a84728919234630c188e08fc9610dc84"
+    "revision": "5680ce5bce73c7b692d3e990221bbd25"
   },
   {
     "url": "blog/three-facts-about-dyslexia/index.html",
@@ -2480,7 +2480,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "403e4717fc09fc2d17b80503df5856b8"
+    "revision": "93b4c8557b41c22f50a19602152c0d9d"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
@@ -2512,7 +2512,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "58027c9ccab766f9bd30a3c752b8e795"
+    "revision": "4d2896bbdfb640311937675e5168c34f"
   },
   {
     "url": "edu/index.html",
@@ -2696,7 +2696,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "71544fe955508bb2e93797c0be559745"
+    "revision": "03a2530d3639eea529ad3ab01d7c6a20"
   },
   {
     "url": "googlea4b2e0ff05c168d5.html",
@@ -3000,7 +3000,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/sascharoos/index.html",
-    "revision": "035c1d1550a3b685b0c6fa4451c44551"
+    "revision": "94c52adbb3c8e93d30d1168d007603b8"
   },
   {
     "url": "partners/sprialisconsulting/index.html",
@@ -3040,7 +3040,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "e7c7e36cc320825f8a751d3dea8de8c4"
+    "revision": "6e12cea52e47050840d3899bd42250ce"
   },
   {
     "url": "success-education/index.html",
