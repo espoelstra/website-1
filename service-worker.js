@@ -2424,7 +2424,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia/index.html",
-    "revision": "9f5ce69d18bb09048f08f0296486fdf9"
+    "revision": "3d3556c6599c4543fff326b16bc08594"
   },
   {
     "url": "blog/signin/index.html",
@@ -2720,7 +2720,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.html",
-    "revision": "e685c468c03b5cd91943ae9d19aec394"
+    "revision": "2c1ac0d9c603d18fd138f19a0feecc1b"
   },
   {
     "url": "help/how-to-add-a-cognitive-load-to-text-on-any-website/index.html",
@@ -2808,11 +2808,11 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-download-helperbird-for-ipad/index.html",
-    "revision": "fc40aed770bf99557a0509dfcf0360d1"
+    "revision": "0b20e744c0dde14ca66287db3f198c2c"
   },
   {
     "url": "help/how-to-download-helperbird-for-iphone/index.html",
-    "revision": "dc8d4863bf9ef0a53ab6d5434b127590"
+    "revision": "0e0d4ddd1d30c30ebcba3f5f69a04d52"
   },
   {
     "url": "help/how-to-enable-spell-check-on-any-website-or-app/index.html",
@@ -2980,7 +2980,7 @@ self.__precacheManifest = [
   },
   {
     "url": "in-the-news/index.html",
-    "revision": "e805099b3adaa9df91bed6035ce93b24"
+    "revision": "7ad4ac842e5f481cab474b6332c54776"
   },
   {
     "url": "index.html",
