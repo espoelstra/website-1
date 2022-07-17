@@ -3000,7 +3000,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/sascharoos/index.html",
-    "revision": "38659a50c98f5b807f033b9ea6fd092e"
+    "revision": "a78d32fdf7d39049a6803fc0df6e6746"
   },
   {
     "url": "partners/sprialisconsulting/index.html",
