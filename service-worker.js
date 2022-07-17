@@ -2376,7 +2376,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-add-extensions-to-safari/index.html",
-    "revision": "f2450ba98da74f591730cc3f3c04c6ee"
+    "revision": "90645f5208eb90dc18e5729b1b78ca89"
   },
   {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.html",
@@ -2956,7 +2956,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/installing-helperbird/index.html",
-    "revision": "41b92c0944c5ba15979ea952b6fdf046"
+    "revision": "61117670269783f0cdc2807d6e46c5a3"
   },
   {
     "url": "help/manage-my-helperbird-pro-subscription/index.html",
