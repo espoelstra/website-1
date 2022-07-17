@@ -3016,11 +3016,11 @@ self.__precacheManifest = [
   },
   {
     "url": "products/google-addon/index.html",
-    "revision": "daba557ea7eb13c8ef9204b96408f9f4"
+    "revision": "c9a1122ea6e9e622442e8b7a37444766"
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "fc65b521a8a06b5c863f76334377f436"
+    "revision": "84c851bd229a87921ff21b4002bfefd7"
   },
   {
     "url": "refund/index.html",
