@@ -2336,7 +2336,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "bef68627dd127ca3bb03715a51621340"
+    "revision": "aae20f4ae157b57c8b7e6aa7645df2a9"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2908,7 +2908,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-use-helperbirds-high-contrast-features/index.html",
-    "revision": "0d8f1b90bc6d7df6749afe63722ecaf7"
+    "revision": "dacecb475ab60e1ae1b78d6391f5f246"
   },
   {
     "url": "help/how-to-use-helperbirds-reading-list-app/index.html",
@@ -3040,7 +3040,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "ab07476ce644e6753c8a594ea45193b1"
+    "revision": "c7822a7b5f91e345c5e18c316e177f1a"
   },
   {
     "url": "success-education/index.html",
