@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "190baadee01d96f6d553edea407a2e20"
+    "revision": "ffc5394030ef67ed00d9b7a7ae0f4c3a"
   },
   {
     "url": "about/index.html",
-    "revision": "92de14ce85278322ca3cce275209f14b"
+    "revision": "dbbe131fa8ff54cfae047a40708bc890"
   },
   {
     "url": "assets/css/blog.css",
@@ -2340,355 +2340,355 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/4-ways-to-be-more-accessible-on-social-media/index.html",
-    "revision": "bce179250f2b6be47f03eaf88667f98f"
+    "revision": "e307b6cce85f4a8d5088d20767c6df40"
   },
   {
     "url": "blog/6-famous-people-with-dyslexia/index.html",
-    "revision": "b86a5eba09d3fea68312ab391cde2a57"
+    "revision": "e093b715df657ae9913e1bb228b02bc5"
   },
   {
     "url": "blog/accessibility-tips-for-epilepsy/index.html",
-    "revision": "d2eb5f78968570d2a814b8b10a131aab"
+    "revision": "46d13e26c0067bd8d7ff4d8e2f45fac3"
   },
   {
     "url": "blog/benefits-of-ipads-in-the-classroom/index.html",
-    "revision": "91123f31910dcc9c85f91afe58c26d7a"
+    "revision": "f3eb00bb53887b9de1f886f58cc69b6d"
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
-    "revision": "9fa3564db8262e61921e621e2825e0f3"
+    "revision": "cced9e1cf92c4a54d89d05abc88454a6"
   },
   {
     "url": "blog/giveaway-rules/index.html",
-    "revision": "7b16ccfed785bd3b7d1bb80594276af3"
+    "revision": "589c10ba2aaddd976b9f4ae6eeb9e719"
   },
   {
     "url": "blog/helperbirds-winner-of-the-2021-chromebook/index.html",
-    "revision": "cd2a08dbd3569fb687be159b2fd48c86"
+    "revision": "6e3e5cf2b8551e16b9eeac9909b69fbc"
   },
   {
     "url": "blog/how-to-add-extensions-to-safari/index.html",
-    "revision": "210574049c8a6079e8f938cb8ed77a91"
+    "revision": "e6744db46b9ab105f0ac25853c84666e"
   },
   {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.html",
-    "revision": "e2049d395645d877e18e7ca7a5695b35"
+    "revision": "7d1ca7d7166652ea65c60159e54a92a7"
   },
   {
     "url": "blog/how-to-deploy-apps-and-extensions-through-the-google-admin-console/index.html",
-    "revision": "f5675eededaebf7cc1b6757669c498c4"
+    "revision": "5b85efa024c4ff4000570fe776d0dc07"
   },
   {
     "url": "blog/how-to-install-and-set-up-helperbird/index.html",
-    "revision": "436c9a24d38ea0de084bc3a9d1c01b54"
+    "revision": "314c8ea65df9e4176bc76272afa47104"
   },
   {
     "url": "blog/how-to-install-helperbird-in-edu-accounts/index.html",
-    "revision": "ae114f17b0aed3296249c8eae3c682ca"
+    "revision": "510e8db2f78e93dad467df20b6e0c90c"
   },
   {
     "url": "blog/how-to-keep-wfh-employees-engaged-and-motivated/index.html",
-    "revision": "43b8aae816104013e8d72dffd9997aae"
+    "revision": "0f116f5890f2fb1141088851f077a1c9"
   },
   {
     "url": "blog/how-to-use-immersive-reader-in-google-docs/index.html",
-    "revision": "76e11395ca9ab4e8b03532b3df923c23"
+    "revision": "4d6a20750d249e324668d6bbb7cce5a5"
   },
   {
     "url": "blog/index.html",
-    "revision": "2c2790b9de7087f5154e52bbc6734a12"
+    "revision": "a42a344e5fa2fe8575982df0eac941fb"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
-    "revision": "7363c513356695f61c4bce7d6fbcb6db"
+    "revision": "bef908eb7f78000474fc33941124b281"
   },
   {
     "url": "blog/is-helperbird-free/index.html",
-    "revision": "6a374641dcf45a08c40669f38935c9b9"
+    "revision": "89cd8d62ca8ae2f4c64dbc61b7366349"
   },
   {
     "url": "blog/is-helperbird-safe/index.html",
-    "revision": "0679a0eccaa8b6cea789033256d5fc3c"
+    "revision": "6560fd791bb1537bea530e6ea50c746c"
   },
   {
     "url": "blog/positive-thoughts-might-benefit-dyslexic-students/index.html",
-    "revision": "d47912647c7ae6769bfaf78990f5c418"
+    "revision": "4d908335cd77460781ca5a87465e1834"
   },
   {
     "url": "blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia/index.html",
-    "revision": "fce3ee0ec0f14516b63fe6288aa902a6"
+    "revision": "4cc0ef89ff4199a8a9779203e6860668"
   },
   {
     "url": "blog/signin/index.html",
-    "revision": "7a90599109f2bdd579ccc30070961d17"
+    "revision": "e749faa9be4e35c28cb5c2945fb71b4d"
   },
   {
     "url": "blog/stay-on-task-8-productivity-tips-to-help-you-stay-focused-at-work/index.html",
-    "revision": "38ece35f87a45df7309a8beb9dda8d4b"
+    "revision": "dda2c795c7850efabee9ac3b8e3c08f7"
   },
   {
     "url": "blog/teacher-appreciation-week-2020-dyslexia-story/index.html",
-    "revision": "98d37a3e70e3886541358f8fbe740969"
+    "revision": "36f3272b68f42b26407d4cbba09ccd2c"
   },
   {
     "url": "blog/thanksgiving-message-from-helperbird/index.html",
-    "revision": "c366f75fc9651af7f187979c63fce0a1"
+    "revision": "520f5d0ca6d4e8467adc1cf320e463c8"
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.html",
-    "revision": "caf06f09b2bcf2818503280615dd910e"
+    "revision": "dc066008298e5d7579935134dbf63699"
   },
   {
     "url": "blog/three-facts-about-dyslexia/index.html",
-    "revision": "a924b90944c6627996adb2f9649ab116"
+    "revision": "f90eca3e708987d955cefecdc4b3b75a"
   },
   {
     "url": "blog/top-5-productivity-microsoft-edge-extensions/index.html",
-    "revision": "b82c56020be686e05430de27eb0794f5"
+    "revision": "6277115045c58a2a846f9b356c00fb7a"
   },
   {
     "url": "blog/top-6-chrome-extensions-for-teachers/index.html",
-    "revision": "d4764f80fcb8604b0c2b53034f642918"
+    "revision": "65acacdfde9daafc40c6a0441873d17d"
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.html",
-    "revision": "618ab76389770139c432b2c67441ecd7"
+    "revision": "a3b42bae4c803dec93c18a619866cdf9"
   },
   {
     "url": "blog/top-ipad-apps-for-accessibility/index.html",
-    "revision": "c7ec5a966a41704653d3c53c7fb486f0"
+    "revision": "47745ca0dde68ca50cf985fe90691ce2"
   },
   {
     "url": "blog/top-productivity-extensions-for-safari/index.html",
-    "revision": "cf30a1f64ae6cd97608a29a02da8b1cd"
+    "revision": "f789e6cceaa44df6c16cbcfeed070d25"
   },
   {
     "url": "blog/tv-and-movie-characters-with-dyslexia/index.html",
-    "revision": "768906e2669378495b24affca93ab916"
+    "revision": "cf2800ccfaccb068b3400abedf1afaeb"
   },
   {
     "url": "blog/what-is-coppa-and-ferpa/index.html",
-    "revision": "bb63a892b5e6cacbabfdd5501300d999"
+    "revision": "0e0095a1a93abc36de9f64747ee9e0fd"
   },
   {
     "url": "chrome/index.html",
-    "revision": "6b35672cc33fbe9e18e97636ab8e718d"
+    "revision": "b16268401d0c6d19bf13dab59a7c1e6c"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
-    "revision": "adcb0d8444963be15f3fbed97c047982"
+    "revision": "261d154bbdb351974077b7e0b545eb61"
   },
   {
     "url": "compare/index.html",
-    "revision": "3ec6bb303c81d45b262f21ee0f98f220"
+    "revision": "1a10448ef48b634617a38bdb4231b34e"
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
-    "revision": "cf135b0e21ef9a4cdf7e03d92da60181"
+    "revision": "372f1f38550c399824143f846c8a5641"
   },
   {
     "url": "compare/snap-and-read-alternative/index.html",
-    "revision": "12d443b152758a7ccb66849d703b05a6"
+    "revision": "43f2c24cd0a03340b01ef5e25e27c6f2"
   },
   {
     "url": "compliance/index.html",
-    "revision": "4532906e4ea5445af97da1ddc2e3b7ae"
+    "revision": "eef95c8a9c9572e02139ccca745274ca"
   },
   {
     "url": "contact/index.html",
-    "revision": "20b45c737597bec0e541897e534492c5"
+    "revision": "6730dfab81b73497668a526130fafb93"
   },
   {
     "url": "demo/index.html",
-    "revision": "6ffba7438f83cbbb356003b50c039d8f"
+    "revision": "5be96f73ce28ab42e7e59de6e1350f59"
   },
   {
     "url": "edge/index.html",
-    "revision": "67f72a522546265f5540ada3b2163ac4"
+    "revision": "a3d5d81599ca1f23aa266bcd8f6da0d4"
   },
   {
     "url": "edu/index.html",
-    "revision": "cf929761027eceeccb6614079d7d43a8"
+    "revision": "012eb31dc2ad37dcb15e2e1d7ca4f915"
   },
   {
     "url": "extension/index.html",
-    "revision": "c1bd2b2f79698d37be0d266b2092873e"
+    "revision": "fa6cb686fa9fad00f8f4034c7ab84d5a"
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
-    "revision": "7400a5604f4b5f469e3b34e99404e390"
+    "revision": "0329fb1d26ce62a7ae573efb989237d5"
   },
   {
     "url": "features/alt-tool-tip-highlighter/index.html",
-    "revision": "f0e58736c349eae5c8daf09a4d0276d1"
+    "revision": "d9f606f6339ec61b5d0607584cef1da1"
   },
   {
     "url": "features/analyze/index.html",
-    "revision": "336f389535f4a5ca54dbbc7935a0368d"
+    "revision": "15e661af1fe322218a1154bbeac60ee7"
   },
   {
     "url": "features/annotation/index.html",
-    "revision": "18f14cb0209b862ba3ba53cf52501b4c"
+    "revision": "477943e460ccde6a065860d0518c876f"
   },
   {
     "url": "features/auto-scroll/index.html",
-    "revision": "41b18c6682da962034cb716d6b896304"
+    "revision": "c8365e83119c1c61b1e23fb46065c2fe"
   },
   {
     "url": "features/bookmarks/index.html",
-    "revision": "b45b7105fe92b00fc8f9bdf10325d52a"
+    "revision": "2eda17c733f8fdcce65f171672ca81b3"
   },
   {
     "url": "features/cognitive-load/index.html",
-    "revision": "7b3137d05f01fbf0f79afc278062490a"
+    "revision": "deb50c055d4a9fe99583cc6c267b541e"
   },
   {
     "url": "features/color-blindness/index.html",
-    "revision": "1c452b5a18311fd2abb3742421f88d78"
+    "revision": "fd0376c2afaf18a09bb5e788f6033b6f"
   },
   {
     "url": "features/cursor-control/index.html",
-    "revision": "eb410d47fbbf4f5f37b331b7f672f60c"
+    "revision": "fb7602b41785ded6a372318eed512d22"
   },
   {
     "url": "features/dictionary/index.html",
-    "revision": "bf4735faf4bae947a205199f8d800d95"
+    "revision": "c522b4622fa9edc24220903e03b91b02"
   },
   {
     "url": "features/editor/index.html",
-    "revision": "aa169226f5f81daf91100683cd429143"
+    "revision": "e20d923f45ffb12b20d219dbf5caa815"
   },
   {
     "url": "features/font-sizes/index.html",
-    "revision": "f80551fb9709607622503a8d3c41040e"
+    "revision": "c781b908b77749b277e98ae593c67a7d"
   },
   {
     "url": "features/google-translate/index.html",
-    "revision": "d5af311ec1585143e6554fcde21e7120"
+    "revision": "d763f74222430884d74b9b139973981f"
   },
   {
     "url": "features/gray-hue-overlay/index.html",
-    "revision": "54fc1dfbe0a0e2a0f4da5e3e3ef16c3d"
+    "revision": "9cdcb52bae9f822058c88cef47a76aae"
   },
   {
     "url": "features/hide-images/index.html",
-    "revision": "8a30f9a6f712cc1a139f4d4b4229dccb"
+    "revision": "c33b96f22bdc4d440c7c678c66810f48"
   },
   {
     "url": "features/high-contrast/index.html",
-    "revision": "9b9401a8fe1fa5f6e83b39a143a923f3"
+    "revision": "bab4a6f71aee233e1f47e51c3c7fd743"
   },
   {
     "url": "features/highlight-paragraphs/index.html",
-    "revision": "300bf69d4a928f6427ef2c87522940d3"
+    "revision": "229e138899def51aa4e3aa16a743cfa4"
   },
   {
     "url": "features/immersive-reader-for-chrome/index.html",
-    "revision": "5009a8f7da1fb496dc8833a2dfe1d904"
+    "revision": "aa39eb337b23996dff62a5f05be00c39"
   },
   {
     "url": "features/index.html",
-    "revision": "4117ecc5acca9c7daaee42bd1c3a9f6e"
+    "revision": "525878a30ef5f33ce8b289315870695b"
   },
   {
     "url": "features/mute-videos/index.html",
-    "revision": "e738091e31913cc7afe5a55275fce748"
+    "revision": "b0a522f7958357f078cd497816cba3b5"
   },
   {
     "url": "features/notes/index.html",
-    "revision": "83659ecab629309e3a9ceb024be234d6"
+    "revision": "7464102c668d0994a6cc50b5cc6d948b"
   },
   {
     "url": "features/optical-character-recognition/index.html",
-    "revision": "44c7b9b7dca68cf888ecff1dd6fd91ec"
+    "revision": "ade8eb4c5f0a147cdcd4ead3a9cc5234"
   },
   {
     "url": "features/overlay/index.html",
-    "revision": "3562b30e6677456c316b027831e326f4"
+    "revision": "326a88fae62df06a8ca151a2d050d307"
   },
   {
     "url": "features/paragraph-widths/index.html",
-    "revision": "7b6f1cfacff537ca2d11f5607e41091c"
+    "revision": "d1b6e7171533ba1cccf5a864d91a5b3b"
   },
   {
     "url": "features/pdfs/index.html",
-    "revision": "8b8e859696cf30e3c23b6255bfc0dcb4"
+    "revision": "f7ae5e37ead4e1ece300fbf29b62c364"
   },
   {
     "url": "features/printing-tool/index.html",
-    "revision": "4973286e7e1e8076ae805b56135c1830"
+    "revision": "6d094b88bbb7778795b4a487e8f2c99f"
   },
   {
     "url": "features/privacy/index.html",
-    "revision": "ff3c3e806ce2c48f699845a226f54d72"
+    "revision": "872678fe0bfcd1b4bda9593ce19edf5a"
   },
   {
     "url": "features/reader-mode-for-chrome-and-firefox/index.html",
-    "revision": "75ad74ae8fd66e2118c1cd277b3639f3"
+    "revision": "0a99c2bc0b902151b5eb1bef6f86a4a0"
   },
   {
     "url": "features/reading-guide/index.html",
-    "revision": "d3a8e34c84f6280aa03a61a404fb8913"
+    "revision": "bb7503080755d0731994b86b286b65b5"
   },
   {
     "url": "features/ruler/index.html",
-    "revision": "35e19c348302509f083383c91ee8b60d"
+    "revision": "137b4ca91b4ba130dc30365d14f65e17"
   },
   {
     "url": "features/screenshot/index.html",
-    "revision": "3b8e167713992039531bc527ed4ef03d"
+    "revision": "5abf46ad47a3fbaddec2d82902999123"
   },
   {
     "url": "features/shortcuts/index.html",
-    "revision": "1280ca54bf5a80e8937d867e7bb33b44"
+    "revision": "05a2e9cd400e06a0d71954264e40d98a"
   },
   {
     "url": "features/specialised-dyslexic-fonts/index.html",
-    "revision": "9452c84c3b064bfbca17195e9482ad6a"
+    "revision": "7c056fbf822a78787a095e6633e79918"
   },
   {
     "url": "features/speech-to-text/index.html",
-    "revision": "323900b964898f26aeb2eeebebdef90f"
+    "revision": "ca63b39b82ffa8730af623bd08731e87"
   },
   {
     "url": "features/speed-reading-extension/index.html",
-    "revision": "ac4c070bb10945e05185496bde07437c"
+    "revision": "83fbc9c9cfbe80a522a3842347b0bff3"
   },
   {
     "url": "features/spell-check/index.html",
-    "revision": "f54ae7bbd66a9c5ff7441f34ea7e6595"
+    "revision": "7a9508e41e6195746de61c5c1d68fe75"
   },
   {
     "url": "features/styles/index.html",
-    "revision": "5891acc5dacac74fb4d07a8c0d98cb52"
+    "revision": "bc15ffa0188b5caadf785775ac2a303a"
   },
   {
     "url": "features/summarizing-tool/index.html",
-    "revision": "ba4081a0861d937c02a3a60b29708a9b"
+    "revision": "e7e7a6091638c624da6d24bb542030f0"
   },
   {
     "url": "features/text-align/index.html",
-    "revision": "5852bd27e7268219c0e66f17e24efb9b"
+    "revision": "7d1f51fb1716069d2146b77b4196be08"
   },
   {
     "url": "features/text-to-speech/index.html",
-    "revision": "10e1df2656316e655fb23a5d80026c32"
+    "revision": "9439f12671b27927477dbcb046415d29"
   },
   {
     "url": "features/word-prediction/index.html",
-    "revision": "d25234c2fde0bafe381fe9f8fd672605"
+    "revision": "619fa56c9dd5d82e6f9fc3783d09f077"
   },
   {
     "url": "features/zoom/index.html",
-    "revision": "92c1aca48da8483daad96a3bfe0a5263"
+    "revision": "bdffb49841eed1e107eefec111e97c53"
   },
   {
     "url": "feedback/index.html",
-    "revision": "bbebe70d9dfee1ee5683fc931806d0d9"
+    "revision": "8470ba7cc2566b3b8953935dca451d54"
   },
   {
     "url": "firefox/index.html",
-    "revision": "71d5a2c9ddbddfe19dc9e840f4064476"
+    "revision": "a2f0c6c0d95621806df0ec92dae6e8d6"
   },
   {
     "url": "googlea4b2e0ff05c168d5.html",
@@ -2696,699 +2696,699 @@ self.__precacheManifest = [
   },
   {
     "url": "guides/index.html",
-    "revision": "f558a45e47372a410fd176dab37421ac"
+    "revision": "2f67366a98651647e5e11d80b24a1689"
   },
   {
     "url": "help/enable-browser-sync-chrome-and-edge/index.html",
-    "revision": "8b08f0e01dbf76daf19512dee5993560"
+    "revision": "1e4f4861913877a9237551da3273cc8f"
   },
   {
     "url": "help/helperbird-for-google-docs-addon/index.html",
-    "revision": "770dd3954a59411523ff6ccac132a854"
+    "revision": "4d13c2c47b2d2ed65b80999b99606540"
   },
   {
     "url": "help/helperbird-for-google-slides-addon/index.html",
-    "revision": "9c9d39acc6b3a8e193e1f7e0e020055b"
+    "revision": "817c80139c358dbdeee9c23e4e35787c"
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.html",
-    "revision": "45f41f83fd2df5afdd04c5babcf35f80"
+    "revision": "e056dee7e9af21ed6886ab9c140c3f63"
   },
   {
     "url": "help/how-to-add-a-cognitive-load-to-text-on-any-website/index.html",
-    "revision": "8ec1fab696b36bec6d27f3507d2c4949"
+    "revision": "da6abf4ffc15e13164a5672ba9f02c1a"
   },
   {
     "url": "help/how-to-add-a-overlay-to-any-website/index.html",
-    "revision": "be4bf88b692b7e487f676932f7c5f80b"
+    "revision": "7f9f5c1417c89dc10f90857b454c6401"
   },
   {
     "url": "help/how-to-adjust-zoom-magnifying-for-any-website/index.html",
-    "revision": "1b82be300fedc421aae747ea0352c0c0"
+    "revision": "197e7a1448ceac1955fe92cd2ba6df6e"
   },
   {
     "url": "help/how-to-annotate-any-website-with-sticky-notes/index.html",
-    "revision": "5c0530da3c04024502dc97aff6e6ad58"
+    "revision": "87ab1b8bd9ecae96e38a8b2599be11fb"
   },
   {
     "url": "help/how-to-auto-scroll-on-any-website-or-app/index.html",
-    "revision": "d3f8da02de8a25f9df60fd03401bba56"
+    "revision": "0affaa58e164794b4d0e05da0b04a9b2"
   },
   {
     "url": "help/how-to-cancel-my-helperbird-pro-subscription/index.html",
-    "revision": "78d031176dad862113b1f85b5284d351"
+    "revision": "7bf73326ab059fff40cd3bf51b64dd43"
   },
   {
     "url": "help/how-to-change-the-background-color-of-a-website/index.html",
-    "revision": "b86ad5a88d4ebe26af868ff8974c5b98"
+    "revision": "d0bd80473ec5523a74e90860c364b8df"
   },
   {
     "url": "help/how-to-change-the-cursor-size-in-google-chrome-firefox-or-edge/index.html",
-    "revision": "406204cfbe187cbdcb00a67f21e2d3a5"
+    "revision": "885b0fa2e3f259f4f9afc5c4ce12466b"
   },
   {
     "url": "help/how-to-change-the-font-color-of-a-website/index.html",
-    "revision": "a6ed936d7ca458066a626ec46e6d79f8"
+    "revision": "7fc60bf55f4d47ce012613909ee22867"
   },
   {
     "url": "help/how-to-change-the-font-on-any-page-to-a-dyslexic-font/index.html",
-    "revision": "cdb57cab2b423a59e7d3757be7183281"
+    "revision": "c77b018a6287131f560d1a12eae2cedf"
   },
   {
     "url": "help/how-to-change-the-font-on-any-page/index.html",
-    "revision": "65361ca60b9d5efd305f967dd0f8a284"
+    "revision": "83ed054fde47d3f8c7c11fd1d5dcc35f"
   },
   {
     "url": "help/how-to-change-the-font-size-on-any-website/index.html",
-    "revision": "ccf6fb85d66b001735943bd7e08b9512"
+    "revision": "8a42cc1aaf442a81bcf12e0519b56586"
   },
   {
     "url": "help/how-to-change-the-highlight-color-of-a-website/index.html",
-    "revision": "f61728506ff5cb878ede564035c8a0f7"
+    "revision": "a5ac015906dcb14daa74a113007b9a47"
   },
   {
     "url": "help/how-to-change-the-letter-spacing-on-any-website/index.html",
-    "revision": "fe67912d780c7d7195c7277207dafd56"
+    "revision": "fea31883be31cb66315e0dda7148027d"
   },
   {
     "url": "help/how-to-change-the-line-height-on-any-website/index.html",
-    "revision": "b99950911599347aef67c49c6358f2c1"
+    "revision": "de0212247bd1121359b43b3bbf4aa97f"
   },
   {
     "url": "help/how-to-change-the-link-color-of-a-website/index.html",
-    "revision": "a61c38810b4242aa17a5421fd067ba37"
+    "revision": "c21a8b517041799d0a20f8c8215c5ce9"
   },
   {
     "url": "help/how-to-change-the-selection-highlight-color-of-a-website/index.html",
-    "revision": "2b1eb4e28cc037167ac66bec9b6a3b99"
+    "revision": "626444c0bad845f5def909125b990de5"
   },
   {
     "url": "help/how-to-change-the-text-alignment-on-any-website/index.html",
-    "revision": "efefac1ac9a48094c631c8bac0c7ac12"
+    "revision": "fdcfc11da09d8d659795079a06d3f244"
   },
   {
     "url": "help/how-to-change-the-word-spacing-on-any-website/index.html",
-    "revision": "e3d196a7183c15aa285a6671416c78db"
+    "revision": "c5a2b5565e234ef594061d97a10a6a2f"
   },
   {
     "url": "help/how-to-count-the-amount-of-words-and-characters-in-a-sentence/index.html",
-    "revision": "36ef2e1f4538a0b1ec47cf0c9cd2d2cb"
+    "revision": "18f70fddb29aa8ceed11584ccad9f4a3"
   },
   {
     "url": "help/how-to-deploy-helperbird-to-your-school-or-business/index.html",
-    "revision": "0add74b26da7eb9b043810cc1f569557"
+    "revision": "3dcddce23163f35bd96db2affde90705"
   },
   {
     "url": "help/how-to-download-helperbird-for-ipad/index.html",
-    "revision": "0f58b034d3cbdd7e4b874f671a3d46cb"
+    "revision": "dcf613da8e3962677a448796358f1f08"
   },
   {
     "url": "help/how-to-download-helperbird-for-iphone/index.html",
-    "revision": "b4307b679f9746e31d7e0558a59bd43d"
+    "revision": "c635a33cb111bb5a97c326654bd7e70d"
   },
   {
     "url": "help/how-to-enable-spell-check-on-any-website-or-app/index.html",
-    "revision": "d7f80986aa3bd4f969b8d28a3a7f86f9"
+    "revision": "308d3773c0a09ba3d29df49ecde55a10"
   },
   {
     "url": "help/how-to-extract-text-from-any-image-pdf-or-website/index.html",
-    "revision": "5c6fbe27935be0fb21ca3ae353c7873a"
+    "revision": "fd1aa18bba18394aea6fd1736dd9bf49"
   },
   {
     "url": "help/how-to-favorite-a-feature-in-helperbird/index.html",
-    "revision": "8303eff8cc9bf07a2a14acf93b2ed5d8"
+    "revision": "e6b6588cdf271bc17dc2ce6f7a96b7e1"
   },
   {
     "url": "help/how-to-hide-images-and-gifs-on-every-website/index.html",
-    "revision": "bd13ba5ef0af63d9db61a6a678137711"
+    "revision": "52e7c2619d72ddd64820bc6b395421a8"
   },
   {
     "url": "help/how-to-highlight-paragraphs-on-any-page/index.html",
-    "revision": "736e8f831136c9cb2dd4d2f380a14090"
+    "revision": "47f49a5f86ec5753f6b9488ad57761e4"
   },
   {
     "url": "help/how-to-highlight-words-and-paragraphs-on-any-website/index.html",
-    "revision": "dfbc28185bb8dabae064fa29896e3444"
+    "revision": "888452ba7996152c318cb75b793c9fcd"
   },
   {
     "url": "help/how-to-login-to-helperbird/index.html",
-    "revision": "d3e871dbb33ea6e5acf301201f07b156"
+    "revision": "098c804d97e903f9de20476ad3e24429"
   },
   {
     "url": "help/how-to-mute-all-videos-on-any-page/index.html",
-    "revision": "fc178ca9dc0dadea73ad915b1b3e6d73"
+    "revision": "a7e6dff47c6b1590b49e4be70f5da449"
   },
   {
     "url": "help/how-to-pause-helperbird/index.html",
-    "revision": "3483fb36bf396a27665ec42e79ae64aa"
+    "revision": "db66e764015d0354b113e07ace1f51a1"
   },
   {
     "url": "help/how-to-pin-a-chrome-extension/index.html",
-    "revision": "0b3f0dbf84a763dfdbb4259e0624ff6e"
+    "revision": "74232228fbd23b873a2c5eb48bcadfa1"
   },
   {
     "url": "help/how-to-print-a-website-with-helperbird/index.html",
-    "revision": "4c61e14245b52b8458ae9195b4bd7342"
+    "revision": "680c438049c2015dc9905a0bf8e4110b"
   },
   {
     "url": "help/how-to-set-the-column-width-on-any-page/index.html",
-    "revision": "7488a38719090a565f319871a8cf6f62"
+    "revision": "37627ae3bc858fa34844f9658a0c57a5"
   },
   {
     "url": "help/how-to-set-the-paragraph-width-on-any-page/index.html",
-    "revision": "7665eccf7609567632f816dc843dcf89"
+    "revision": "bbaa2d2df56001a2cc55d074f77c7eb1"
   },
   {
     "url": "help/how-to-show-alt-tags-on-hover-tooltip/index.html",
-    "revision": "171b24fe03e16017bc20587a5c791d90"
+    "revision": "90b2b7e7d7eda80a15937500870698d2"
   },
   {
     "url": "help/how-to-stop-animations-on-any-website/index.html",
-    "revision": "9ab44456ad27c0afaa51d6b28270d32f"
+    "revision": "e08d44731eddb425ac95c38e6e14bd12"
   },
   {
     "url": "help/how-to-translate-a-whole-page-or-selected-text-on-any-website/index.html",
-    "revision": "9725ec0bcb1b67e9e181d399a92bb7da"
+    "revision": "c5f26a9040e4a2050d1648e4fd16be95"
   },
   {
     "url": "help/how-to-turn-helperbird-on/index.html",
-    "revision": "d09d5dea5eba485f47e55871ae5bbe1a"
+    "revision": "149db42acadc6fdb3eb9bd9129be9ea8"
   },
   {
     "url": "help/how-to-use-a-dyslexia-ruler-on-any-website/index.html",
-    "revision": "fa5748a3a9d4863f5a1415c673fdd73c"
+    "revision": "74da598a4b8007260954839fc5636b19"
   },
   {
     "url": "help/how-to-use-a-line-focus-on-any-website/index.html",
-    "revision": "6613e78a3061491801581ac13460825c"
+    "revision": "5b10f1aaa30ae4067cd3d69ec4be573f"
   },
   {
     "url": "help/how-to-use-a-reading-guide-on-any-website/index.html",
-    "revision": "f98502ffecc670e16c9bca66581dd4db"
+    "revision": "486b2f0480f0f4b0a88e61320f6212ce"
   },
   {
     "url": "help/how-to-use-dictionary-app-in-helperbird/index.html",
-    "revision": "2532a5ac954e5d2d2e9e042db5225bd3"
+    "revision": "b258d1181462471d7a68538e189b880e"
   },
   {
     "url": "help/how-to-use-helperbird-accessibility-features/index.html",
-    "revision": "e73cb6ee6dde75f3c651d8816682a98f"
+    "revision": "43be597fd2a69f7f326abea9c034b1fb"
   },
   {
     "url": "help/how-to-use-helperbirds-color-blind-features-on-websites/index.html",
-    "revision": "2ce731f10776367f379e7b1195907039"
+    "revision": "edfdaac93860b4799f67e07eed6ffc39"
   },
   {
     "url": "help/how-to-use-helperbirds-high-contrast-features/index.html",
-    "revision": "df5ec33b7c4b87d7df676d66f88f2288"
+    "revision": "381c0d8510b311f9a7e9a07fca993cec"
   },
   {
     "url": "help/how-to-use-helperbirds-reading-list-app/index.html",
-    "revision": "6bdec0385d28de5e87203b9ab7db2ea9"
+    "revision": "25a6ff2a115d37ff2ecbffe253c85d00"
   },
   {
     "url": "help/how-to-use-immersive-reader-on-any-website/index.html",
-    "revision": "a0a5d9082d5c6942319a1de9078d31b2"
+    "revision": "d5614b1adc4328524739a89a004e6ed9"
   },
   {
     "url": "help/how-to-use-my-subscription-key/index.html",
-    "revision": "55efb37e8c3a464090bf47d4ffc89ea4"
+    "revision": "149d280b51175a76f9269ebb2bf1b279"
   },
   {
     "url": "help/how-to-use-reader-mode-and-remove-ads-on-any-website/index.html",
-    "revision": "e270dc9bf01c06d3d146867b179af4a8"
+    "revision": "3042a3f9a9f41c1a2dc99aa8ffa316ee"
   },
   {
     "url": "help/how-to-use-speech-to-text-or-dictation-on-any-website/index.html",
-    "revision": "5808a43e8caa56928d0f190f176028a7"
+    "revision": "411dd902c18dd70403d4b669e31c0950"
   },
   {
     "url": "help/how-to-use-speed-reading-features-on-any-website/index.html",
-    "revision": "7389f27a6f749a6fbfaf84f4f9a8e308"
+    "revision": "8b661bdf9ed387ccb18394e78009c401"
   },
   {
     "url": "help/how-to-use-text-to-speech-on-any-website/index.html",
-    "revision": "c761044f09ad24c77f8ece21ad4856c6"
+    "revision": "0aa4d5623a5b63e48e73fb8886fe4518"
   },
   {
     "url": "help/how-to-use-the-helperbird-pdf-support/index.html",
-    "revision": "a408a7e910ecd5b2b8f0492901b391ed"
+    "revision": "362c45c57e89acee82a3230c000def27"
   },
   {
     "url": "help/how-to-use-the-quick-action-area-to-improve-accessibility-on-the-web/index.html",
-    "revision": "ffb97be0ef2d88f3ab443901669bad80"
+    "revision": "955ac405ffb95690d02f90d786306df7"
   },
   {
     "url": "help/how-to-use-word-prediction-on-any-website-or-google-docs/index.html",
-    "revision": "c0893b7c9078332a0eec104a9b766cd5"
+    "revision": "7c7cd4a03ece8186549f4b76af07e8d8"
   },
   {
     "url": "help/index.html",
-    "revision": "393566cb091b0abbcea5a6766c2b3649"
+    "revision": "55d65285ef74c275e3baee8f2f6016aa"
   },
   {
     "url": "help/installing-helperbird/index.html",
-    "revision": "40b8ae2c8561c8877c3cbcc03e149e6f"
+    "revision": "284cecd4fd4b6646d1e8f96f64971886"
   },
   {
     "url": "help/manage-my-helperbird-pro-subscription/index.html",
-    "revision": "5105c338b587cefc538eae01ba58278f"
+    "revision": "8b828fd57b250368a2518bf5d980ac12"
   },
   {
     "url": "help/useful-features-to-increase-productivity-extension/index.html",
-    "revision": "32b1a0f8dfa01ec024f6929b2be60bdf"
+    "revision": "f445ebdab03473a5ac9444b15bc29d9b"
   },
   {
     "url": "help/what-is-helperbird-free/index.html",
-    "revision": "2205da83eb9b2f35cabf7ce34e1339ae"
+    "revision": "da6956984564d38e37f942bf6b2444f4"
   },
   {
     "url": "help/what-is-helperbird-pro/index.html",
-    "revision": "3d7794d8caa267beb7701c475e2e0e29"
+    "revision": "8b111f2b521e19e2a068013a407c0589"
   },
   {
     "url": "help/what-is-helperbird-unlimited/index.html",
-    "revision": "83bffd6b969680ce6aab65e11c0eb399"
+    "revision": "ddcf2a281b0f96d96f587c3d9045a8be"
   },
   {
     "url": "in-the-news/index.html",
-    "revision": "4c24cfdb1b93898d9fae987e52c75ef4"
+    "revision": "7b9a591127c9d992129b19a59699ae9c"
   },
   {
     "url": "index.html",
-    "revision": "110220483d058f9f8e5b579069e60b15"
+    "revision": "7b594974c52de9a91aa7a564f4530848"
   },
   {
     "url": "login/index.html",
-    "revision": "5b237b51b8c8a6f5370c5f90417d2321"
+    "revision": "5c69305ecb2dfc55cf6f51869dfdfd90"
   },
   {
     "url": "order/index.html",
-    "revision": "b67683f77989bfd25cc4e1316f3127d5"
+    "revision": "a7ce64a2618e717dea3e394978cd8d44"
   },
   {
     "url": "partners/index.html",
-    "revision": "17003a8d21c74409f06bb5750ec78a46"
+    "revision": "b6be94b85239083e93b3ba44d0b4210b"
   },
   {
     "url": "partners/sascharoos/index.html",
-    "revision": "ca34bd50ee80da079ad98f5b94771e6a"
+    "revision": "128e8bb0452f85c98f9e4750c1b73828"
   },
   {
     "url": "partners/sprialisconsulting/index.html",
-    "revision": "d81a15631e27e50900f688e0ef6bcddb"
+    "revision": "76d580872d2af08cb38f0b9b7d61b573"
   },
   {
     "url": "pricing/index.html",
-    "revision": "d4e4d554e56a90fd57b60bd58732db00"
+    "revision": "5ec8538bc036330c15baacaf3264b0e4"
   },
   {
     "url": "privacy/index.html",
-    "revision": "10ffc99c1e06b749a1f2b2f3b2e4f91c"
+    "revision": "8e74fd05602d644efa1eef6967445e33"
   },
   {
     "url": "products/google-addon/index.html",
-    "revision": "bdf937a3fd1f07215c8ca7cd56114259"
+    "revision": "17ba1647a0617fe8c2b42728152f10f4"
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "e4dadda7e0edf523b26ebe5a1002b221"
+    "revision": "2f7b3f04084c5735e6043f2a5481a4a6"
   },
   {
     "url": "refund/index.html",
-    "revision": "5c2f0300dc0048b02966b05bc0e5b83e"
+    "revision": "cdb36ef44d801e73986438649a4b28f4"
   },
   {
     "url": "reviews/index.html",
-    "revision": "cb551df629539d5178fcf6091f07893c"
+    "revision": "0f3095e878a08867e4cab2586fed9264"
   },
   {
     "url": "sales/index.html",
-    "revision": "f4c1ed7463bc10b5af9e13ad241c4491"
+    "revision": "1a91ea01018607713ec343a944db49bd"
   },
   {
     "url": "security/index.html",
-    "revision": "2baf9701ccdd51562896bec0d63d09d7"
+    "revision": "6d73bf173f8d10d81b507b4455e0a59f"
   },
   {
     "url": "sitemap/index.html",
-    "revision": "824c2daca65fe6a8c1fdd72851c75964"
+    "revision": "5e81a913e5dacf0e83aa2bb7b21dc7ad"
   },
   {
     "url": "success-education/index.html",
-    "revision": "a12aa651326244badfcdfb3657709f2d"
+    "revision": "a21cf5ccba6d2cb6b73986444da02f46"
   },
   {
     "url": "success/index.html",
-    "revision": "1926fee9bea15f0c28dfc228d08f6185"
+    "revision": "13ea34aa7649a79e4948f2c609bff217"
   },
   {
     "url": "support/annotate-and-highlight-pdfs-with-helperbird-online-extension/index.html",
-    "revision": "892616254e2d553d28982040b513132f"
+    "revision": "4a238f96246391f1a3bc51a09e0901b6"
   },
   {
     "url": "support/cancel/index.html",
-    "revision": "ef15e9ef660d83c651130d170ec36b5a"
+    "revision": "b4afc545666492e1d4ad551f98101682"
   },
   {
     "url": "support/how-to-annotate-any-website-or-pdf-with-a-browser-extension/index.html",
-    "revision": "ba425e88eb95c6a4303dbe7daff9422e"
+    "revision": "ec35305d888e24a460a63439d9ba90b9"
   },
   {
     "url": "support/how-to-cancel-my-helperbird-pro-subscription/index.html",
-    "revision": "88bda40f14b426b700a52e743001d22b"
+    "revision": "c5dc729a3d9b78b27812db7050aa2889"
   },
   {
     "url": "support/how-to-change-my-email/index.html",
-    "revision": "738aa0b5b72e1afe56804aae1fdd8a4c"
+    "revision": "311c64e97751a781f56ca17d8625bfd7"
   },
   {
     "url": "support/how-to-login-into-helperbird/index.html",
-    "revision": "ce57cc88787c96a20e57b43565d2ab43"
+    "revision": "d6f2d3e9791dda9e86f61b74f43486e6"
   },
   {
     "url": "support/how-to-set-custom-shortcuts-in-helperbird-chrome-firefox-edge/index.html",
-    "revision": "7b5f78bb882bfc2b0d10e7fb67b81107"
+    "revision": "207a958363a3a1d2ed2a04a3f79189f3"
   },
   {
     "url": "support/how-to-use-immersive-reader-in-google-chrome-firefox-edge/index.html",
-    "revision": "06f2642654ac1e90e25b1ead2afb20d0"
+    "revision": "9052473e9bd90aafcf2c2b4bf09c4b2a"
   },
   {
     "url": "support/how-to-use-reader-mode-in-google-chrome-firefox-edge/index.html",
-    "revision": "e68644e8bfbd669ccd32fbc2d4edb435"
+    "revision": "5bd1b258860c1aa2c1cd1815558d887d"
   },
   {
     "url": "support/how-to-use-reader-mode-to-remove-website-distractions-in-chrome-firefox-edge/index.html",
-    "revision": "e2f7a534f1d25d6e4f034238f90c75b2"
+    "revision": "a7cc636c339cda4226eff4020970b183"
   },
   {
     "url": "support/index.html",
-    "revision": "2898e65012f15016ac7b8614760db59f"
+    "revision": "caeb02222272ef9d1d87b8d9cabc2cf8"
   },
   {
     "url": "survey/index.html",
-    "revision": "f416ab42f94736f68be63947c6dcf320"
+    "revision": "54067228c6ab18deb4f3e4c95cdea301"
   },
   {
     "url": "terms-of-service/index.html",
-    "revision": "17af5e2b00a970d36c0d05fa3c4be5be"
+    "revision": "5a58e4d14e4c4b5578e0de6f2f123c14"
   },
   {
     "url": "testimonials/index.html",
-    "revision": "0f75acf895050cfa2de775a0641a7cd5"
+    "revision": "d101853997f9d63dec8b67b484338682"
   },
   {
     "url": "tutorials/index.html",
-    "revision": "8a1f226096e86cbfb49544471f2379d1"
+    "revision": "c5f805df48b5a54e8b1b149c4b53edf8"
   },
   {
     "url": "updates/100-0-0/index.html",
-    "revision": "bdec8df4a9fe2385a617c61db6e35135"
+    "revision": "055ba1360e445396e465f68f181894bb"
   },
   {
     "url": "updates/100-0-1/index.html",
-    "revision": "34d9a5029175608f3f1f73bb2972aaa6"
+    "revision": "0a7256c11c88b0994cf7018a712d8125"
   },
   {
     "url": "updates/100-0-3/index.html",
-    "revision": "894eaf8579568be66659c6682090c205"
+    "revision": "9d101b655df72673dab95a36d5d693df"
   },
   {
     "url": "updates/100-0-4/index.html",
-    "revision": "58dc6157cd211eaccc3400cbddb311f6"
+    "revision": "9f52d436e201e0582e24fa1a819fccd0"
   },
   {
     "url": "updates/100-0-5/index.html",
-    "revision": "2506c011735f74e334bae18bfebe9fec"
+    "revision": "2471e8bce692e711c208ff4228298ee4"
   },
   {
     "url": "updates/100-0-6/index.html",
-    "revision": "a98b5271a6bddf685b4b20086c04b369"
+    "revision": "12e7b1bd80a3ec7aec9eff98bfbb37fd"
   },
   {
     "url": "updates/100-0-7/index.html",
-    "revision": "17cb03a670a7da72d9017cbab35424e6"
+    "revision": "2258483f77f06bdf6b3e7c515f633eb0"
   },
   {
     "url": "updates/100-1-0/index.html",
-    "revision": "5c07e4b595a2124a52828ab54be65da9"
+    "revision": "b7bb06f6743079dab5ebec0527adaac6"
   },
   {
     "url": "updates/100-1-1/index.html",
-    "revision": "01cd39c96d61c842908f195017ca173c"
+    "revision": "520dd5e715a926e72e99336ff0d076bf"
   },
   {
     "url": "updates/100-1-3/index.html",
-    "revision": "d699ebfbb98c7702b472013911f9c430"
+    "revision": "01c6ce4f8778db5dd34fc936f26bd612"
   },
   {
     "url": "updates/100-5-0/index.html",
-    "revision": "73cefe6d006f7d7f2ba97e8f230fcad6"
+    "revision": "f6ea3eb9d3e4283628a16bec98f51104"
   },
   {
     "url": "updates/100-6-0/index.html",
-    "revision": "abb732b604e34f48a4000d3cc2e21da0"
+    "revision": "7c8263dc60649ee945bf06c9b20fda27"
   },
   {
     "url": "updates/100-6-1/index.html",
-    "revision": "8e4e35ced252779183825c39bb91032d"
+    "revision": "38cb048b73008068092e1c90439ae870"
   },
   {
     "url": "updates/24-1-0/index.html",
-    "revision": "deb6c2e1bc05eff14223d67b58685f5e"
+    "revision": "d9ae775ff7ddbcfb5de55567178ded3f"
   },
   {
     "url": "updates/24-1-1/index.html",
-    "revision": "a8c8e060830db89c036726c3345dd55a"
+    "revision": "c25dea701e70386d9c5ca659a1d6e7a9"
   },
   {
     "url": "updates/24-1-2/index.html",
-    "revision": "724e7e8518ae949f4d6ee2a57cf3aadf"
+    "revision": "c68dbd5c4615c4148ace7288aa34ab07"
   },
   {
     "url": "updates/24-2-2/index.html",
-    "revision": "31a3818d3f3669d61b9a3750a83f059f"
+    "revision": "5554002d4ff20af4d2cda98b40b3ed2c"
   },
   {
     "url": "updates/24-2-4/index.html",
-    "revision": "8f9cdb05c58ed5d207edeb9c91d7e1c4"
+    "revision": "736febc1b659dde18ff9a494036120d2"
   },
   {
     "url": "updates/24-3-0/index.html",
-    "revision": "634904a28b944f9d8db33ab4d04ed196"
+    "revision": "e66289d4388d3bc896b035aa95655540"
   },
   {
     "url": "updates/25-0-0/index.html",
-    "revision": "795b513c73229b139d72c493ed3a29a8"
+    "revision": "b5c8556253d86fbcb35f1fe8aec1b43b"
   },
   {
     "url": "updates/25-0-1/index.html",
-    "revision": "893f976068cf2f7c18df4c43abc28e90"
+    "revision": "3ef199b087e5f9186fb2f195c4dd9a3a"
   },
   {
     "url": "updates/25-1-0/index.html",
-    "revision": "98e5dae883f6d7bf2d50f582e936307a"
+    "revision": "83eceb1c95c78944e2fc3a30aad5ac11"
   },
   {
     "url": "updates/26-0-1/index.html",
-    "revision": "3cee0e0f271d30c1166800ce4bf308df"
+    "revision": "dd01a707906c8c259e3284edb4ee3e35"
   },
   {
     "url": "updates/26-0-2/index.html",
-    "revision": "dabbcdf01ecd300497e7f5652653dd9a"
+    "revision": "1a5b21a473761c76967cb11b2b10eeb6"
   },
   {
     "url": "updates/26-1-1/index.html",
-    "revision": "0663dfbbd20dcf02f18bc1b5cf77817f"
+    "revision": "3d8f8bda2564a39c5895248c8ae687c1"
   },
   {
     "url": "updates/27-0-0/index.html",
-    "revision": "dc4355803a8407fe4a23665700be1d2c"
+    "revision": "1898c1dfd51015b81dd30fcde05e3c5b"
   },
   {
     "url": "updates/27-1-0/index.html",
-    "revision": "8937e36f18ae360540a48db6061395d4"
+    "revision": "9f0a2e105e3452146ff66e2c3397ddec"
   },
   {
     "url": "updates/28-0-2/index.html",
-    "revision": "5ee5baebf6158afa391396d383a4c82d"
+    "revision": "36cc1374e94becbf7356bda71808d048"
   },
   {
     "url": "updates/30-0-0/index.html",
-    "revision": "4728fe381fd375bbe78f0c6d8a76714e"
+    "revision": "86fb1aad111f000d80b8b8a21b56f703"
   },
   {
     "url": "updates/30-2-0/index.html",
-    "revision": "79e5db74eab7437d72b5b062798b79f0"
+    "revision": "c0d802a52b51b4000f814ad258fa2c89"
   },
   {
     "url": "updates/30-3-0/index.html",
-    "revision": "08d6af8532756474d6b15e4481278ff4"
+    "revision": "578e5f41185560ab43cfe03efceef870"
   },
   {
     "url": "updates/30-4-0/index.html",
-    "revision": "ae6f3ab22cc0b2fff853c7ee32591817"
+    "revision": "198838b2727b82dc8ff8ccb22bff803b"
   },
   {
     "url": "updates/30-5-0/index.html",
-    "revision": "b90c6f8e5cd7608f0347875c3e56c5b7"
+    "revision": "b7b22606c48c2c47ecfee860fcc13fd0"
   },
   {
     "url": "updates/30-6-0/index.html",
-    "revision": "91af650a9752a483174fb719f6edf5a6"
+    "revision": "5e0e03927eca2a8cbd7ba94aeb7f329b"
   },
   {
     "url": "updates/31-0-0/index.html",
-    "revision": "0a0f211385e3c7385d0769e2ce6a7cea"
+    "revision": "d0cc36ea73967b4ef924ebb0f17156b6"
   },
   {
     "url": "updates/32-0-0/index.html",
-    "revision": "1279ab23761546581e56d356c125c58c"
+    "revision": "797624543d090ddb3c95b1a62635efcd"
   },
   {
     "url": "updates/32-1-0/index.html",
-    "revision": "a55e61be7808698a045742e0fc888d52"
+    "revision": "3596f17a30e1c5a012ad949218fb3963"
   },
   {
     "url": "updates/33-0-0/index.html",
-    "revision": "4de881fad1d13ab98033f02b6519e477"
+    "revision": "afb4b9abaff5acdcb908cdf55ad65d59"
   },
   {
     "url": "updates/35-0-0/index.html",
-    "revision": "a5d76582cb01b35d0c5705106e17ee56"
+    "revision": "2fed7688412768340d4702d5180b6110"
   },
   {
     "url": "updates/36-0-0/index.html",
-    "revision": "8c9e582ad3ecb1bd3e08809847ce7a4d"
+    "revision": "e4db0a69cd6287a7f0d8c04b53012e27"
   },
   {
     "url": "updates/36-0-5/index.html",
-    "revision": "d7a0c104cf73745b5252569ea96722eb"
+    "revision": "c059cff4afcb7b509a5c199f46cb1545"
   },
   {
     "url": "updates/40-0-0/index.html",
-    "revision": "66d5f1596358daaef8eba3ec1c19f9dd"
+    "revision": "75504e8ecc1e293c27aa7f698936bcbe"
   },
   {
     "url": "updates/40-0-1/index.html",
-    "revision": "b55a6c592851e63a322e64f8238f1aa0"
+    "revision": "72341f43cd853c4e559b6596e9389581"
   },
   {
     "url": "updates/40-1-0/index.html",
-    "revision": "baeb36935baf98499018ed454f1c3932"
+    "revision": "8254c007c039518fad58d89e7d051ad2"
   },
   {
     "url": "updates/50-0-0/index.html",
-    "revision": "65e09987e70405b286cef8704095a9be"
+    "revision": "586cdb311418dbd77226ec8ceeeab4be"
   },
   {
     "url": "updates/55-0-0/index.html",
-    "revision": "2abe6b7231e150555424561b1d9b246e"
+    "revision": "0d38cf0b36a8894b61f54836a6bf3144"
   },
   {
     "url": "updates/55-1-0/index.html",
-    "revision": "13d119aeb8a03a8c4fd0b0d978f6c18c"
+    "revision": "b9a88859e466ccddf099680d40832e17"
   },
   {
     "url": "updates/56-0-0/index.html",
-    "revision": "296d266726c5a7bbb5330da6ee1b6060"
+    "revision": "677855a598694e9b1109484ddaf2f195"
   },
   {
     "url": "updates/60-0-0/index.html",
-    "revision": "c0ab82b997ddb1d75b19b53af955ce14"
+    "revision": "5cc001f5f2b98d9b4fb70bb0d1f03708"
   },
   {
     "url": "updates/60-1-0/index.html",
-    "revision": "f18d701dea9eeac37e35edd228903b5a"
+    "revision": "94fc788cc2ac9cbf4d304ed19fc31edb"
   },
   {
     "url": "updates/60-1-1/index.html",
-    "revision": "743edc5c13c8d6bb17cb12a733db5547"
+    "revision": "c6428634be9b37d7bf8555a93e1e9251"
   },
   {
     "url": "updates/61-0-0/index.html",
-    "revision": "1684b64ee94f2aaca37e09694b16a67a"
+    "revision": "aa0662fb253b9b504e8f144792873132"
   },
   {
     "url": "updates/70-0-0/index.html",
-    "revision": "6b26cb9e204cbea0867d2abfcb0cbf1e"
+    "revision": "097e2af471d9493c3bdcc0cf6fa779d7"
   },
   {
     "url": "updates/70-1-0/index.html",
-    "revision": "be55200dc5db05fab85fa5409d12bf2b"
+    "revision": "c896da0c4a81c9b15daab77af48ebc67"
   },
   {
     "url": "updates/70-2-1/index.html",
-    "revision": "3b2afa48fe211aca95f511b820ec812a"
+    "revision": "dc4acbc9c0ab41b62ba5a62a7869d36d"
   },
   {
     "url": "updates/75-0-0/index.html",
-    "revision": "f0b99dfd7dd13ec2ecf8af2e96eac764"
+    "revision": "73a60e3ddc15918cc5c795824ed0f3a6"
   },
   {
     "url": "updates/76-0-0/index.html",
-    "revision": "138a9e9f7478251e0900f927f1d66bb0"
+    "revision": "4c740ede06bae686596f7bf35f438cdf"
   },
   {
     "url": "updates/80-0-0/index.html",
-    "revision": "0654a5a63140315e641c7f6eb0b16a5e"
+    "revision": "71fc05eee260c1b8e9e41c4db00fcb84"
   },
   {
     "url": "updates/80-1-0/index.html",
-    "revision": "84bc268973712ca44d7b37df1ff34c2a"
+    "revision": "7389b27db503f920a213b4d9930415b9"
   },
   {
     "url": "updates/80-2-0/index.html",
-    "revision": "9db870b574a1933b019254aa20fe35d8"
+    "revision": "5d46415ca375b511f10bf27249af3b36"
   },
   {
     "url": "updates/80-3-0/index.html",
-    "revision": "dfcfbff8bd8599d94b5f2830a69662ff"
+    "revision": "58b748dda0893717f4290e78e36ff232"
   },
   {
     "url": "updates/80-4-0/index.html",
-    "revision": "16f9772270727503096e9511322b0f2e"
+    "revision": "8f27791de767ae2f6f4c1d9948ab9fd0"
   },
   {
     "url": "updates/80-4-1/index.html",
-    "revision": "73825f278d61d2e916092f8cbc66106f"
+    "revision": "bd7eda59def12482c564a24f7843016e"
   },
   {
     "url": "updates/80-5-0/index.html",
-    "revision": "10f1fe82f6d65bdae819836b560e61e6"
+    "revision": "c945bb0acd47e64864415bbea0d26eaf"
   },
   {
     "url": "updates/80-5-1/index.html",
-    "revision": "a3a5300bf6d98bb82a049730f3ecc9e6"
+    "revision": "3c8bf8e582cd8e34b3af6a2d8ddfb773"
   },
   {
     "url": "updates/90-0-0/index.html",
-    "revision": "0b1f486e3884cfa6cb74762ec60ab3a2"
+    "revision": "07f980e522961d7d924608b8325c6ab2"
   },
   {
     "url": "updates/90-1-0/index.html",
-    "revision": "4a105995e67ae486928bdb5f64529d45"
+    "revision": "2c514a2bfff3c38a371ecf68bfb2cfc6"
   },
   {
     "url": "updates/90-1-1/index.html",
-    "revision": "814e264d9b18c9ac88350fa9a815ea07"
+    "revision": "60fe4824ccb4cccc77db22f8ad0d8000"
   },
   {
     "url": "updates/90-1-4/index.html",
-    "revision": "e11d2652ea3558cd194b3f34ac45f158"
+    "revision": "2b260fc49d63875ef16d1c6cea9ac7ad"
   },
   {
     "url": "updates/index.html",
-    "revision": "387c0d8e005a66ef3bbfcb77c1b34d14"
+    "revision": "7b4375d278c34134304e64ec83fa899b"
   },
   {
     "url": "updates/kingfisher/index.html",
-    "revision": "710dec0b43633b4417f654ca4eaa2649"
+    "revision": "2e451ccd28fed2949ebd68721c6ed2c3"
   },
   {
     "url": "welcome/index.html",
-    "revision": "0e38fe860d3775c1c606d6af7e3bfcea"
+    "revision": "8a0f5112d6ce3e6eb7e15f0a635875b5"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
