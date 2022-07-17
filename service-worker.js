@@ -2424,7 +2424,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia/index.html",
-    "revision": "7edec263887b3cf430aac05b54b4745c"
+    "revision": "5346dfb2a46b9fc6a7b84068d9449970"
   },
   {
     "url": "blog/signin/index.html",
