@@ -3076,7 +3076,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-set-custom-shortcuts-in-helperbird-chrome-firefox-edge/index.html",
-    "revision": "106dde4e179ac9fe317be27baea48a20"
+    "revision": "f17792e78d933df7733b7c44777e6bdd"
   },
   {
     "url": "support/how-to-use-immersive-reader-in-google-chrome-firefox-edge/index.html",
