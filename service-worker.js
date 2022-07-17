@@ -2396,7 +2396,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "ba57ee6fc5beff72f877bf12f7b9c833"
+    "revision": "2c2790b9de7087f5154e52bbc6734a12"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
@@ -2480,7 +2480,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/index.html",
-    "revision": "61b0305cfdcd6843ac00ab33057980ad"
+    "revision": "3ec6bb303c81d45b262f21ee0f98f220"
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
@@ -2956,7 +2956,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/useful-features-to-increase-productivity-extension/index.html",
-    "revision": "1be6c03c7bafed050fad43711848d01c"
+    "revision": "32b1a0f8dfa01ec024f6929b2be60bdf"
   },
   {
     "url": "help/what-is-helperbird-free/index.html",
