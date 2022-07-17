@@ -2360,7 +2360,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/giveaway-rules/index.html",
-    "revision": "d0d79379c7b778d5a5da91410224d5f1"
+    "revision": "7b16ccfed785bd3b7d1bb80594276af3"
   },
   {
     "url": "blog/helperbirds-winner-of-the-2021-chromebook/index.html",
