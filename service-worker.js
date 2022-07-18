@@ -415,6 +415,10 @@ self.__precacheManifest = [
     "revision": "a070e52c3f0eeaa644769a60b2ccc8a7"
   },
   {
+    "url": "assets/images/graph/feature/alt.png",
+    "revision": "3b7e0bd77785a0d1fe1ab313c5d66669"
+  },
+  {
     "url": "assets/images/graph/grayscale.png",
     "revision": "0399a7800751dae827f6840e9de29432"
   },
@@ -2532,7 +2536,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/alt-tool-tip-highlighter/index.html",
-    "revision": "8cbc18b2930b9aefa37314b2bbf49c73"
+    "revision": "2f9bbdc77e435ccbf507136fbb611da9"
   },
   {
     "url": "features/analyze/index.html",
@@ -3044,7 +3048,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "67c23faa36088d433ef66416fae50798"
+    "revision": "6d86ef866825769bc5aa6137fc503b75"
   },
   {
     "url": "success-education/index.html",
