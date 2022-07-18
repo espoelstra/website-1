@@ -411,6 +411,10 @@ self.__precacheManifest = [
     "revision": "ca91b562c6c48c663ac54ccd0fe4e305"
   },
   {
+    "url": "assets/images/graph/feature/adjust-letter.png",
+    "revision": "a070e52c3f0eeaa644769a60b2ccc8a7"
+  },
+  {
     "url": "assets/images/graph/grayscale.png",
     "revision": "0399a7800751dae827f6840e9de29432"
   },
@@ -2524,7 +2528,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
-    "revision": "83fb903485bf03a4f55f5a9319466dd1"
+    "revision": "96c45ef6087759b406b09ec8ca8203b0"
   },
   {
     "url": "features/alt-tool-tip-highlighter/index.html",
@@ -3040,7 +3044,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "892c78956fa02318947b6210a62bc3eb"
+    "revision": "67c23faa36088d433ef66416fae50798"
   },
   {
     "url": "success-education/index.html",
