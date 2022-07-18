@@ -2528,7 +2528,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/adjust-letters-and-words/index.html",
-    "revision": "96c45ef6087759b406b09ec8ca8203b0"
+    "revision": "8e01d38f1385e929505fe166584d21af"
   },
   {
     "url": "features/alt-tool-tip-highlighter/index.html",
