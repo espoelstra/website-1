@@ -3660,7 +3660,7 @@ self.__precacheManifest = [
   },
   {
     "url": "order/index.html",
-    "revision": "e9f8efa1ae6aaf7fcb1d1a8abd75360b"
+    "revision": "75842fb7fe0926e122f055b7aa899bee"
   },
   {
     "url": "order/index.png",
@@ -3692,7 +3692,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pricing/index.html",
-    "revision": "17d4ade98313d5568574ad662dd274e4"
+    "revision": "840acab9628c47da85e58ec7e6b8c704"
   },
   {
     "url": "pricing/index.png",
@@ -3780,7 +3780,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/annotate-and-highlight-pdfs-with-helperbird-online-extension/index.html",
-    "revision": "827122a7c2a00955b3be76e4eff4112b"
+    "revision": "6319bcf9e19c5014990bb2631ffb0d7d"
   },
   {
     "url": "support/annotate-and-highlight-pdfs-with-helperbird-online-extension/index.png",
@@ -3788,7 +3788,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/cancel/index.html",
-    "revision": "54b8edf8736bdbefb52706fbbd3f1a53"
+    "revision": "4f0105811dacc134e5d0227723df4b60"
   },
   {
     "url": "support/cancel/index.png",
@@ -3796,7 +3796,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-annotate-any-website-or-pdf-with-a-browser-extension/index.html",
-    "revision": "7ddbd906dbc3f61a91b3af8747e0824d"
+    "revision": "73d7d802cb5398b2df313259025fefa7"
   },
   {
     "url": "support/how-to-annotate-any-website-or-pdf-with-a-browser-extension/index.png",
@@ -3804,7 +3804,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-cancel-my-helperbird-pro-subscription/index.html",
-    "revision": "2bf2d1820c4996fe48bea30c8efe87b1"
+    "revision": "f693bcc38d42678f5f809adffe2bff09"
   },
   {
     "url": "support/how-to-cancel-my-helperbird-pro-subscription/index.png",
@@ -3812,7 +3812,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-change-my-email/index.html",
-    "revision": "416e9e0a88ce44063350094044fc9657"
+    "revision": "aa1487379454ed7b73598b8d77adb785"
   },
   {
     "url": "support/how-to-change-my-email/index.png",
@@ -3820,7 +3820,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-login-into-helperbird/index.html",
-    "revision": "a4fff387b34e2a7675215ab97cb9ed57"
+    "revision": "aa0a6abd7ed1c86dad91dd9bf0653354"
   },
   {
     "url": "support/how-to-login-into-helperbird/index.png",
@@ -3828,7 +3828,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-set-custom-shortcuts-in-helperbird-chrome-firefox-edge/index.html",
-    "revision": "f33bb7aae4e31a9e1a3eb061ff0cb7ad"
+    "revision": "cc00075546c5a3dc2b563b24ee5876c0"
   },
   {
     "url": "support/how-to-set-custom-shortcuts-in-helperbird-chrome-firefox-edge/index.png",
@@ -3836,7 +3836,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-use-immersive-reader-in-google-chrome-firefox-edge/index.html",
-    "revision": "1755f7d4e838f5ac04ce415dfa30796f"
+    "revision": "df2b1f13d8b565488165f1d57eb21f7d"
   },
   {
     "url": "support/how-to-use-immersive-reader-in-google-chrome-firefox-edge/index.png",
@@ -3844,7 +3844,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-use-reader-mode-in-google-chrome-firefox-edge/index.html",
-    "revision": "bb1de391301e01c0f32e4667b468d20b"
+    "revision": "11d14aa2defcea36dabfbd3d7729d5c2"
   },
   {
     "url": "support/how-to-use-reader-mode-in-google-chrome-firefox-edge/index.png",
@@ -3852,7 +3852,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-use-reader-mode-to-remove-website-distractions-in-chrome-firefox-edge/index.html",
-    "revision": "2226aa8069705fc875d12d6084331404"
+    "revision": "6dd6709ab77dc70361c6b3a73ea8d693"
   },
   {
     "url": "support/how-to-use-reader-mode-to-remove-website-distractions-in-chrome-firefox-edge/index.png",
@@ -3876,7 +3876,7 @@ self.__precacheManifest = [
   },
   {
     "url": "terms-of-service/index.html",
-    "revision": "6ff4303c060a5faacb1b20ab6e9dceee"
+    "revision": "44d27fb5a6ad872b9beaae8b02b3abc4"
   },
   {
     "url": "terms-of-service/index.png",
