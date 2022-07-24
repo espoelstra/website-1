@@ -2532,7 +2532,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/stay-on-task-8-productivity-tips-to-help-you-stay-focused-at-work/index.html",
-    "revision": "2e1dfd9d9723cf5457efd373deef4ac8"
+    "revision": "2711d911e81df341c37d46411265b203"
   },
   {
     "url": "blog/stay-on-task-8-productivity-tips-to-help-you-stay-focused-at-work/index.png",
@@ -2588,7 +2588,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.html",
-    "revision": "c2ec577c51697fb99551a9084418ad7f"
+    "revision": "907c7eb9cdd94bcd06257481e82079bf"
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.png",
@@ -2660,7 +2660,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/snap-and-read-alternative/index.html",
-    "revision": "9f26a31dc7827b1251b7b0a746d476bf"
+    "revision": "f93cab950b60b948553c765875792140"
   },
   {
     "url": "compare/snap-and-read-alternative/index.png",
@@ -3684,7 +3684,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/sprialisconsulting/index.html",
-    "revision": "de6e5f4c6e280ca62f7b1cc2086eed97"
+    "revision": "05e0788c47bdf4ea674b303b08228a4a"
   },
   {
     "url": "partners/sprialisconsulting/index.png",
@@ -3692,7 +3692,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pricing/index.html",
-    "revision": "895bf8b508f615c618c2f10c5b4e98cb"
+    "revision": "cbb5883a20a7be7feea338161d31a71e"
   },
   {
     "url": "pricing/index.png",
