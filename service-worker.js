@@ -2352,7 +2352,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "703d8a7bd577fd107d3590a10aa620dd"
+    "revision": "8a70ddea61767f7b0bbf6c9ca4b1e23c"
   },
   {
     "url": "assets/videos/HBmenu1.png",
@@ -2396,7 +2396,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
-    "revision": "b8386c2a8cbfe5656466e304f41c3d76"
+    "revision": "644d0dcd83b44c099839f29886540313"
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.png",
@@ -2764,7 +2764,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/bookmarks/index.html",
-    "revision": "5a7322f35ad72de47d13ca31382c2a50"
+    "revision": "953189e1c1ae5c4eb1ca28b94d8c8f32"
   },
   {
     "url": "features/bookmarks/index.png",
@@ -2804,7 +2804,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/editor/index.html",
-    "revision": "f5f38d5a093c9db2845f6503527c8f9f"
+    "revision": "27d2f9c8ccce7f9d42defee7a72888ef"
   },
   {
     "url": "features/editor/index.png",
@@ -2812,7 +2812,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/font-sizes/index.html",
-    "revision": "f1ac617b37a59224638aad90ec39ff21"
+    "revision": "a87db79bee206b57936383ccb50b07c3"
   },
   {
     "url": "features/font-sizes/index.png",
@@ -2836,7 +2836,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/hide-images/index.html",
-    "revision": "5e32168e1b5ee6bdc6ae89949d5da133"
+    "revision": "1b193f238d3b9c3db755f097f2e4fa61"
   },
   {
     "url": "features/hide-images/index.png",
@@ -2852,7 +2852,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/highlight-paragraphs/index.html",
-    "revision": "e6a9daca0e69ecb3bf9855e726526736"
+    "revision": "23d5002e187ea9d459ef0b956c24b8f5"
   },
   {
     "url": "features/highlight-paragraphs/index.png",
@@ -2860,7 +2860,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/immersive-reader-for-chrome/index.html",
-    "revision": "3a6d1c210ee039074a4e7561742f9856"
+    "revision": "8379ca816a3029744c11351bd0a4eb8d"
   },
   {
     "url": "features/immersive-reader-for-chrome/index.png",
@@ -2876,7 +2876,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/mute-videos/index.html",
-    "revision": "24ab4ac6528bf4b5a5f7e4034f67f0d0"
+    "revision": "2705e9c43d0b4174833af90a71845832"
   },
   {
     "url": "features/mute-videos/index.png",
@@ -2884,7 +2884,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/notes/index.html",
-    "revision": "c63e7ea4c9a756844518830b4f5cdc47"
+    "revision": "cfb8502a8ce2181fe56ae2dc8c8f01e1"
   },
   {
     "url": "features/notes/index.png",
@@ -2892,7 +2892,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/optical-character-recognition/index.html",
-    "revision": "a81cad864b0c26580a4376b94d018b41"
+    "revision": "cdd9de913ae3f648b1876fc26278cdf8"
   },
   {
     "url": "features/optical-character-recognition/index.png",
@@ -2908,7 +2908,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/paragraph-widths/index.html",
-    "revision": "ff6d4252937e8767c3e3ce2df625b5a6"
+    "revision": "680f05624e9807019eb14d11fadcab45"
   },
   {
     "url": "features/paragraph-widths/index.png",
@@ -2916,7 +2916,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/pdfs/index.html",
-    "revision": "71128a2bc0035d8c4a142b786418d5be"
+    "revision": "38dbf478d98307a1556bd99ca518553c"
   },
   {
     "url": "features/pdfs/index.png",
@@ -2964,7 +2964,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/screenshot/index.html",
-    "revision": "b3c80b33ecdf085945c9833bdc946ab4"
+    "revision": "1f88c3a32c605d875f844ab71bbb26c5"
   },
   {
     "url": "features/screenshot/index.png",
@@ -2972,7 +2972,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/shortcuts/index.html",
-    "revision": "4e7e41501e497cd3ee448845078189b1"
+    "revision": "450874460d2cf41594d09d59bcda7257"
   },
   {
     "url": "features/shortcuts/index.png",
@@ -2980,7 +2980,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/specialised-dyslexic-fonts/index.html",
-    "revision": "8339e2a74ba6a7c70fbf4c7549c26bd9"
+    "revision": "9c1b56d96dfeecd3902c8244b3563574"
   },
   {
     "url": "features/specialised-dyslexic-fonts/index.png",
@@ -2988,7 +2988,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/speech-to-text/index.html",
-    "revision": "5b099d961ffeb859645583d8d18ae297"
+    "revision": "0e121e4a48d65148270257fac8e826c8"
   },
   {
     "url": "features/speech-to-text/index.png",
@@ -3028,7 +3028,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/text-align/index.html",
-    "revision": "df976cf27ca015aae3d029b54d9613ec"
+    "revision": "a0cf34ff95b07909178158e0a1897c71"
   },
   {
     "url": "features/text-align/index.png",
@@ -3036,7 +3036,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/text-to-speech/index.html",
-    "revision": "c3b8b7a172870fa021fe35258e91de6e"
+    "revision": "58957d9e13345b419a34e855a9248d87"
   },
   {
     "url": "features/text-to-speech/index.png",
@@ -3044,7 +3044,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/word-prediction/index.html",
-    "revision": "fc2ea868537ed93e78987aeee84dda4b"
+    "revision": "23b4bc9bd032c755ee6d6212d761c2cc"
   },
   {
     "url": "features/word-prediction/index.png",
@@ -3052,7 +3052,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/zoom/index.html",
-    "revision": "9be467c327d2de15aef1962731d02fb5"
+    "revision": "226f9de45f788751dee518036dd7a420"
   },
   {
     "url": "features/zoom/index.png",
@@ -3116,7 +3116,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.html",
-    "revision": "6a420f49f38252429a0d8c4a0c8fd40f"
+    "revision": "59370bf0ce836cd1ae3d668137ea8bd9"
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.png",
@@ -3692,7 +3692,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pricing/index.html",
-    "revision": "4cafafbc73e53e4693941174888b6ddd"
+    "revision": "61f7f656924ff573f8426fa2dac907c0"
   },
   {
     "url": "pricing/index.png",
@@ -3756,7 +3756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "f915a49f000f75900aa454b761fcb845"
+    "revision": "42351b8e12106e40c0f6255c49605573"
   },
   {
     "url": "sitemap/index.png",
@@ -3900,7 +3900,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/100-0-0/index.html",
-    "revision": "df44f7cc01245593d1d9453d50c8c04f"
+    "revision": "d6843bff868780bc9b7a0fb7693488fd"
   },
   {
     "url": "updates/100-0-0/index.png",
@@ -3908,7 +3908,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/100-0-1/index.html",
-    "revision": "09add57fafa18156be504e2ef81dda07"
+    "revision": "fde0e88a333990ba7ef6f0a12e549a40"
   },
   {
     "url": "updates/100-0-1/index.png",
