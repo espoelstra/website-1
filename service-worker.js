@@ -2396,7 +2396,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
-    "revision": "7df583b6197922abb45d1c5548e0f386"
+    "revision": "b8386c2a8cbfe5656466e304f41c3d76"
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.png",
@@ -2556,7 +2556,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.html",
-    "revision": "e1b8b18f14c6ff95401815839f75bb7f"
+    "revision": "fe6a0e2e4fa1c6d65149ea5255fa8af6"
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.png",
@@ -3116,7 +3116,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.html",
-    "revision": "814f412138c9d8001828d327162e1a76"
+    "revision": "6a420f49f38252429a0d8c4a0c8fd40f"
   },
   {
     "url": "help/helperbird-for-ios-ipad-iphone-is-missing-features/index.png",
@@ -3636,7 +3636,7 @@ self.__precacheManifest = [
   },
   {
     "url": "in-the-news/index.html",
-    "revision": "08b4172346537d352379e0d90b2f5e31"
+    "revision": "b1973f35953398e9483a81f317edcc20"
   },
   {
     "url": "in-the-news/index.png",
@@ -3668,7 +3668,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/index.html",
-    "revision": "e15a17afd314dee4efb47ecf6aa857c5"
+    "revision": "73e4b77a8afba6a78ce86ab964e2e3a0"
   },
   {
     "url": "partners/index.png",
