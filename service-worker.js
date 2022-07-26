@@ -3084,7 +3084,7 @@ self.__precacheManifest = [
   },
   {
     "url": "guides/index.html",
-    "revision": "3644240744fd2569586e768e99862ed0"
+    "revision": "b207971ddf4e741f4e03cedc57b80b28"
   },
   {
     "url": "guides/index.png",
@@ -3260,7 +3260,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-change-the-text-alignment-on-any-website/index.html",
-    "revision": "27f205d634de2e046df069beab570814"
+    "revision": "efdaae864ac51da8f85d7a11ff4f47b6"
   },
   {
     "url": "help/how-to-change-the-text-alignment-on-any-website/index.png",
@@ -3532,7 +3532,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-use-speech-to-text-or-dictation-on-any-website/index.html",
-    "revision": "c7bc6c82a768ab4d874c1dd0f5985749"
+    "revision": "44157bb501cbba382dca48cd8ea751cc"
   },
   {
     "url": "help/how-to-use-speech-to-text-or-dictation-on-any-website/index.png",
