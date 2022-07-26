@@ -3060,7 +3060,7 @@ self.__precacheManifest = [
   },
   {
     "url": "feedback/index.html",
-    "revision": "7e708b1d9933a3ed25b18859905a8fa0"
+    "revision": "1ff8e474ee5222afe8088eef080aea81"
   },
   {
     "url": "feedback/index.png",
@@ -3636,7 +3636,7 @@ self.__precacheManifest = [
   },
   {
     "url": "in-the-news/index.html",
-    "revision": "1a66d4d3845295f6f0ed7b53f8e7ae9a"
+    "revision": "4c31e6842147e41f327d0392d672f533"
   },
   {
     "url": "in-the-news/index.png",
