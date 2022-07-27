@@ -2628,7 +2628,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "e621adf9fa620b78534a5a904fea9bf4"
+    "revision": "be366e712680b8dcd8c4b2e7e9ea891e"
   },
   {
     "url": "chrome/index.png",
@@ -3756,7 +3756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "4aae1f4b782ca937379c8ed60fd6babb"
+    "revision": "3929e9410650fc761f6b2a4d8ef78070"
   },
   {
     "url": "sitemap/index.png",
