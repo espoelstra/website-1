@@ -2956,7 +2956,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/ruler/index.html",
-    "revision": "2f1b08e9b5623b8b7ef717fb42586532"
+    "revision": "40ac98d7f9440d3c318e94fdf0c38028"
   },
   {
     "url": "features/ruler/index.png",
@@ -3756,7 +3756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "3929e9410650fc761f6b2a4d8ef78070"
+    "revision": "7cad3937eb6ef5e513576ebc4788c7f2"
   },
   {
     "url": "sitemap/index.png",
