@@ -2748,7 +2748,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/annotation/index.html",
-    "revision": "58502d2ff25d36281d4869c4ef9b44b6"
+    "revision": "f037fd57be73a2c8a068a13ffab5b8ac"
   },
   {
     "url": "features/annotation/index.png",
@@ -3036,7 +3036,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/text-to-speech/index.html",
-    "revision": "1586a497646155ced9bdf62128d52499"
+    "revision": "14d0816c605ced87e50bae709efae698"
   },
   {
     "url": "features/text-to-speech/index.png",
@@ -3756,7 +3756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "7cad3937eb6ef5e513576ebc4788c7f2"
+    "revision": "443df0ad4cd1730a841e8ad4ae572a2b"
   },
   {
     "url": "sitemap/index.png",
