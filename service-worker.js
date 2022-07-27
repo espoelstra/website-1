@@ -2756,7 +2756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/auto-scroll/index.html",
-    "revision": "b3f8892db61f2cb40c5bc14aa2a888de"
+    "revision": "cf1cc4f125aacde0597a59d6a5e1bc06"
   },
   {
     "url": "features/auto-scroll/index.png",
@@ -3756,7 +3756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "443df0ad4cd1730a841e8ad4ae572a2b"
+    "revision": "5f0ecb47a4331f58910a67f8663f4235"
   },
   {
     "url": "sitemap/index.png",
@@ -3820,7 +3820,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-login-into-helperbird/index.html",
-    "revision": "97e189458778eeb96896e9befa5c615e"
+    "revision": "83bf0a80a8c92ce64568a07d6aa7b3bc"
   },
   {
     "url": "support/how-to-login-into-helperbird/index.png",
