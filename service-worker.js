@@ -3804,7 +3804,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/how-to-cancel-my-helperbird-pro-subscription/index.html",
-    "revision": "dc09935f93106c0f9b2d59688e54b1a2"
+    "revision": "68204f3588bbaf95044e31bf7086ad63"
   },
   {
     "url": "support/how-to-cancel-my-helperbird-pro-subscription/index.png",
