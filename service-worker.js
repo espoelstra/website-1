@@ -2628,7 +2628,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "e05cd363496727aadfdf2acb34272884"
+    "revision": "bc2303c42d55cc31f4dac363122a0a22"
   },
   {
     "url": "chrome/index.png",
@@ -2684,7 +2684,7 @@ self.__precacheManifest = [
   },
   {
     "url": "demo/index.html",
-    "revision": "2ce5d2d090f40f55e8896c79442746db"
+    "revision": "0fffa51965f03572e53f9d47157ae8cd"
   },
   {
     "url": "demo/index.png",
@@ -2692,7 +2692,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "df7a8c06bb074096dc5f0e24ab223f9a"
+    "revision": "fba19d87ea760dc1e2991c912bfe3801"
   },
   {
     "url": "edge/index.png",
@@ -2716,7 +2716,7 @@ self.__precacheManifest = [
   },
   {
     "url": "extension/index.html",
-    "revision": "5e58da3855939200e2a248353a511319"
+    "revision": "1f82771777042db68473695b71e3fb62"
   },
   {
     "url": "extension/index.png",
@@ -2868,7 +2868,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/index.html",
-    "revision": "fb9ef8c720a2f27e21a90c8cc51eb1db"
+    "revision": "760c6391fd9a42583253f99e63484631"
   },
   {
     "url": "features/index.png",
@@ -2940,7 +2940,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/reader-mode-for-chrome-and-firefox/index.html",
-    "revision": "ac9a3f5bec4a6064afd86759fa750126"
+    "revision": "71cd5aeaad850d5d929793d1a41c56d0"
   },
   {
     "url": "features/reader-mode-for-chrome-and-firefox/index.png",
@@ -2980,7 +2980,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/specialised-dyslexic-fonts/index.html",
-    "revision": "e959dc8be913e0f86565a8357e0877d3"
+    "revision": "edbd1d41f76a7af1042d22b2339dc1c4"
   },
   {
     "url": "features/specialised-dyslexic-fonts/index.png",
@@ -3068,7 +3068,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "0ad152eb0be5530271c39a9b9b6fc856"
+    "revision": "1e1c5d02f78f1d8b98f95e24ee972cde"
   },
   {
     "url": "firefox/index.png",
@@ -3580,7 +3580,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/index.html",
-    "revision": "9f30c964d14575c98922b8cacec41cf2"
+    "revision": "0da1f6e847be013eb721de0d3402443d"
   },
   {
     "url": "help/index.png",
@@ -3708,7 +3708,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/google-addon/index.html",
-    "revision": "169bc367907a8d99443089817357db4c"
+    "revision": "2ab4abe7e8a20e9bd51d6d65ea277cdc"
   },
   {
     "url": "products/google-addon/index.png",
@@ -3716,7 +3716,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "0e63825597e963fbef4568571e59b8e9"
+    "revision": "40ce499ed0bcb53cbd45ac1cce6fe77f"
   },
   {
     "url": "products/ipad/index.png",
@@ -3756,7 +3756,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "fc0cbca2309fc67a70d4cccddab75f73"
+    "revision": "fa97c09c08c6f80de19b2b6958a0d47f"
   },
   {
     "url": "sitemap/index.png",
