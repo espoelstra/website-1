@@ -2364,7 +2364,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/4-ways-to-be-more-accessible-on-social-media/index.html",
-    "revision": "2553bb5588570308a27a70dad49ee310"
+    "revision": "26d1761e41bca2854ced19b6a6fe3612"
   },
   {
     "url": "blog/4-ways-to-be-more-accessible-on-social-media/index.png",
@@ -2372,7 +2372,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/6-famous-people-with-dyslexia/index.html",
-    "revision": "ade445fca61e7f69c0cf367a57d34185"
+    "revision": "52219315ecc65625201c7e6cb41cda4a"
   },
   {
     "url": "blog/6-famous-people-with-dyslexia/index.png",
@@ -2380,7 +2380,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/accessibility-tips-for-epilepsy/index.html",
-    "revision": "206068f3f9cdf1c69730daa5bc80bfc4"
+    "revision": "76b5821e80f825fdf84e9bbd6bb63f23"
   },
   {
     "url": "blog/accessibility-tips-for-epilepsy/index.png",
@@ -2388,7 +2388,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/benefits-of-ipads-in-the-classroom/index.html",
-    "revision": "fa28f223915dbfbeafbd549552eeb311"
+    "revision": "9f71d454f245dfacd7d7fba77b463c9b"
   },
   {
     "url": "blog/benefits-of-ipads-in-the-classroom/index.png",
@@ -2396,7 +2396,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.html",
-    "revision": "38d1d33f00558e94b8c81e33cd0f1857"
+    "revision": "4e36a795b0ce02db150c22e3959a127f"
   },
   {
     "url": "blog/best-careers-for-people-with-dyslexia/index.png",
@@ -2404,7 +2404,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/giveaway-rules/index.html",
-    "revision": "ba19d87af863c4b9f6376a69409b3d07"
+    "revision": "005e30e3846810bcf0b6f19002cc495e"
   },
   {
     "url": "blog/giveaway-rules/index.png",
@@ -2412,7 +2412,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/helperbirds-winner-of-the-2021-chromebook/index.html",
-    "revision": "364cc4c70c44abd997722b3bc7de8b61"
+    "revision": "0ffd67e5db3c603d15f2e97d43b10bc5"
   },
   {
     "url": "blog/helperbirds-winner-of-the-2021-chromebook/index.png",
@@ -2420,7 +2420,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-add-extensions-to-safari/index.html",
-    "revision": "9237b91a8246c6e913b49f228cbbb0a5"
+    "revision": "b8a8771a0a08f626ecf9c34ec12453e7"
   },
   {
     "url": "blog/how-to-add-extensions-to-safari/index.png",
@@ -2428,7 +2428,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.html",
-    "revision": "0dc62753f5b2649d6236f74a083cb555"
+    "revision": "2bd966dbd888c0be1878d31556ae2dba"
   },
   {
     "url": "blog/how-to-avoid-wfh-burnout-and-maximize-productivity/index.png",
@@ -2436,7 +2436,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-deploy-apps-and-extensions-through-the-google-admin-console/index.html",
-    "revision": "cb0015fb7ce3b320c669daf697f5102f"
+    "revision": "34a6261217c1f2f60b24b0de37efb188"
   },
   {
     "url": "blog/how-to-deploy-apps-and-extensions-through-the-google-admin-console/index.png",
@@ -2444,7 +2444,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-install-and-set-up-helperbird/index.html",
-    "revision": "f3db6ce88dd4981b0fde7a00708b7125"
+    "revision": "b1d1347f868ef1d23216fc415fb0cef0"
   },
   {
     "url": "blog/how-to-install-and-set-up-helperbird/index.png",
@@ -2452,7 +2452,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-install-helperbird-in-edu-accounts/index.html",
-    "revision": "b69079e4f31ae56d616046209f6fca98"
+    "revision": "0a5f2611716a9c6946921685a4b63642"
   },
   {
     "url": "blog/how-to-install-helperbird-in-edu-accounts/index.png",
@@ -2460,7 +2460,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-keep-wfh-employees-engaged-and-motivated/index.html",
-    "revision": "338ab167afe167e3d43fb8b618718346"
+    "revision": "c9d31febb9ffaa273c8d0b24dd9514a4"
   },
   {
     "url": "blog/how-to-keep-wfh-employees-engaged-and-motivated/index.png",
@@ -2468,7 +2468,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/how-to-use-immersive-reader-in-google-docs/index.html",
-    "revision": "2417ae100e175004bef813196f0d2ba0"
+    "revision": "6af5abb6ad73b671fe3347dd31c88226"
   },
   {
     "url": "blog/how-to-use-immersive-reader-in-google-docs/index.png",
@@ -2476,7 +2476,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "a5030af2e7470fdb5069ae6bf5712215"
+    "revision": "724b6c2d54c8d6c3a75c4a3b401cc23b"
   },
   {
     "url": "blog/index.png",
@@ -2484,7 +2484,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.html",
-    "revision": "a8c2391f8e00206054fb1462f42b6508"
+    "revision": "0aa8eb86df71f59b35b73c53768befa3"
   },
   {
     "url": "blog/interview-with-dyslexic-founder-of-helperbird/index.png",
@@ -2492,7 +2492,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/is-helperbird-free/index.html",
-    "revision": "805ada3aa0788b85f2ffef79c862ae6e"
+    "revision": "2a97e270780a05a043b8eee4df02c218"
   },
   {
     "url": "blog/is-helperbird-free/index.png",
@@ -2500,7 +2500,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/is-helperbird-safe/index.html",
-    "revision": "7a4db3eaa47ed6b47a11bf9296c07506"
+    "revision": "2f842cdcca96ebb7cc9b89fd44557184"
   },
   {
     "url": "blog/is-helperbird-safe/index.png",
@@ -2508,7 +2508,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/positive-thoughts-might-benefit-dyslexic-students/index.html",
-    "revision": "3f666a8768d18f43a6fbff77517fb08c"
+    "revision": "8c9093947f1b306f4032c7a0f1647c40"
   },
   {
     "url": "blog/positive-thoughts-might-benefit-dyslexic-students/index.png",
@@ -2516,7 +2516,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia/index.html",
-    "revision": "efe66f09c5e064408d31a068517ea6b5"
+    "revision": "6b98e96d3370d4055f4ab3cd38f2ad74"
   },
   {
     "url": "blog/research-into-web-accessibility-for-dyslexics-and-dyslexia-focused-fonts-such-as-opendyslexia/index.png",
@@ -2524,7 +2524,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/signin/index.html",
-    "revision": "1ad582f7c12060e14583c6f9e8429f27"
+    "revision": "b07c48fc256154562cc174110a12660c"
   },
   {
     "url": "blog/signin/index.png",
@@ -2532,7 +2532,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/stay-on-task-8-productivity-tips-to-help-you-stay-focused-at-work/index.html",
-    "revision": "07a204efe7efd6101be7f98b2a3f098f"
+    "revision": "aa88bf38ee198cc46c21cf2dc84e4ab7"
   },
   {
     "url": "blog/stay-on-task-8-productivity-tips-to-help-you-stay-focused-at-work/index.png",
@@ -2540,7 +2540,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/teacher-appreciation-week-2020-dyslexia-story/index.html",
-    "revision": "38dfc567fa7ea8a8acfeb74ae40d64da"
+    "revision": "44b145d1190ac9b8862dfc69e5281168"
   },
   {
     "url": "blog/teacher-appreciation-week-2020-dyslexia-story/index.png",
@@ -2548,7 +2548,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/thanksgiving-message-from-helperbird/index.html",
-    "revision": "830f5b8f5a1c340ef1c7f0d5bf94b58b"
+    "revision": "4e2b7df2dec47616355e9ae068f12b49"
   },
   {
     "url": "blog/thanksgiving-message-from-helperbird/index.png",
@@ -2556,7 +2556,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.html",
-    "revision": "def5b8dfed04197f28ffac708bd1b65d"
+    "revision": "49fb83b40a68f3349aa96585585e99d2"
   },
   {
     "url": "blog/the-5-must-have-accessibility-tools-for-students-in-2021/index.png",
@@ -2564,7 +2564,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/three-facts-about-dyslexia/index.html",
-    "revision": "f822241a77dc34bd272005846ea5eeb2"
+    "revision": "7f010ec20430127a2d0908fb459067f1"
   },
   {
     "url": "blog/three-facts-about-dyslexia/index.png",
@@ -2572,7 +2572,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/top-5-productivity-microsoft-edge-extensions/index.html",
-    "revision": "46f565e2a1cb918565841768b779b4f6"
+    "revision": "d297f0e396b46b3bbd2507bc852667d9"
   },
   {
     "url": "blog/top-5-productivity-microsoft-edge-extensions/index.png",
@@ -2580,7 +2580,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/top-6-chrome-extensions-for-teachers/index.html",
-    "revision": "74fe51fdac445a0b10b4ccd5bf309caf"
+    "revision": "7c18d29fa78fde905877b2c2d237fb29"
   },
   {
     "url": "blog/top-6-chrome-extensions-for-teachers/index.png",
@@ -2588,7 +2588,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.html",
-    "revision": "9da060099893f5df559b473b12e9f459"
+    "revision": "79694e08d3567e3ab43b151116e495c4"
   },
   {
     "url": "blog/top-five-features-of-helperbird-to-help-your-students-in-2021/index.png",
@@ -2596,7 +2596,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/top-ipad-apps-for-accessibility/index.html",
-    "revision": "6283f615f2a269b8c2e548a4dffc5c19"
+    "revision": "ff6f7eeb308213a8552a7fe8b2fac70b"
   },
   {
     "url": "blog/top-ipad-apps-for-accessibility/index.png",
@@ -2604,7 +2604,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/top-productivity-extensions-for-safari/index.html",
-    "revision": "e66ceea1d880e9b696dc4c315de2a0d8"
+    "revision": "b7603a0ee50d22dff1142576f984d4f5"
   },
   {
     "url": "blog/top-productivity-extensions-for-safari/index.png",
@@ -2612,7 +2612,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/tv-and-movie-characters-with-dyslexia/index.html",
-    "revision": "d73edae3ddcf2d0b68a237fb95b836b7"
+    "revision": "8bf066bbb7deccaa5b054855af7f60db"
   },
   {
     "url": "blog/tv-and-movie-characters-with-dyslexia/index.png",
@@ -2620,7 +2620,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/what-is-coppa-and-ferpa/index.html",
-    "revision": "71f50d30080c0254d0ce84dec208f6a5"
+    "revision": "2da883ebe9df15b1fad7c953fa4f4286"
   },
   {
     "url": "blog/what-is-coppa-and-ferpa/index.png",
@@ -3652,7 +3652,7 @@ self.__precacheManifest = [
   },
   {
     "url": "login/index.html",
-    "revision": "f748bea4a3427b2160c73e18f32b590f"
+    "revision": "f9c4f0bbd5834ee7cea9d340306648e3"
   },
   {
     "url": "login/index.png",
@@ -3676,7 +3676,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/sascharoos/index.html",
-    "revision": "f4fc5dc7415e8703ca07c354db6c4f3b"
+    "revision": "399308f98cd1988e7111460e0a73c99f"
   },
   {
     "url": "partners/sascharoos/index.png",
@@ -3684,7 +3684,7 @@ self.__precacheManifest = [
   },
   {
     "url": "partners/sprialisconsulting/index.html",
-    "revision": "9fee3421d5acf75a1c6043e97a3196b8"
+    "revision": "8288ac6a41a23df2ab1c8d4411dadd08"
   },
   {
     "url": "partners/sprialisconsulting/index.png",
@@ -3700,7 +3700,7 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy/index.html",
-    "revision": "99f04f05b419b65d3277b03e8e55d760"
+    "revision": "6f4b702efbf280ccc233155512d8c3ce"
   },
   {
     "url": "privacy/index.png",
@@ -3724,7 +3724,7 @@ self.__precacheManifest = [
   },
   {
     "url": "refund/index.html",
-    "revision": "e488a82411957074323e38c478596aa5"
+    "revision": "053c0872bc4e805ff3050f73ed471277"
   },
   {
     "url": "refund/index.png",
@@ -3748,7 +3748,7 @@ self.__precacheManifest = [
   },
   {
     "url": "security/index.html",
-    "revision": "45d00e092482eab78372f2cc24fedcf7"
+    "revision": "9783b879664f08e10c713bff0736a733"
   },
   {
     "url": "security/index.png",
