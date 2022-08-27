@@ -244,7 +244,7 @@ function load() {
 
         if (typerElement) {
           this.writer = new (core_default())("#".concat(id), {
-            strings: ['Reader mode', 'Speed reading', 'Dyslexia support', 'text to speech', 'Voice typing', 'Word prediction', 'Text extracting', 'Tooltip reader'],
+            strings: ['Reader mode', 'Dyslexia support', 'Text to speech', 'Voice typing', 'Word prediction', 'Text extracting', 'Speed reading', 'Tooltip reader'],
             autoStart: true,
             loop: true,
             delay: 100
@@ -275,18 +275,20 @@ function load() {
       priceDetails: function priceDetails() {
         switch (this.currency) {
           case 'aud':
-            this.price.yearly.pro = '80.57';
-            this.price.yearly.proLink = 'https://buy.stripe.com/aEUaFl0uMfYM98I9AW';
-            this.price.yearly.unlimited = '1,600';
-            this.price.yearly.unlimitedLink = 'https://buy.stripe.com/bIYbJp0uMaEs0CcaF2';
-            this.price.monthly.pro = '9.39';
-            this.price.monthly.proLink = 'https://buy.stripe.com/8wM4gXa5maEsbgQ9AV';
-            this.price.monthly.unlimited = '134.27';
-            this.price.monthly.unlimitedLink = 'https://buy.stripe.com/8wMcNtdhy8wk2Kk00n';
-            this.price.student = '53.73';
-            this.price.studentLink = 'https://buy.stripe.com/14kdRx6Ta27WdoYaF3';
-            this.price.currency = '$';
-            break;
+            {
+              this.price.yearly.pro = '80.57';
+              this.price.yearly.proLink = 'https://buy.stripe.com/aEUaFl0uMfYM98I9AW';
+              this.price.yearly.unlimited = '1,600';
+              this.price.yearly.unlimitedLink = 'https://buy.stripe.com/bIYbJp0uMaEs0CcaF2';
+              this.price.monthly.pro = '9.39';
+              this.price.monthly.proLink = 'https://buy.stripe.com/8wM4gXa5maEsbgQ9AV';
+              this.price.monthly.unlimited = '134.27';
+              this.price.monthly.unlimitedLink = 'https://buy.stripe.com/8wMcNtdhy8wk2Kk00n';
+              this.price.student = '53.73';
+              this.price.studentLink = 'https://buy.stripe.com/14kdRx6Ta27WdoYaF3';
+              this.price.currency = '$';
+              break;
+            }
 
           case 'usd':
             this.price.yearly.pro = '60.00';

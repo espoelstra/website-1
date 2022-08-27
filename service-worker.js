@@ -383,6 +383,10 @@ self.__precacheManifest = [
     "revision": "8ffeeed950713a10e33aa4539dc0aebf"
   },
   {
+    "url": "assets/images/graph/cognitive-load.png",
+    "revision": "27cde571a334078ac4c6cd81fb57e580"
+  },
+  {
     "url": "assets/images/graph/compare/immersive-reader-vs-helperbird.png",
     "revision": "51ce154324ff9084a971ae24341bc3b8"
   },
@@ -2284,7 +2288,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/core/app.js",
-    "revision": "a098280a40e759894517be888645ed20"
+    "revision": "7ca8bc09634f6ba8bbff094ab5e4c49c"
   },
   {
     "url": "assets/js/core/third-party.js",
@@ -2300,7 +2304,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.bundle.js",
-    "revision": "76cc8d3163088a05c25dd1a2ef08602a"
+    "revision": "d639f96bcfdcb1ca95ee45f0c1e8db3d"
   },
   {
     "url": "assets/js/main.css",
