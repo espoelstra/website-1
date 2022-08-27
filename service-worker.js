@@ -1083,14 +1083,6 @@ self.__precacheManifest = [
     "revision": "7529235b093bd423666257a48979942b"
   },
   {
-    "url": "assets/videos/HBmenu1.png",
-    "revision": "811e05d43e9c331f752dd97e9c271dd1"
-  },
-  {
-    "url": "assets/videos/HBmenu2.png",
-    "revision": "d6fa4c050eacc3df39edfa231363031d"
-  },
-  {
     "url": "blog/4-ways-to-be-more-accessible-on-social-media/index.html",
     "revision": "456b3b63f688a38ef5376b307cc7648d"
   },
@@ -2876,7 +2868,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/30-4-0/index.html",
-    "revision": "dc945d08ef1db97901524494795c81c2"
+    "revision": "e9fbe25cb0cafc9bd7195be568e36f90"
   },
   {
     "url": "updates/30-4-0/index.png",
