@@ -2288,7 +2288,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/core/app.js",
-    "revision": "7ca8bc09634f6ba8bbff094ab5e4c49c"
+    "revision": "132d0e379ccab388db21530342ca5855"
   },
   {
     "url": "assets/js/core/third-party.js",
@@ -2304,7 +2304,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.bundle.js",
-    "revision": "d639f96bcfdcb1ca95ee45f0c1e8db3d"
+    "revision": "e77508f4f8dadacb0c6db082fc1c30c0"
   },
   {
     "url": "assets/js/main.css",
