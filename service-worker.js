@@ -1348,7 +1348,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "7bd531d1f81c25254fc13f3f5f8fe2ce"
+    "revision": "0e27ce50689248f2d213786f9bdbee7a"
   },
   {
     "url": "chrome/index.png",
@@ -1412,7 +1412,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "5a81b1a62df3716d380f244160192282"
+    "revision": "387918fd42dffdfc581780cb5503804b"
   },
   {
     "url": "edge/index.png",
@@ -1436,7 +1436,7 @@ self.__precacheManifest = [
   },
   {
     "url": "extension/index.html",
-    "revision": "2d6f902526d0b123fc0449f0e482ac9c"
+    "revision": "daae3db34dcbfa9e2ca6d1033f60a2b1"
   },
   {
     "url": "extension/index.png",
@@ -1580,7 +1580,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/index.html",
-    "revision": "22779edae01c7bef0c39b0cee79bd8f8"
+    "revision": "4bdfe6c32645fa3d617a30fd06c3c892"
   },
   {
     "url": "features/index.png",
@@ -1708,7 +1708,7 @@ self.__precacheManifest = [
   },
   {
     "url": "features/speed-reading-extension/index.html",
-    "revision": "ecf4cb87ca913826ae288933e041f876"
+    "revision": "21d7460337bcd00a49d1a1eb6c7a9e37"
   },
   {
     "url": "features/speed-reading-extension/index.png",
@@ -1780,7 +1780,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "149011533917c2743281e31af01037e0"
+    "revision": "4318d35a0f5c92603565834acb904482"
   },
   {
     "url": "firefox/index.png",
@@ -2348,7 +2348,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "df2b0f64ac9f10299e04f039af585910"
+    "revision": "3b2a6c4aa817d504f9d982148ad9b33a"
   },
   {
     "url": "index.png",
@@ -2420,7 +2420,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "c3cb49811593432a09f78d0327e44ff0"
+    "revision": "4b4400b1cf843b25eab355ec2250f483"
   },
   {
     "url": "products/ipad/index.png",
