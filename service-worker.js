@@ -1868,7 +1868,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-change-my-email/index.html",
-    "revision": "7db1c20e43b8c0704234e4d1ecc0d926"
+    "revision": "03ff36269cadc1c4519912ed8c103f7b"
   },
   {
     "url": "help/how-to-change-my-email/index.png",
