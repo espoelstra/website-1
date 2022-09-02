@@ -1059,6 +1059,54 @@ self.__precacheManifest = [
     "revision": "55621631ec453de7c64e2f249f4fff4b"
   },
   {
+    "url": "assets/images/updates/robin/accessibility.png",
+    "revision": "6ca2bbdc3905725581b165881a8c4278"
+  },
+  {
+    "url": "assets/images/updates/robin/colors-paragraphs.png",
+    "revision": "8b65ea7aa67f6eee5a6ec3676228c201"
+  },
+  {
+    "url": "assets/images/updates/robin/colors.png",
+    "revision": "46cf0558a6e3489aeb2ed32f2f9e6004"
+  },
+  {
+    "url": "assets/images/updates/robin/favioute.png",
+    "revision": "0f37613162c5ccd284a292aaaf52e85b"
+  },
+  {
+    "url": "assets/images/updates/robin/notes.png",
+    "revision": "68f361967a160cc3b3a6cd1bb8444c2a"
+  },
+  {
+    "url": "assets/images/updates/robin/paragraphs.png",
+    "revision": "5bfac9e5a80ffcac27909f253301226a"
+  },
+  {
+    "url": "assets/images/updates/robin/phonics.png",
+    "revision": "fa2ad336604b9453f286224e0d21bd37"
+  },
+  {
+    "url": "assets/images/updates/robin/readers.png",
+    "revision": "fc6d5a0ddc4259c26f27fbffbb5eb005"
+  },
+  {
+    "url": "assets/images/updates/robin/rulers.png",
+    "revision": "52f913cee83420ec378593cbae4d85e0"
+  },
+  {
+    "url": "assets/images/updates/robin/search.png",
+    "revision": "7636d6660d85de257f4bcd03a53af33b"
+  },
+  {
+    "url": "assets/images/updates/robin/speed.png",
+    "revision": "3a97b691c24ece19ba597c2a737056ce"
+  },
+  {
+    "url": "assets/images/updates/robin/videos.png",
+    "revision": "55621631ec453de7c64e2f249f4fff4b"
+  },
+  {
     "url": "assets/js/core/app.js",
     "revision": "132d0e379ccab388db21530342ca5855"
   },
@@ -1080,7 +1128,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/js/main.css",
-    "revision": "7287252ce7c3ccb4bbf8d874f8a6c0c2"
+    "revision": "85581423b4e4897d44fdbef4f0bc1fb4"
   },
   {
     "url": "blog/4-ways-to-be-more-accessible-on-social-media/index.html",
@@ -1196,7 +1244,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "20d0426752621bc847c7dff368fe4dbc"
+    "revision": "3da7663051b5286779185b3a32f427c3"
   },
   {
     "url": "blog/index.png",
@@ -1356,7 +1404,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
-    "revision": "b52169460021b7e6f5e1616bf70c089d"
+    "revision": "b8ab3851670531f7424619cd9812a41f"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.png",
@@ -1372,7 +1420,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/read-and-write-alternative/index.html",
-    "revision": "131a23b0ce9bc689c618a821ae13156d"
+    "revision": "be72c9adaa52e19ff3bad3913804b7f4"
   },
   {
     "url": "compare/read-and-write-alternative/index.png",
@@ -1380,7 +1428,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/snap-and-read-alternative/index.html",
-    "revision": "60de3849450d9028a789b190a139f0c0"
+    "revision": "4c142d1afc1ef2dec44cda4e4780e8dc"
   },
   {
     "url": "compare/snap-and-read-alternative/index.png",
@@ -1868,7 +1916,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-change-my-email/index.html",
-    "revision": "03ff36269cadc1c4519912ed8c103f7b"
+    "revision": "7db1c20e43b8c0704234e4d1ecc0d926"
   },
   {
     "url": "help/how-to-change-my-email/index.png",
@@ -2468,7 +2516,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "a22e779bd8a71fdcbbe1f8e836a366c8"
+    "revision": "bdd97ef89dfc619d7cc5e1d76f9ea95f"
   },
   {
     "url": "sitemap/index.png",
@@ -2731,6 +2779,14 @@ self.__precacheManifest = [
     "revision": "d5ff1f28d9234083debd0328da594199"
   },
   {
+    "url": "updates/102-0-0/index.html",
+    "revision": "3432d2e4438656151443aca15bba03f0"
+  },
+  {
+    "url": "updates/102-0-0/index.png",
+    "revision": "56ee25dd68af95068b4177feffc8a0c0"
+  },
+  {
     "url": "updates/24-1-0/index.html",
     "revision": "f519e36a3218da248c8e6d2da5c7d183"
   },
@@ -2852,7 +2908,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/30-0-0/index.html",
-    "revision": "28f58c04d2cadc38b1bd3b8adfe7122a"
+    "revision": "e6a8c079e0dac298169606392f83669e"
   },
   {
     "url": "updates/30-0-0/index.png",
@@ -2860,7 +2916,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/30-2-0/index.html",
-    "revision": "9243eb95a645bd1b3fc62b05a742be36"
+    "revision": "0337b93d17b47583735ba319a43f24ac"
   },
   {
     "url": "updates/30-2-0/index.png",
@@ -2868,7 +2924,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/30-3-0/index.html",
-    "revision": "b8a81500a182612954960530636c5812"
+    "revision": "9466d04a3f311c6a55f41a426bbca798"
   },
   {
     "url": "updates/30-3-0/index.png",
@@ -3180,7 +3236,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "84189bb585b75cb592aadcce5664a7e5"
+    "revision": "c1a610054709b290f68626ca51f3960b"
   },
   {
     "url": "updates/index.png",
