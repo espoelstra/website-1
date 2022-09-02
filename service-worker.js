@@ -2516,7 +2516,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "bdd97ef89dfc619d7cc5e1d76f9ea95f"
+    "revision": "95ee849a539f99dc78352ebaaf4d8e83"
   },
   {
     "url": "sitemap/index.png",
@@ -2777,14 +2777,6 @@ self.__precacheManifest = [
   {
     "url": "updates/101-5-1/index.png",
     "revision": "d5ff1f28d9234083debd0328da594199"
-  },
-  {
-    "url": "updates/102-0-0/index.html",
-    "revision": "3432d2e4438656151443aca15bba03f0"
-  },
-  {
-    "url": "updates/102-0-0/index.png",
-    "revision": "56ee25dd68af95068b4177feffc8a0c0"
   },
   {
     "url": "updates/24-1-0/index.html",
@@ -3236,7 +3228,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "c1a610054709b290f68626ca51f3960b"
+    "revision": "01da2a835d5ab4c55272dd412831f099"
   },
   {
     "url": "updates/index.png",
@@ -3249,6 +3241,14 @@ self.__precacheManifest = [
   {
     "url": "updates/kingfisher/index.png",
     "revision": "d5ff1f28d9234083debd0328da594199"
+  },
+  {
+    "url": "updates/robin/index.html",
+    "revision": "6a495ba6eaca761d73b5d506a8c6cd0c"
+  },
+  {
+    "url": "updates/robin/index.png",
+    "revision": "56ee25dd68af95068b4177feffc8a0c0"
   },
   {
     "url": "welcome/index.html",
