@@ -691,6 +691,10 @@ self.__precacheManifest = [
     "revision": "35e8ee54668988ecaa7fd3703f8efd20"
   },
   {
+    "url": "assets/images/recommends/opendyslexic.png",
+    "revision": "8ec57967aa14551811cd3c6d646ffe51"
+  },
+  {
     "url": "assets/images/recommends/toucan.png",
     "revision": "9013fe472377b762b50104bb74c95cbb"
   },
@@ -2504,7 +2508,7 @@ self.__precacheManifest = [
   },
   {
     "url": "recommends/index.html",
-    "revision": "5ba02f3c33c2b274715260f340ddb384"
+    "revision": "2c64a067f1cb74e92cc71c600adb814e"
   },
   {
     "url": "recommends/index.png",
