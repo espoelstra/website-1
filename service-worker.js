@@ -1456,7 +1456,7 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "81fe9b8dba376c45d6a6c370250b0f70"
+    "revision": "03838913fc5d80f8ff9c620eabe839b2"
   },
   {
     "url": "contact/index.png",
@@ -2504,7 +2504,7 @@ self.__precacheManifest = [
   },
   {
     "url": "recommends/index.html",
-    "revision": "a2e3782212b98c028e572d82e7387798"
+    "revision": "5ba02f3c33c2b274715260f340ddb384"
   },
   {
     "url": "recommends/index.png",
@@ -2648,7 +2648,7 @@ self.__precacheManifest = [
   },
   {
     "url": "support/index.html",
-    "revision": "80386f4faa4ad88db039bb87e11d58c3"
+    "revision": "13bd42881641d7aba5891e90e308f4f3"
   },
   {
     "url": "support/index.png",
