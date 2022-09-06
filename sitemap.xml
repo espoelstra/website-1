@@ -1178,6 +1178,13 @@
     </url>
   
     <url>
+      <loc>https://www.helperbird.com/recommends/</loc>
+      <lastmod>2022-09-06</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.helperbird.com/refund/</loc>
       <lastmod>2022-09-06</lastmod>
       <changefreq>monthly</changefreq>
