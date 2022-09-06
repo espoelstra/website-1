@@ -683,15 +683,15 @@ self.__precacheManifest = [
     "revision": "f6f3b6a69cf6cead4e27ae79547fd51e"
   },
   {
-    "url": "assets/images/reccomends/beeline.png",
+    "url": "assets/images/recommends/beeline.png",
     "revision": "477131dcbe1e63a6b95a829a7b13adaa"
   },
   {
-    "url": "assets/images/reccomends/beeline.webp",
+    "url": "assets/images/recommends/beeline.webp",
     "revision": "35e8ee54668988ecaa7fd3703f8efd20"
   },
   {
-    "url": "assets/images/reccomends/toucan.png",
+    "url": "assets/images/recommends/toucan.png",
     "revision": "9013fe472377b762b50104bb74c95cbb"
   },
   {
@@ -2504,7 +2504,7 @@ self.__precacheManifest = [
   },
   {
     "url": "recommends/index.html",
-    "revision": "84beef4e2ad0c6447905fae4d39cffed"
+    "revision": "a2e3782212b98c028e572d82e7387798"
   },
   {
     "url": "recommends/index.png",
