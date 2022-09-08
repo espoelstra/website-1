@@ -692,11 +692,19 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/recommends/educhange.png",
-    "revision": "d2aebb095540653fd05985db1740b5bc"
+    "revision": "b253ec104e331f92177a1f37bfadc7a9"
+  },
+  {
+    "url": "assets/images/recommends/lexend.png",
+    "revision": "abf6123be89456336df26e30d504540f"
   },
   {
     "url": "assets/images/recommends/opendyslexic.png",
-    "revision": "8ec57967aa14551811cd3c6d646ffe51"
+    "revision": "5c2d185bd241111e5e64610ec4938b05"
+  },
+  {
+    "url": "assets/images/recommends/toucan (1).png",
+    "revision": "9013fe472377b762b50104bb74c95cbb"
   },
   {
     "url": "assets/images/recommends/toucan.png",
@@ -1264,7 +1272,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "1fc531326176b518495701ed97f218ec"
+    "revision": "649520c5f31d72cf485b4708d532b7b6"
   },
   {
     "url": "blog/index.png",
@@ -2512,7 +2520,7 @@ self.__precacheManifest = [
   },
   {
     "url": "recommends/index.html",
-    "revision": "3542ce570b9bb478cb48b982a6fd2191"
+    "revision": "e8ab9c4176af8345914320ca17373ac5"
   },
   {
     "url": "recommends/index.png",
