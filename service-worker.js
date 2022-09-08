@@ -691,6 +691,10 @@ self.__precacheManifest = [
     "revision": "35e8ee54668988ecaa7fd3703f8efd20"
   },
   {
+    "url": "assets/images/recommends/educhange.png",
+    "revision": "d2aebb095540653fd05985db1740b5bc"
+  },
+  {
     "url": "assets/images/recommends/opendyslexic.png",
     "revision": "8ec57967aa14551811cd3c6d646ffe51"
   },
@@ -1260,7 +1264,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "d1c6649c678b6a393be71d8b51cc4a25"
+    "revision": "1fc531326176b518495701ed97f218ec"
   },
   {
     "url": "blog/index.png",
@@ -2508,7 +2512,7 @@ self.__precacheManifest = [
   },
   {
     "url": "recommends/index.html",
-    "revision": "d944c2a1c3229cb3891aadfa2f4886e8"
+    "revision": "3542ce570b9bb478cb48b982a6fd2191"
   },
   {
     "url": "recommends/index.png",
