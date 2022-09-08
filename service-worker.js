@@ -692,7 +692,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/recommends/educhange.png",
-    "revision": "b253ec104e331f92177a1f37bfadc7a9"
+    "revision": "e7858a673e582198b5682013187b34a4"
   },
   {
     "url": "assets/images/recommends/lexend.png",
