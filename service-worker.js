@@ -2520,7 +2520,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pricing/index.html",
-    "revision": "815a2b4236b2f4287d0ea2c7a435119e"
+    "revision": "d7914c80a76bd1ec85dcc97d73227aa6"
   },
   {
     "url": "pricing/index.png",
