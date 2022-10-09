@@ -1456,7 +1456,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chrome/index.html",
-    "revision": "ad7096003b0b67445c53dec758f94d72"
+    "revision": "b6d6b5532ab76aa3a14fae846b5d1ed0"
   },
   {
     "url": "chrome/index.png",
@@ -1512,7 +1512,7 @@ self.__precacheManifest = [
   },
   {
     "url": "edge/index.html",
-    "revision": "8f78fea7c7a3c0e98e0c214a733e7b61"
+    "revision": "e7179f49a42fcf43aa3c479f11c7d1e5"
   },
   {
     "url": "edge/index.png",
@@ -1536,7 +1536,7 @@ self.__precacheManifest = [
   },
   {
     "url": "extension/index.html",
-    "revision": "8f1b7b7b598739d13344767a08d5cca8"
+    "revision": "76b8d01251ff44e562c9d0e38a7ed622"
   },
   {
     "url": "extension/index.png",
@@ -1880,7 +1880,7 @@ self.__precacheManifest = [
   },
   {
     "url": "firefox/index.html",
-    "revision": "07e6a226bb24b271b925e94e58445a8e"
+    "revision": "082377c3804512462120c773f985e4ce"
   },
   {
     "url": "firefox/index.png",
@@ -2464,7 +2464,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2ec4afe4be19eaf9c75702dc438fc1f9"
+    "revision": "5ca2d28bd1565c17ceb9668eece7de35"
   },
   {
     "url": "index.png",
@@ -2544,7 +2544,7 @@ self.__precacheManifest = [
   },
   {
     "url": "products/ipad/index.html",
-    "revision": "bef480d302d5b05c49ce37a543134c5d"
+    "revision": "2a28b842d8b77e4b84a10b8d237600af"
   },
   {
     "url": "products/ipad/index.png",
@@ -3304,7 +3304,7 @@ self.__precacheManifest = [
   },
   {
     "url": "updates/index.html",
-    "revision": "08bf168013c0b03cd622523004c18111"
+    "revision": "37c9f1939b7911fe560d8708efb4d006"
   },
   {
     "url": "updates/index.png",
