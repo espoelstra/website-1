@@ -1464,7 +1464,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.html",
-    "revision": "ff62063df94f652a02d24850315d4104"
+    "revision": "3d7fad57e86957b85c8b47cbf8636516"
   },
   {
     "url": "compare/immersive-reader-by-microsoft-alternative/index.png",
@@ -1472,7 +1472,7 @@ self.__precacheManifest = [
   },
   {
     "url": "compare/index.html",
-    "revision": "5d2843255f4275e471d3f06292880186"
+    "revision": "a71095a4742d3d98ba312e4f86b81185"
   },
   {
     "url": "compare/index.png",
@@ -2328,7 +2328,7 @@ self.__precacheManifest = [
   },
   {
     "url": "help/how-to-use-immersive-reader-on-any-website/index.html",
-    "revision": "fa44c56a653b166aa77d52c70e7e4dc2"
+    "revision": "a840012f97c6022790c85f0a24875e9b"
   },
   {
     "url": "help/how-to-use-immersive-reader-on-any-website/index.png",
@@ -2592,7 +2592,7 @@ self.__precacheManifest = [
   },
   {
     "url": "sitemap/index.html",
-    "revision": "a9447940a9680c2e7eda55a4fe146967"
+    "revision": "98e127bf7cc61d966f8dd08e74ae8486"
   },
   {
     "url": "sitemap/index.png",
